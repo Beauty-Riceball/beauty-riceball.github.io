@@ -14,7 +14,8 @@ nav:
   - 语言: 
     - LANGUAGE/index.md
     - 英语:
-      - 雅思: LANGUAGE/English/IELTS.md
+      - 剑桥雅思9: LANGUAGE/English/Cambrige IELTS 9.md
+      - 剑桥雅思12: LANGUAGE/English/Cambrige IELTS 12.md
   - 技能:
     - SKILL/index.md
     - Markdown:
