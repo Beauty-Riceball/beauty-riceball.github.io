@@ -170,7 +170,65 @@ In conclusion, while the **advantages of open information sharing** can signific
 
 ### test1
 
-#### *At the present time, the population of some countries includes a relatively large number of young adults, compared with the number of older people. Do the advantages of this situation outweigh the disadvantages?*
+!!! note "Question"
+*Some people believe that it is good to share as much information as possible in scientific research, business and the academic world. Others believe that some information is too important or too valuable to be shared freely. Discuss both these views and give your own opinion.*
+
+**类型：** 讨论型（Discussion Type）
+
+**提纲：**
+
+1. **引言**
+   - 引入话题
+   - 简要概述两种观点
+2. **主体段落 1**
+   - 支持广泛分享信息的观点
+   - 理由与例子
+3. **主体段落 2**
+   - 支持限制信息分享的观点
+   - 理由与例子
+4. **结论**
+   - 表达个人观点并总结
+
+**Essay:**
+
+The debate over whether **open information sharing** in scientific, business, and academic fields is beneficial or whether certain information should remain restricted is highly polarized. **On one hand**, some advocate for **transparency** and **collaboration** as means to **accelerate innovation**. **On the other hand**, others argue that **proprietary** and **sensitive information** must be protected to maintain **competitive advantage** and **national security**.
+
+Supporters of extensive information sharing contend that **free access to data** fosters **collective progress** and **breakthrough discoveries**. For instance, in the scientific community, sharing research findings can lead to **rapid advancements** and **interdisciplinary collaborations** that drive innovation forward.
+
+Conversely, proponents of restricted information assert that **guarding critical data** is essential to prevent **misuse** and **protect intellectual property**. In the business sector, companies invest heavily in **proprietary technologies** to maintain their **market position** and ensure **long-term profitability**.
+
+**Conclusion**
+
+In conclusion, while the **advantages of open information sharing** can significantly propel innovation and collective progress, I believe that certain information must remain protected to safeguard competitive and security interests.
+
+**注释：**
+
+- **open information sharing** /ˈəʊpən ˌɪnfəˈmeɪʃən ˈʃɛərɪŋ/: 开放的信息共享
+- **transparency** /trænsˈpærənsi/: 透明度
+- **collaboration** /kəˌlæbəˈreɪʃən/: 合作
+- **accelerate innovation** /əkˈsɛləreɪt ˌɪnəˈveɪʃən/: 加速创新
+- **proprietary** /prəˈpraɪətəri/: 专有的
+- **sensitive information** /ˈsɛnsɪtɪv ˌɪnfəˈmeɪʃən/: 敏感信息
+- **competitive advantage** /kəmˈpɛtɪtɪv ædˈvɑːntɪdʒ/: 竞争优势
+- **national security** /ˈnæʃənl sɪˈkjʊərɪti/: 国家安全
+- **free access to data** /friː ˈæksɛs tə ˈdeɪtə/: 免费获取数据
+- **collective progress** /kəˈlɛktɪv ˈprəʊgrɛs/: 集体进步
+- **breakthrough discoveries** /ˈbreɪkθruː dɪˈskʌvəriz/: 突破性发现
+- **rapid advancements** /ˈræpɪd ədˈvɑːnsmənts/: 快速进展
+- **interdisciplinary collaborations** /ˌɪntərˌdɪsəˈplɪnəri kəˌlæbəˈreɪʃənz/: 跨学科合作
+- **guarding critical data** /ˈɡɑːdɪŋ ˈkrɪtɪkəl ˈdeɪtə/: 保护关键数据
+- **misuse** /ˌmɪsˈjuːz/: 滥用
+- **protect intellectual property** /prəˈtɛkt ˌɪntəˈlɛktʃuəl ˈprɒpətɪ/: 保护知识产权
+- **proprietary technologies** /prəˈpraɪətəri tɛkˈnɒlədʒiz/: 专有技术
+- **market position** /ˈmɑːkɪt pəˈzɪʃən/: 市场地位
+- **long-term profitability** /ˌlɒŋˈtɜːm ˌprɒfɪtəˈbɪləti/: 长期盈利能力
+- **advantages of open information sharing** /ˈædvənˌteɪdʒɪz əv ˈəʊpən ˌɪnfəˈmeɪʃən ˈʃɛərɪŋ/: 开放信息共享的优势
+
+
+### test2
+
+!!! note "Question"
+*At the present time, the population of some countries includes a relatively large number of young adults, compared with the number of older people. Do the advantages of this situation outweigh the disadvantages?*
 
 **类型：** 讨论型（Discussion Type）
 
@@ -200,31 +258,33 @@ In summary, while a youthful population can significantly **boost economic growt
 
 **注释：**
 
-- **youth-dominated population**: 青年主导的人口
-- **significant advantages**: 重要的优势
-- **notable disadvantages**: 显著的劣势
-- **stimulate economic growth**: 刺激经济增长
-- **enhance innovation**: 提升创新
-- **young populations**: 年轻人口
-- **dynamic workforce**: 动态劳动力
-- **technological advancements**: 技术进步
-- **entrepreneurial ventures**: 创业风险
-- **significant challenges**: 重大挑战
-- **increased pressure on social services**: 对社会服务的压力增加
-- **potential labor shortages**: 潜在的劳动力短缺
-- **healthcare and pension systems**: 医疗保健和养老金体系
-- **government budgets**: 政府预算
-- **reduced labor force**: 劳动力减少
-- **economic stability**: 经济稳定
-- **boost economic growth**: 促进经济增长
-- **foster innovation**: 促进创新
-- **advantages**: 优势
-- **disadvantages**: 劣势
+- **youth-dominated population** /juːθ dɒˈmɪneɪtɪd ˌpɒpjʊˈleɪʃən/: 青年主导的人口
+- **significant advantages** /sɪɡˈnɪfɪkənt ədˈvɑːntɪdʒɪz/: 重要的优势
+- **notable disadvantages** /ˈnəʊtəbl dɪsədˈvɑːntɪdʒɪz/: 显著的劣势
+- **stimulate economic growth** /ˈstɪmjʊleɪt ɪˈkɒnəmɪk ɡrəʊθ/: 刺激经济增长
+- **enhance innovation** /ɪnˈhɑːns ˌɪnəˈveɪʃən/: 提升创新
+- **young populations** /jʌŋ pɒpjʊˈleɪʃənz/: 年轻人口
+- **dynamic workforce** /daɪˈnæmɪk ˈwɜːkfɔːs/: 动态劳动力
+- **technological advancements** /ˌtɛknəˈlɒdʒɪkl ədˈvɑːnsmənts/: 技术进步
+- **entrepreneurial ventures** /ˌɒntrəprəˈnɜːriəl ˈvɛntʃəz/: 创业风险
+- **significant challenges** /sɪɡˈnɪfɪkənt ˈtʃælɪndʒɪz/: 重大挑战
+- **increased pressure on social services** /ɪnˈkriːst ˈprɛʃər ɒn ˈsəʊʃəl ˈsɜːvɪsɪz/: 对社会服务的压力增加
+- **potential labor shortages** /pəˈtɛnʃəl ˈleɪbər ˈʃɔːtɪdʒɪz/: 潜在的劳动力短缺
+- **healthcare and pension systems** /ˈhɛlθkeər ænd ˈpɛnʃən ˈsɪstəmz/: 医疗保健和养老金体系
+- **government budgets** /ˈɡʌvənmənt ˈbʌdʒɪts/: 政府预算
+- **reduced labor force** /rɪˈdjuːst ˈleɪbər fɔːs/: 劳动力减少
+- **economic stability** /ˌiːkəˈnɒmɪk stəˈbɪlɪti/: 经济稳定
+- **boost economic growth** /buːst ɪˈkɒnəmɪk ɡrəʊθ/: 促进经济增长
+- **foster innovation** /ˈfɒstər ˌɪnəˈveɪʃən/: 促进创新
+- **advantages** /ədˈvɑːntɪdʒɪz/: 优势
+- **disadvantages** /ˌdɪsədˈvɑːntɪdʒɪz/: 劣势
+
 
 
 ### test3
 
-*In a number of countries, some people think it is necessary to spend large sums of money on constructing new railway lines for very fast trains between cities. Others believe the money should be spent on improving existing public transport. Discuss both these views and give your own opinion.*
+!!! note "Question"
+*Some people believe that allowing children to make their own choices on everyday matters (such as food, clothes and entertainment) is likely to result in a society of individuals who only think about their own wishes. Other people believe that it is important for children to make decisions about matters that affect them. Discuss both these views and give your own opinion.*
 
 **类型：** 讨论型（Discussion Type）
 
@@ -234,98 +294,51 @@ In summary, while a youthful population can significantly **boost economic growt
    - 引入话题
    - 简要概述两种观点
 2. **主体段落 1**
-   - 支持建设高速铁路的观点
+   - 支持限制儿童自主选择的观点
    - 理由与例子
 3. **主体段落 2**
-   - 支持改善现有公共交通的观点
+   - 支持儿童自主决策的观点
    - 理由与例子
 4. **结论**
    - 表达个人观点并总结
 
 **Essay:**
 
-The allocation of substantial financial resources to **constructing high-speed railway lines** versus **enhancing existing public transport systems** is a topic of considerable debate in many nations. **Proponents** of new high-speed rail argue that such infrastructure can **significantly reduce travel time** and **boost economic connectivity**, thereby **facilitating regional development**.
+The extent to which **children should be permitted** to **make their own choices** in daily matters is a subject of considerable debate. **On one side**, some argue that excessive **autonomy** can lead to **self-centeredness** and a lack of **social responsibility**, fostering individuals who prioritize their own desires over communal well-being.
 
-**Conversely**, those advocating for **improving existing public transport** emphasize the **immediate benefits** such as **increased accessibility** and **reduced congestion** in urban areas. They argue that **upgrading current systems** can lead to **improved efficiency** and **enhanced user satisfaction**.
+**Conversely**, others maintain that allowing children to **exercise decision-making** in matters that affect them is crucial for their **personal development** and **autonomy**. This empowerment can **build confidence** and **promote critical thinking**, enabling children to become **responsible adults** who can contribute positively to society.
 
-**In my opinion**, while the development of high-speed rail can offer substantial long-term benefits, **prioritizing improvements to existing public transport** is more pragmatic. **Enhancing current systems** not only **addresses immediate urban challenges** but also **lays a stronger foundation** for sustainable future growth by **optimizing resources**.
+**In my view**, a balanced approach is essential. While granting children the freedom to make choices fosters **independence** and **critical thinking skills**, it is equally important to **guide** and **mentor** them to understand the **consequences** of their decisions. This ensures that children develop into **well-rounded individuals** who can balance personal desires with social responsibilities.
 
 **Conclusion**
 
-Ultimately, although constructing new high-speed railway lines presents enticing prospects for long-term economic and regional development, **improving existing public transport** provides more **immediate and practical benefits** for the populace, making it the preferable investment choice.
+Ultimately, while allowing children to make their own choices is vital for their **personal growth**, it is important to provide appropriate **guidance** to prevent the emergence of **self-centered** individuals, thereby fostering a harmonious society.
 
 **注释：**
 
-- **constructing high-speed railway lines**: 建设高速铁路线路
-- **enhancing existing public transport systems**: 改善现有公共交通系统
-- **proponents**: 支持者
-- **significantly reduce travel time**: 显著减少旅行时间
-- **boost economic connectivity**: 提升经济连通性
-- **facilitating regional development**: 促进区域发展
-- **immediate benefits**: 立即的好处
-- **increased accessibility**: 提高可达性
-- **reduced congestion**: 减少拥堵
-- **upgrading current systems**: 升级现有系统
-- **improved efficiency**: 提高效率
-- **enhanced user satisfaction**: 提升用户满意度
-- **prioritizing improvements to existing public transport**: 优先改善现有公共交通
-- **addresses immediate urban challenges**: 应对紧迫的城市挑战
-- **lays a stronger foundation**: 奠定更坚实的基础
-- **optimizing resources**: 优化资源
-- **immediate and practical benefits**: 立即且实用的好处
+- **children should be permitted** /ˈtɛntʃuː ʃʊd bi pərˈmɪtɪd/: 应允许儿童
+- **make their own choices** /meɪk ðɛə əʊn ˈtʃɔɪsɪz/: 做出自己的选择
+- **autonomy** /ɔːˈtɒnəmi/: 自主权
+- **self-centeredness** /ˌsɛlfˈsɛntədnɪs/: 自我中心
+- **social responsibility** /ˈsəʊʃəl rɪˌspɒnsəˈbɪləti/: 社会责任
+- **exercise decision-making** /ˌɛksəsaɪz dɪˈsɪʒənˌmeɪkɪŋ/: 行使决策能力
+- **personal development** /ˈpɜːsənl dɪˈvɛləpmənt/: 个人发展
+- **autonomy** /ɔːˈtɒnəmi/: 自主权
+- **build confidence** /bɪld ˈkɒnfɪdəns/: 建立信心
+- **promote critical thinking** /prəˈməʊt ˈkrɪtɪkəl ˈθɪŋkɪŋ/: 促进批判性思维
+- **responsible adults** /rɪˈspɒnsəbl ˈædʌlts/: 负责任的成年人
+- **independence** /ˌɪndɪˈpɛndəns/: 独立
+- **critical thinking skills** /ˈkrɪtɪkəl ˈθɪŋkɪŋ skɪlz/: 批判性思维能力
+- **guide** /ɡaɪd/: 指导
+- **mentor** /ˈmɛntɔːr/: 导师
+- **consequences** /ˈkɒnsɪkwənsɪz/: 后果
+- **well-rounded individuals** /wɛlˈraʊndɪd ˌɪndɪˈvɪdʒuəlz/: 全面发展的个人
+- **personal growth** /ˈpɜːsənl ɡrəʊθ/: 个人成长
+- **guidance** /ˈɡaɪdɪns/: 指导
+- **self-centered** /ˌsɛlfˈsɛntəd/: 自我中心
 
 
 
 ### test4
 
- *Some people believe that allowing children to make their own choices on everyday matters (such as food, clothes and entertainment) is likely to result in a society of individuals who only think about their own wishes. Other people believe that it is important for children to make decisions about matters that affect them. Discuss both these views and give your own opinion.（Discussion Type）*
 
-**提纲：**
-
-1. **引言**
-    1. 引入话题
-    2. 简要概述两种观点
-2. **主体段落 1**
-    1. 支持限制儿童自主选择的观点
-    2. 理由与例子
-3. **主体段落 2**
-    1. 支持儿童自主决策的观点
-    2. 理由与例子
-4. **结论**
-    1. 表达个人观点并总结
-
-!!! note "Essay:"
-    The extent to which **children should be permitted** to **make their own choices** in daily matters is a subject of considerable debate. **On one side**, some argue that excessive **autonomy** can lead to **self-centeredness** and a lack of **social responsibility**, fostering individuals who prioritize their own desires over communal well-being.
-
-    **Conversely**, others maintain that allowing children to **exercise decision-making** in matters that affect them is crucial for their **personal development** and **autonomy**. This empowerment can **build confidence** and **promote critical thinking**, enabling children to become **responsible adults** who can contribute positively to society.
-
-    **In my view**, a balanced approach is essential. While granting children the freedom to make choices fosters **independence** and **critical thinking skills**, it is equally important to **guide** and **mentor** them to understand the **consequences** of their decisions. This ensures that children develop into **well-rounded individuals** who can balance personal desires with social responsibilities.
-
-    **Conclusion**
-
-    Ultimately, while allowing children to make their own choices is vital for their **personal growth**, it is important to provide appropriate **guidance** to prevent the emergence of **self-centered** individuals, thereby fostering a harmonious society.
-
-
-
-**注释：**
-
-- **children should be permitted**: 应允许儿童
-- **make their own choices**: 做出自己的选择
-- **autonomy**: 自主权
-- **self-centeredness**: 自我中心
-- **social responsibility**: 社会责任
-- **exercise decision-making**: 行使决策能力
-- **personal development**: 个人发展
-- **autonomy**: 自主权
-- **build confidence**: 建立信心
-- **promote critical thinking**: 促进批判性思维
-- **responsible adults**: 负责任的成年人
-- **independence**: 独立
-- **critical thinking skills**: 批判性思维能力
-- **guide**: 指导
-- **mentor**: 导师
-- **consequences**: 后果
-- **well-rounded individuals**: 全面发展的个人
-- **personal growth**: 个人成长
-- **guidance**: 指导
-- **self-centered**: 自我中心
