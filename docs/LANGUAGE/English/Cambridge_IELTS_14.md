@@ -7,7 +7,7 @@
 
 ### Essay 1
 
-!!! note "Question\n
+!!! note "Question
 *Some people believe that it is best to accept a bad situation, such as an unsatisfactory job or shortage of money, while others argue that it is better to try and improve such situations. Discuss both these views and give your own opinion.*"
 
 **类型：** 讨论型（Discussion Type）
