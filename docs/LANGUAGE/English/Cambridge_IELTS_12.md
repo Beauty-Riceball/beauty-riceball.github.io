@@ -1,6 +1,6 @@
-## Cambridge English IELTS 12
+# Cambridge English IELTS 12
 
-### Speaking
+## Speaking
 
 1. **indulge myself with** /ɪnˈdʌldʒ maɪˈsɛlf wɪð/: 放纵自己于；尽情享受
 2. **a health freak** /ə hɛlθ friːk/: 健康狂热者；非常注重健康的人
@@ -109,9 +109,11 @@
 40. **generic brands** /dʒəˈnɛrɪk brændz/: 通用品牌
 41. **invest in** /ɪnˈvɛst ɪn/: 投资于
 
+## Writing
 
+### test1
 
-### *Some people believe that it is good to share as much information as possible in scientific research, business and the academic world. Others believe that some information is too important or too valuable to be shared freely. Discuss both these views and give your own opinion.*
+#### *Some people believe that it is good to share as much information as possible in scientific research, business and the academic world. Others believe that some information is too important or too valuable to be shared freely. Discuss both these views and give your own opinion.*
 
 **类型：** 讨论型（Discussion Type）
 
@@ -166,7 +168,9 @@ In conclusion, while the **advantages of open information sharing** can signific
 
 
 
-### *At the present time, the population of some countries includes a relatively large number of young adults, compared with the number of older people. Do the advantages of this situation outweigh the disadvantages?*
+### test1
+
+#### *At the present time, the population of some countries includes a relatively large number of young adults, compared with the number of older people. Do the advantages of this situation outweigh the disadvantages?*
 
 **类型：** 讨论型（Discussion Type）
 
@@ -218,7 +222,9 @@ In summary, while a youthful population can significantly **boost economic growt
 - **disadvantages**: 劣势
 
 
-### *In a number of countries, some people think it is necessary to spend large sums of money on constructing new railway lines for very fast trains between cities. Others believe the money should be spent on improving existing public transport. Discuss both these views and give your own opinion.*
+### test3
+
+*In a number of countries, some people think it is necessary to spend large sums of money on constructing new railway lines for very fast trains between cities. Others believe the money should be spent on improving existing public transport. Discuss both these views and give your own opinion.*
 
 **类型：** 讨论型（Discussion Type）
 
@@ -270,7 +276,9 @@ Ultimately, although constructing new high-speed railway lines presents enticing
 
 
 
-> *Some people believe that allowing children to make their own choices on everyday matters (such as food, clothes and entertainment) is likely to result in a society of individuals who only think about their own wishes. Other people believe that it is important for children to make decisions about matters that affect them. Discuss both these views and give your own opinion.（Discussion Type）*
+### test4
+
+ *Some people believe that allowing children to make their own choices on everyday matters (such as food, clothes and entertainment) is likely to result in a society of individuals who only think about their own wishes. Other people believe that it is important for children to make decisions about matters that affect them. Discuss both these views and give your own opinion.（Discussion Type）*
 
 **提纲：**
 
