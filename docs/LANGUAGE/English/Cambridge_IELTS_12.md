@@ -294,16 +294,17 @@ Ultimately, although constructing new high-speed railway lines presents enticing
 4. **结论**
     1. 表达个人观点并总结
 
-!!! note **Essay:**
-The extent to which **children should be permitted** to **make their own choices** in daily matters is a subject of considerable debate. **On one side**, some argue that excessive **autonomy** can lead to **self-centeredness** and a lack of **social responsibility**, fostering individuals who prioritize their own desires over communal well-being.
+!!! note "Essay:"
+    The extent to which **children should be permitted** to **make their own choices** in daily matters is a subject of considerable debate. **On one side**, some argue that excessive **autonomy** can lead to **self-centeredness** and a lack of **social responsibility**, fostering individuals who prioritize their own desires over communal well-being.
 
-**Conversely**, others maintain that allowing children to **exercise decision-making** in matters that affect them is crucial for their **personal development** and **autonomy**. This empowerment can **build confidence** and **promote critical thinking**, enabling children to become **responsible adults** who can contribute positively to society.
+    **Conversely**, others maintain that allowing children to **exercise decision-making** in matters that affect them is crucial for their **personal development** and **autonomy**. This empowerment can **build confidence** and **promote critical thinking**, enabling children to become **responsible adults** who can contribute positively to society.
 
-**In my view**, a balanced approach is essential. While granting children the freedom to make choices fosters **independence** and **critical thinking skills**, it is equally important to **guide** and **mentor** them to understand the **consequences** of their decisions. This ensures that children develop into **well-rounded individuals** who can balance personal desires with social responsibilities.
+    **In my view**, a balanced approach is essential. While granting children the freedom to make choices fosters **independence** and **critical thinking skills**, it is equally important to **guide** and **mentor** them to understand the **consequences** of their decisions. This ensures that children develop into **well-rounded individuals** who can balance personal desires with social responsibilities.
 
-**Conclusion**
+    **Conclusion**
 
-Ultimately, while allowing children to make their own choices is vital for their **personal growth**, it is important to provide appropriate **guidance** to prevent the emergence of **self-centered** individuals, thereby fostering a harmonious society.
+    Ultimately, while allowing children to make their own choices is vital for their **personal growth**, it is important to provide appropriate **guidance** to prevent the emergence of **self-centered** individuals, thereby fostering a harmonious society.
+
 
 
 **注释：**
