@@ -166,8 +166,8 @@ In my opinion, while advertising remains a powerful tool for influencing consume
 
 ### Essay 4
 
-!!! note "Question"
-*In some cultures, children are often told that they can achieve anything if they try hard enough. What are the advantages and disadvantages of giving children this message? Give reasons for your answer and include any relevant examples from your own knowledge or experience.*
+!!! note "*In some cultures, children are often told that they can achieve anything if they try hard enough. What are the advantages and disadvantages of giving children this message? Give reasons for your answer and include any relevant examples from your own knowledge or experience.*"
+
 
 **类型：** 讨论型（Discussion Type）
 
