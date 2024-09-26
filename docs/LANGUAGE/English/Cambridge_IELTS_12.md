@@ -270,10 +270,7 @@ Ultimately, although constructing new high-speed railway lines presents enticing
 
 
 
-> *Some people believe that allowing children to make their own choices on everyday matters (such as food, clothes and entertainment) is likely to result in a society of individuals who only think about their own wishes. Other people believe that it is important for children to make decisions about matters that affect them. Discuss both these views and give your own opinion.*
->
-> **类型：** 讨论型（Discussion Type）
->
+> *Some people believe that allowing children to make their own choices on everyday matters (such as food, clothes and entertainment) is likely to result in a society of individuals who only think about their own wishes. Other people believe that it is important for children to make decisions about matters that affect them. Discuss both these views and give your own opinion.（Discussion Type）*
 
 **提纲：**
 
@@ -287,10 +284,9 @@ Ultimately, although constructing new high-speed railway lines presents enticing
     1. 支持儿童自主决策的观点
     2. 理由与例子
 4. **结论**
-   - 表达个人观点并总结
+    1. 表达个人观点并总结
 
-**Essay:**
-
+::: **Essay:**
 The extent to which **children should be permitted** to **make their own choices** in daily matters is a subject of considerable debate. **On one side**, some argue that excessive **autonomy** can lead to **self-centeredness** and a lack of **social responsibility**, fostering individuals who prioritize their own desires over communal well-being.
 
 **Conversely**, others maintain that allowing children to **exercise decision-making** in matters that affect them is crucial for their **personal development** and **autonomy**. This empowerment can **build confidence** and **promote critical thinking**, enabling children to become **responsible adults** who can contribute positively to society.
@@ -300,6 +296,8 @@ The extent to which **children should be permitted** to **make their own choices
 **Conclusion**
 
 Ultimately, while allowing children to make their own choices is vital for their **personal growth**, it is important to provide appropriate **guidance** to prevent the emergence of **self-centered** individuals, thereby fostering a harmonious society.
+:::
+
 
 **注释：**
 
