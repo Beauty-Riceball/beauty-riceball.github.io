@@ -520,10 +520,554 @@ A good business person should be **versatile**. The first important quality I ca
 ---
 
 
+### IELTS Speaking Preparation: Part 1 - Travel
+
+---
+
+*In the first part of the IELTS Speaking test, the examiner will introduce themselves and confirm your identity. They will then ask you questions related to your studies, work, accommodation, or other familiar topics. Below are some example questions and sample answers on the topic of **Travel**.*
+
+---
+
+#### ***1. Do you enjoy travelling? [Why/Why not?]***
+
+**Sample Answer:**
+
+Absolutely, I'm an **inquisitive** person, and it always gets me excited to explore **curious** places, to experience different **cultures**, to search for **exotic delicacies**, and most importantly, to **encounter** interesting people.
+
+**Advanced Vocabulary and Phrases:**
+
+- **inquisitive** /ɪnˈkwɪzətɪv/: 好问的，爱追究到底的
+- **delicacies** /ˈdɛlɪkəsiz/: 美味佳肴
+- **exotic** /ɪɡˈzɒtɪk/: 有异域风情的
+- **encounter** /ɪnˈkaʊntər/: 遇见
+
+---
+
+#### ***2. Have you done much travelling? [Why/Why not?]***
+
+**Sample Answer:**
+
+Well, **sort of**, I mean, **quantitatively** I've traveled a lot. I've been to more than 50 **domestic tour sites** so far, as well as a couple of foreign countries. But each time I was only able to stay for no more than a week. It was never enough.
+
+**Advanced Vocabulary and Phrases:**
+
+- **quantitatively** /ˌkwɒntɪˈteɪtɪvli/: 从量上来说
+- **sort of** /sɔːrt əv/: 稍微，有点
+- **domestic** /dəˈmɛstɪk/: 国内的，内部的
+- **tour sites** /tʊər saɪts/: 旅游景点
+
+---
+
+#### ***3. Do you think it's better to travel alone or with other people? [Why?]***
+
+**Sample Answer:**
+
+Personally, I'd prefer to travel alone because my way of travelling is a bit different. You see, I don't go to **popular tourist attractions** where you can see nothing but crowds, and I rarely take pictures so that I travel really fast. **On top of everything**, I hate shopping, so there would be too much **compromise** to make for both my friends and me if we travel together.
+
+**Advanced Vocabulary and Phrases:**
+
+- **tourist attractions** /ˈtʊərɪst əˈtrækʃənz/: 旅游景点，观光胜地
+- **on top of everything** /ɒn tɒp əv ˈɛvrɪθɪŋ/: 最重要的是
+- **compromise** /ˈkɒmprəmaɪz/: 妥协
+
+---
+
+#### ***4. Where would you like to travel in the future? [Why?]***
+
+**Sample Answer:**
+
+There are hundreds of places that I'd love to travel to in the future, but there are two **pilgrimages** that I have to make. The first place is Tibet. It's always been in my wildest dreams to **attempt** the **almighty** Mount Everest, to **bear witness** and to learn to respect the **holiness** of nature. The other place would be anywhere near the North Pole where I can see the mysterious **aurora**.
+
+**Advanced Vocabulary and Phrases:**
+
+- **attempt** /əˈtɛmpt/: 尝试，试图(挑战，战胜)
+- **pilgrimage** /ˈpɪlɡrɪmɪdʒ/: 朝圣之路
+- **bear witness** /bɛər ˈwɪtnəs/: 见证
+- **almighty** /ɔːlˈmaɪti/: 神圣的，强大的
+- **holiness** /ˈhɒlɪnəs/: 神圣，庄严
+- **aurora** /əˈrɔːrə/: 极光
+
+---
+
+
+### IELTS Speaking Preparation: Part 2 - Describe a Child That You Know
+
+---
+
+***Describe a child that you know***
+
+***You should say:***
+
+- ***Who the child is and how often you see him or her***
+- ***How old this child is***
+- ***What he or she is like***
+- ***And explain what you feel about this child.***
+
+---
+
+**Sample Answer:**
+
+I'd like to talk about my **nephew**, who is **9 years old**. Actually, I don't get to see him often because he lives with his parents in another city, which is far away from my hometown. Every year, they come back to visit us during the **Spring Festival**.
+
+Everyone in the family **adores** him because he is really **smart** and **talented**. His mother is a primary school teacher. She started to teach him to **recognize** pictures and to **distinguish** sounds only a few months after he was born. He was able to **mumble** short sentences after 15 months and was able to **recite** a few poems and solve some basic math problems at the age of 3. He went to school when he was only 5 and became a **school legend** ever since.
+
+He enjoys **reading**, and he has a **wide range** of interests in reading, such as **biology**, **history**, **astrology**, **biography**, and so on. He also likes to watch **documentary films** about the same subjects, of course. Once, I asked him why he didn't go have fun during the Spring Festival because he was reading a history book. With the book in hand and his eyes still **glued to** the page, he said something that **struck me shockingly**, “I'm having fun right now.”
+
+---
+
+### **Advanced Vocabulary and Phrases**
+
+- **nephew** /ˈnɛfjuː/: 侄子
+- **adores** /əˈdɔːrz/: 喜欢，宠爱
+- **smart** /smɑːrt/: 聪明的
+- **talented** /ˈtælən.tɪd/: 有天赋的
+- **recognize** /ˈrɛkəɡnaɪz/: 认识，辨认
+- **distinguish** /dɪˈstɪŋɡwɪʃ/: 辨识，区分
+- **mumble** /ˈmʌm.bəl/: 咕哝，含糊地说话
+- **recite** /rɪˈsaɪt/: 背诵，朗诵
+- **school legend** /skuːl ˈlɛdʒənd/: 学校传奇
+- **wide range** /waɪd reɪndʒ/: 范围广泛的
+- **biology** /baɪˈɒlədʒi/: 生物学
+- **history** /ˈhɪstəri/: 历史
+- **astrology** /əˈstrɒlədʒi/: 占星术
+- **biography** /baɪˈɒɡrəfi/: 传记
+- **documentary films** /ˌdɒkjʊˈmɛntəri fɪlmz/: 纪录片
+- **glued to** /ɡluːd tuː/: 粘住，盯住
+- **struck me shockingly** /strʌk miː ˈʃɒkɪŋli/: 令人吃惊地打击我
+
+---
+
+
+
+### IELTS Speaking Preparation: Part 3 - Relationships Between Parents and Children
+
+---
+
+#### ***1. How much time do children spend with their parents in your country? Do you think that is enough?***
+
+**Sample Answer:**
+
+I would say, on **average**, children don't get to spend much time with their parents in China. This is mainly because young parents today are under great financial burden, so much so that in **most cases** they both have to do full-time jobs. And when they come back home, they would be too tired to spend much time with their kids. There are also many cases where parents have to work far from home to **bring food on the table** and to keep the family running. This explains why in most Chinese families, grandparents are taking care of the young generation.
+
+**Advanced Vocabulary and Phrases:**
+
+- **on average** /ɒn ˈævərɪdʒ/: 一般，平均来说
+- **bring food on the table** /brɪŋ fuːd ɒn ðə ˈteɪbəl/: 养家糊口
+- **most cases** /moʊst ˈkeɪsɪz/: 大部分情况下
+- **grandparents** /ˈɡrændˌpɛrənts/: 祖父母
+
+---
+
+#### ***2. How important do you think spending time together is for the relationships between parents and children? Why?***
+
+**Sample Answer:**
+
+It is of **vital importance**, I think the key to developing close relationships between parents and children is **good communication**, which requires great time and effort to **establish**. To begin with, they need to spend a lot of time together to develop enough **intimacy** so that children would feel comfortable and relaxed when staying with parents. In addition, parents and children need to go through **difficulties** and **obstacles** together to build up trust among them. It's highly important for the children to know that whenever there is a problem, parents are the ones to turn to.
+
+**Advanced Vocabulary and Phrases:**
+
+- **vital importance** /ˈvaɪtl ɪmˈpɔːtəns/: 重要的，至关生死的
+- **good communication** /ɡʊd kəˌmjuːnɪˈkeɪʃən/: 良好的沟通
+- **establish** /ɪˈstæblɪʃ/: 建立，创办
+- **intimacy** /ˈɪntɪməsi/: 亲密度
+- **difficulties** /ˈdɪfɪkəltiz/: 困难
+- **obstacles** /ˈɒbstəkəlz/: 障碍
+
+---
+
+#### ***3. Have relationships between parents and children changed in recent years? Why do you think that is?***
+
+**Sample Answer:**
+
+I can't help noticing that in many families, parents and children are sharing almost equal status in the family, which was very much unheard of decades ago. Parents are no longer playing dictators who would expect their children to act and behave exactly the way they want them to. They have learned to **respect** their children's own choices and only offer **advice** and **support** when needed. On the other hand, children are becoming less rebellious since there isn't much for them to fight against. I think what causes the change is **culture exchange**. In a **multi-cultural environment**, people are more likely to be **open-minded** and **tolerant**.
+
+**Advanced Vocabulary and Phrases:**
+
+- **share almost equal status** /ʃɛər ɔːlˈmoʊst ˈiːkwəl ˈsteɪtəs/: 共享几乎平等的地位
+- **unheard of** /ʌnˈhɜːrd əv/: 前所未闻的
+- **playing dictators** /ˈpleɪɪŋ ˌdɪkˈteɪtərz/: 扮演独裁者
+- **respect** /rɪˈspɛkt/: 尊重
+- **advice** /ədˈvaɪs/: 建议
+- **support** /səˈpɔːrt/: 支持
+- **rebellious** /rɪˈbɛliəs/: 叛逆的
+- **culture exchange** /ˈkʌltʃər ɪksˈtʃeɪndʒ/: 文化交流
+- **multi-cultural environment** /ˌmʌltiˈkʌltʃərəl ɪnˈvaɪrənmənt/: 多元文化环境
+- **open-minded** /ˌoʊpənˈmaɪndɪd/: 心胸开阔的
+- **tolerant** /ˈtɒlərənt/: 宽容的
+
+---
 
 
 
 
+### IELTS Speaking Preparation: Part 3 - Children's Free-Time Activities
+
+---
+
+#### ***1. What are the most popular free-time activities with children today?***
+
+**Sample Answer:**
+
+Children today don't usually go out to play with other kids as I would when I was little, and toys seem to have lost their **charms** as well. They now prefer to spend their holidays **travelling**, watching **TV programmes**, or playing **online games**. In most cases, watching TV programmes and playing games are the popular choices, but when the holiday is long enough, children would beg their parents to take them on a trip. I think it's within children’s nature to be **curious** about the world, so it must be much more exciting to explore new places and make new friends than to stay at home facing the same people and doing the same things. **On top of that**, modern technology has made traveling much easier and more affordable for most families. At the age of 10, my nephew has already been to 17 countries in the world. I really wish that I were young again.
+
+**Advanced Vocabulary and Phrases:**
+
+- **charms** /tʃɑːmz/: 魅力，魔力
+- **curious** /ˈkjʊəriəs/: 好奇的
+- **prefer to** /prɪˈfɜːr tuː/: 宁愿
+- **on top of that** /ɒn tɒp əv ðət/: 除此之外
+- **travelling** /ˈtrævəlɪŋ/: 旅行
+- **TV programmes** /ˈtiːˈviː ˈprəʊɡræmz/: 电视节目
+- **online games** /ˈɒnlaɪn ɡeɪmz/: 在线游戏
+- **beg their parents** /bɛɡ ðɛər ˈpɛərənts/: 向父母乞求
+- **explore** /ɪkˈsplɔːr/: 探索
+- **make new friends** /meɪk njuː frɛndz/: 交新朋友
+
+---
+
+#### ***2. Do you think the free-time activities children do today are good for their health? Why is that?***
+
+**Sample Answer:**
+
+I think it **depends** on what they do and how they do it. **Travelling** is definitely good for people's health. When you travel, chances are that you'll do a lot of **hiking**, you'll probably participate in a **variety** of outdoor activities, and you are likely to live a rather regular life due to the disconnection from the Internet and games. **On the other hand**, games can lead to serious health problems. Games are **addictive** in nature, to which children are **vulnerable**. Kids who are obsessed with online games are exposed to the potential danger of having **myopia**, **spinal curvature**, and **muscular atrophy**, because they sit for long hours with eyes **glued to** the screen.
+
+**Advanced Vocabulary and Phrases:**
+
+- **depends** /dɪˈpɛndz/: 取决于
+- **travelling** /ˈtrævəlɪŋ/: 旅行
+- **hiking** /ˈhaɪkɪŋ/: 徒步旅行
+- **variety** /vəˈraɪəti/: 各种各样的
+- **addictive** /əˈdɪktɪv/: 让人上瘾的
+- **vulnerable** /ˈvʌlnərəbl/: 脆弱的，易受伤害的
+- **myopia** /maɪˈəʊpiə/: 近视
+- **spinal curvature** /ˈspaɪnl ˈkɜːrvətʃər/: 脊柱弯曲
+- **muscular atrophy** /ˈmʌskjələr əˈtrəfi/: 肌肉萎缩
+- **glued to** /ɡluːd tuː/: 粘住，盯住
+
+---
+
+#### ***3. How do you think children's activities will change in the future? Will this be a positive change?***
+
+**Sample Answer:**
+
+I think parents today have already **recognised** the **detriment** of children staying indoors too much. So in the future, I believe parents will spend more time with their children and they would **travel together**, go **hiking** and **camping together**, do some **sports together**, and spend more time **outdoors together**. This will definitely be a **positive influence** on children because it's good for children's health, as I mentioned before. More importantly, it could provide more opportunities for children and parents to **stay together as a family**, to **understand each other better**, and to **bond more tightly**, so that children can grow in a **healthier environment**.
+
+**Advanced Vocabulary and Phrases:**
+
+- **recognised** /ˈrɛkəɡnaɪzd/: 认出，识别，承认
+- **detriment** /ˈdɛtrɪmənt/: 危害
+- **travel together** /ˈtrævəl təˈɡɛðər/: 一起旅行
+- **hiking** /ˈhaɪkɪŋ/: 徒步旅行
+- **camping together** /ˈkæmpɪŋ təˈɡɛðər/: 一起露营
+- **sports together** /spɔːrts təˈɡɛðər/: 一起做运动
+- **outdoors together** /ˌaʊtˈdɔːrz təˈɡɛðər/: 一起户外活动
+- **positive influence** /ˈpɒzɪtɪv ˈɪnfluəns/: 积极的影响
+- **stay together as a family** /steɪ təˈɡɛðər əz ə ˈfæməli/: 作为一个家庭一起生活
+- **understand each other better** /ˌʌndərˈstænd iːʧ ˈʌðər ˈbɛtər/: 更好地相互理解
+- **bond more tightly** /bɒnd mɔːr ˈtaɪtli/: 更紧密地联系
+- **healthier environment** /ˈhɛlθiər ɪnˈvaɪrənmənt/: 更健康的环境
+
+---
+
+
+
+### IELTS Speaking Preparation: Part 1 - School
+
+---
+
+*In the first part of the IELTS Speaking test, the examiner will introduce themselves and confirm your identity. They will then ask you questions related to your studies, work, accommodation, or other familiar topics. Below are some example questions and sample answers on the topic of **School**.*
+
+---
+
+#### ***1. Did you go to secondary/high school near to where you lived? [Why/Why not?]***
+
+**Sample Answer:**
+
+Not really. My **high school** is a bit far from where I lived. It's about an hour **bus-ride** away, if the **traffic** is not too heavy. I remember I used to have to get up around six o'clock in the **morning** to catch the 6:30 bus. It was really a **torture** in winter. But I don't regret choosing it. After all, it was considered the **very best** high school in town.
+
+**Advanced Vocabulary and Phrases:**
+
+- **high school** /haɪ skuːl/: 中学
+- **bus-ride** /bʌs raɪd/: 公共汽车行程
+- **traffic** /ˈtræfɪk/: 交通
+- **morning** /ˈmɔːrnɪŋ/: 早晨
+- **torture** /ˈtɔːrtʃər/: 折磨
+- **very best** /ˈvɛri bɛst/: 最好的
+
+---
+
+#### ***2. What did you like about your secondary/high school? [Why?]***
+
+**Sample Answer:**
+
+There are a couple of things I like about, or even feel **proud of**, my high school. I think the most **amazing thing** about my school is that it encourages and **respects individuality**, which means students are free to make a lot of choices. For example, wearing a **uniform** was not **mandatory** unless for special occasions.
+
+**Advanced Vocabulary and Phrases:**
+
+- **proud of** /praʊd əv/: 为…感到自豪
+- **amazing thing** /əˈmeɪzɪŋ θɪŋ/: 令人惊叹的事情
+- **encourages** /ɪnˈkʌrɪdʒɪz/: 鼓励
+- **respects individuality** /rɪˈspɛkts ˌɪndɪˌvɪdʒuˈælɪti/: 尊重个性
+- **uniform** /ˈjuːnɪfɔːm/: 校服
+- **mandatory** /ˌmændəˈtɔːri/: 强制的，必须的
+
+---
+
+#### ***3. Tell me about anything you didn't like at your school.***
+
+**Sample Answer:**
+
+Well, I can't actually **recall** anything I **dislike** about my school right now except that the school **playground** was too small. My high school was founded 70 years ago. It was big enough back then, when it only had to **accommodate** one tenth of the number of students today. There were only four **basketball courts**, so every day it was super **crowded**.
+
+**Advanced Vocabulary and Phrases:**
+
+- **recall** /rɪˈkɔːl/: 回忆
+- **dislike** /dɪsˈlaɪk/: 不喜欢
+- **playground** /ˈpleɪɡraʊnd/: 操场
+- **accommodate** /əˈkɒmədeɪt/: 容纳，招待
+- **basketball courts** /ˈbɑːskətˌbɔːl kɔːrts/: 篮球场
+- **crowded** /ˈkraʊdɪd/: 拥挤的
+
+---
+
+#### ***4. How do you think your school could be improved? [Why/Why not?]***
+
+**Sample Answer:**
+
+As I just mentioned, my school is very small, and many of the school buildings are pretty old. I think it'll be great if my high school **buys** a piece of new land somewhere and **builds** a new campus with enough space to **build all kinds of facilities**.
+
+**Advanced Vocabulary and Phrases:**
+
+- **buys** /baɪz/: 购买
+- **builds** /bɪldz/: 建造
+- **new campus** /njuː ˈkæmpəs/: 新校园
+- **facilities** /fəˈsɪlɪtiz/: 设备，设施
+
+---
+
+
+
+
+### IELTS Speaking Preparation: Part 2 - Describe Something You Don't Have Now But Would Like to Own in the Future
+
+---
+    
+***Describe something you don't have now but would like to own in the future.***
+
+***You should say:***
+
+- ***what this thing is***
+- ***how long you have wanted to own it***
+- ***where you first saw it***
+- ***and explain why you would like to own it.***
+
+---
+    
+**Sample Answer:**
+    
+Well, I found it really challenging to single out one item from the list of things I'd like to possess in the future. Most of the things I fantasized about are remotely unattainable, but if I have to choose one to talk about, it would be the **Bugatti Veyron super sports car**.
+
+Actually, I've never had the opportunity to see one in **real life**. Everything I know about Bugatti is from either **magazines** or **documentary films**. I have been **obsessed** with cars since childhood. My father was a **locomotive driver** back then. He used to buy all kinds of books and magazines about **engines** and **automobiles**, and he loved to teach me to **recognize** and **appreciate** those **fancy cars**. Gradually, I became a big fan.
+
+I love a **variety** of **world-class vehicles**, but **Bugatti Veyron** is one of a kind. With the **top speed** of 430 kilometers per hour, it's the **fastest mass-produced vehicle** on earth. Its **mighty W16 engine** can produce as much as 1200 **horsepower**, and the **uniquely designed automatic dual-clutch gearboxes** allow nearly no **power loss** during the **transmission**, which empowers the vehicle to **accelerate** from 0 to 100 km/h within only 2.5 seconds. But that's not the ultimate **facemelter**. At the speed of 100 km/h, this **iron beast** can be called to a full **halt** in just 2.2 seconds.
+
+Bugatti is probably not one of the **best-looking** vehicles, nor is it the **most expensive** one, but it is the very **beauty** in my dream.
+    
+---
+    
+### **Advanced Vocabulary and Phrases**
+    
+- **Bugatti Veyron super sports car** /buːˈɡɑːti veɪˈjɔːrn/: 布加迪威龙超级跑车
+- **real life** /riːəl laɪf/: 现实生活
+- **magazines** /ˌmæɡəˈziːnz/: 杂志
+- **documentary films** /ˌdɒkjʊˈmɛntəri fɪlmz/: 纪录片
+- **obsessed** /əbˈsɛst/: 着迷的
+- **locomotive driver** /ˌloʊkəˈmoʊtɪv ˈdraɪvər/: 机车司机
+- **engines** /ˈɛnʤɪnz/: 引擎
+- **automobiles** /ˌɔːtəˈmoʊbɪlz/: 汽车
+- **recognize** /ˈrɛkəɡnaɪz/: 识别，认出
+- **appreciate** /əˈpriːʃieɪt/: 欣赏，感激
+- **fancy cars** /ˈfænsi kɑːrz/: 高档车
+- **variety** /vəˈraɪəti/: 多样性
+- **world-class vehicles** /wɜːrld klɑːs ˈviːɪkəlz/: 世界级车辆
+- **Bugatti Veyron** /buːˈɡɑːti veɪˈjɔːrn/: 布加迪威龙
+- **top speed** /tɒp spiːd/: 最高速度
+- **fastest mass-produced vehicle** /ˈfɑːstɪst mæs prəˈdjuːst ˈviːɪkəl/: 最快的量产车
+- **mighty W16 engine** /ˈmaɪti dʌbəljuː ˈsɪkstɛn ɛndʒɪn/: 强大的W16引擎
+- **horsepower** /ˈhɔːrspaʊər/: 马力
+- **uniquely designed automatic dual-clutch gearboxes** /juːˈniːkli dɪˈzaɪnd ˌɔːtəˈmætɪk ˈdjuːəl klʌʧ ɡɪərˌbɑːksəz/: 独特设计的自动双离合变速箱
+- **power loss** /ˈpaʊər lɒs/: 动力损失
+- **transmission** /trænzˈmɪʃən/: 传动系统
+- **accelerate** /əkˈsɛləreɪt/: 加速
+- **facemelter** /ˈfeɪsmɛltər/: 极具吸引力的事物
+- **iron beast** /ˈaɪərən biːst/: 铁兽（比喻强大的车辆）
+- **halt** /hɔːlt/: 停止
+- **best-looking** /bɛstˈlʊkɪŋ/: 最好看的
+- **most expensive** /moʊst ɪkˈspɛnsɪv/: 最贵的
+- **beauty** /ˈbjuːti/: 美丽
+
+---
+
+
+### IELTS Speaking Preparation: Part 3 - Owning Things
+
+---
+
+#### ***1. What types of things do young people in your country most want to own today? Why is this?***
+
+**Sample Answer:**
+
+Well, it's hard to say. As a matter of fact, I don't even know what I want. However, I think in **general** there are a few things that people in China would like to add to their possessions. **On top of the list** is a **house**. It comes on top because, first of all, we all need a **roof to shelter**, and secondly, owning a house has become a **luxury** in China since the housing prices are ridiculously high today. Listed next to a house is a **private car**, the **fancier** the better. To young people, a car stands for much more than a means of **transportation**. It **functions** as a **name card** which **manifests** one's **economic status**, **social class**, **aesthetic taste**, and even **personalities**.
+
+**Advanced Vocabulary and Phrases:**
+
+- **general** /ˈdʒɛnərəl/: 一般的
+- **on top of the list** /ɒn tɒp əv ðə lɪst/: 在列表的顶部
+- **house** /haʊs/: 房子
+- **roof to shelter** /ruːf tuː ˈʃɛltər/: 躲避的屋顶
+- **luxury** /ˈlʌkʃəri/: 奢侈品
+- **private car** /ˈpraɪvət kɑːr/: 私家车
+- **fancier** /ˈfænsiər/: 更加豪华的
+- **transportation** /ˌtrænspɔːˈteɪʃən/: 交通工具
+- **functions** /ˈfʌŋkʃənz/: 运行，功能
+- **name card** /neɪm kɑːrd/: 名片（象征）
+- **manifests** /ˈmænɪfɛsts/: 显示，表现
+- **economic status** /ˌiːkəˈnɒmɪk ˈsteɪtəs/: 经济地位
+- **social class** /ˈsoʊʃəl klɑːs/: 社会阶层
+- **aesthetic taste** /ɛsˈθɛtɪk teɪst/: 审美品味
+- **personalities** /ˌpɜːrsəˈnælɪtiz/: 个性
+
+---
+
+#### ***2. Why do some people feel they need to own things?***
+
+**Sample Answer:**
+
+Personally, I believe that we all, **one way or another**, share the same kind of **feeling**. The **craving** for **possessions** is **hardwired** into people's brains since **primitive times** when people still had to struggle for **existence**. People had to **collect** everything they could get **in hand** to survive **floods**, **droughts**, **starvation**, **plagues**, **social turbulence**, **wars**, and so on. It gives people a sense of **security**, which is one of our basic emotional needs. Now that we are almost **free from** those worries, this powerful instinct still **governs** our **behavioral patterns** and **drives** us to **pursue** things that we don't actually need.
+
+**Advanced Vocabulary and Phrases:**
+
+- **one way or another** /wʌn weɪ ɔːr əˈnʌðər/: 无论如何
+- **feeling** /ˈfiːlɪŋ/: 感觉
+- **craving** /ˈkreɪvɪŋ/: 渴望，欲望
+- **possessions** /pəˈzɛʃənz/: 物品，财产
+- **hardwired** /ˈhɑːrdˌwaɪərd/: 嵌入的，根深蒂固的
+- **primitive times** /ˈprɪmɪtɪv taɪmz/: 原始时代
+- **existence** /ɪɡˈzɪstəns/: 存在
+- **collect** /kəˈlɛkt/: 收集
+- **in hand** /ɪn hænd/: 手头上的
+- **floods** /flʌdz/: 洪水
+- **droughts** /draʊts/: 干旱
+- **starvation** /ˌstɑːvəˈreɪʃən/: 饥饿
+- **plagues** /pleɪɡz/: 瘟疫
+- **social turbulence** /ˌsoʊʃəl ˈtɜːrbjʊləns/: 社会动荡
+- **wars** /wɔːrz/: 战争
+- **security** /sɪˈkjʊərɪti/: 安全感
+- **free from** /friː frɒm/: 摆脱，不受制约
+- **governs** /ˈɡʌvərnz/: 统治，控制
+- **behavioral patterns** /bɪˈheɪvjərəl ˈpætərnz/: 行为模式
+- **drives** /draɪvz/: 驱动
+- **pursue** /pərˈsuː/: 追求
+
+---
+
+#### ***3. Do you think that owning lots of things gives people a sense of happiness? Why is that?***
+
+**Sample Answer:**
+
+Much as I find it hard to admit, I believe that **owning lots of things** does give people a sense of **happiness**. From the **scientific** point of view, happiness is simply the **bio-electric signal** perceived by our brain, which is caused by a **neurotransmitter** called **dopamine**. Recent studies have discovered that **collecting things** would increase the level of dopamine in the human brain. I know there are people saying something like, “I have a lot of money, but I don't feel happy." However, I think the problem is not about having a lot of money, but about missing something else such as **family**, **love**, **vacation**, and **recognition**. So such claims actually **prove** that we always want some more.
+
+**Advanced Vocabulary and Phrases:**
+
+- **owning lots of things** /ˈoʊnɪŋ lɒts əv θɪŋz/: 拥有很多东西
+- **happiness** /ˈhæpɪnəs/: 幸福感
+- **scientific** /ˌsaɪənˈtɪfɪk/: 科学的
+- **bio-electric signal** /ˌbaɪoʊ ɪˈlɛktrɪk ˈsɪɡnəl/: 生物电信号
+- **neurotransmitter** /ˌnjʊərəʊtrænsˈmɪtər/: 神经递质
+- **dopamine** /ˈdoʊpəˌmiːn/: 多巴胺
+- **collecting things** /kəˈlɛktɪŋ θɪŋz/: 收集东西
+- **prove** /pruːv/: 证明
+- **family** /ˈfæməli/: 家庭
+- **love** /lʌv/: 爱
+- **vacation** /vəˈkeɪʃən/: 假期
+- **recognition** /ˌrɛkəɡˈnɪʃən/: 认可
+
+---
+
+
+
+### IELTS Speaking Preparation: Part 3 - Salaries for Skilled People
+
+---
+
+#### ***1. Do you think television and films can make people want to get new possessions? Why do they have this effect?***
+
+**Sample Answer:**
+
+Absolutely, such is **human nature** that the more we know, the more we want. **Television and films** constantly **feed** people with information about different **lifestyles**, new **technologies**, **fashion trends**, and **luxurious items**, creating an **ever-developing** concept of a "better life" to **catch up with**. What makes things worse are **TV commercials**. "They create false needs, sell false hopes, and make false promises." I'd lose my count if I were to **recall** everything I bought which I rarely used, but still, I keep buying things. As society develops, so grows my **lust**. It's simply something I cannot **resist**.
+
+**Advanced Vocabulary and Phrases:**
+
+- **human nature** /ˈhjuːmən ˈneɪʧər/: 人类天性
+- **ever-developing** /ˌɛvər dɪˈvɛləpɪŋ/: 不断变化的
+- **lust** /lʌst/: 欲望
+- **constantly** /ˈkɒnstəntli/: 不间断地
+- **recall** /rɪˈkɔːl/: 回忆
+- **resist** /rɪˈzɪst/: 抵制，抗拒
+- **feed** /fiːd/: 喂养，提供
+- **lifestyles** /ˈlaɪfstaɪlz/: 生活方式
+- **technologies** /tɛkˈnɒlədʒiz/: 技术
+- **fashion trends** /ˈfæʃən trɛndz/: 时尚潮流
+- **luxurious items** /lʌɡˈʒʊəriəs ˈaɪtəmz/: 奢侈品
+- **catch up with** /kætʃ ʌp wɪð/: 跟上，赶上
+
+---
+
+#### ***2. Are there any benefits to society of people wanting to get new possessions? Why do you think this is?***
+
+**Sample Answer:**
+
+Of course, there are benefits to it. I think people's desire for new possessions is indeed the **ultimate driving force** that pushes society to develop and move forward. If it were not for this powerful **drive**, we wouldn't have been able to **accumulate** enough **food** and **possessions** to support a **massive** population, without which the first human civilization wouldn't have **emerged**. In modern ages, on one hand, it **motivates** people to work hard to earn new possessions; on the other hand, it **inspires** people to **devise** new **contraptions** and **conceptions** to meet public needs.
+
+**Advanced Vocabulary and Phrases:**
+
+- **ultimate driving force** /ˌʌltɪˈmeɪt ˈdraɪvɪŋ fɔːrs/: 终极驱动力
+- **drive** /draɪv/: 驱动力
+- **accumulate** /əˈkjuːmjʊleɪt/: 积累
+- **food** /fuːd/: 食物
+- **possessions** /pəˈzɛʃənz/: 物品，财产
+- **massive** /ˈmæsɪv/: 大量的
+- **emerged** /ɪˈmɜːrdʒd/: 出现
+- **motivates** /ˈmɒtɪveɪts/: 激发，刺激
+- **inspires** /ɪnˈspaɪəz/: 启发
+- **devise** /dɪˈvaɪz/: 发明，设计
+- **contraptions** /kənˈtræptʃənz/: 设计，装置
+- **conceptions** /kənˈsɛpʃənz/: 观念，想法
+
+---
+
+#### ***3. Do you think people will consider that having lots of possessions is a sense of success in the future? Why is that?***
+
+**Sample Answer:**
+
+Much as I find it hard to admit, I believe that **owning lots of things** does give people a sense of **happiness**. From the **scientific** point of view, happiness is simply the **bio-electric signal** perceived by our brain, which is caused by a **neurotransmitter** called **dopamine**. Recent studies have discovered that **collecting things** would increase the level of dopamine in the human brain. I know there are people saying something like, “I have a lot of money, but I don't feel happy." However, I think the problem is not about having a lot of money, but about missing something else such as **family**, **love**, **vacation**, and **recognition**. So such claims actually **prove** that we always want some more.
+
+**Advanced Vocabulary and Phrases:**
+
+- **owning lots of things** /ˈoʊnɪŋ lɒts əv θɪŋz/: 拥有很多东西
+- **happiness** /ˈhæpɪnəs/: 幸福感
+- **scientific** /ˌsaɪənˈtɪfɪk/: 科学的
+- **bio-electric signal** /ˌbaɪoʊ ɪˈlɛktrɪk ˈsɪɡnəl/: 生物电信号
+- **neurotransmitter** /ˌnjʊərəʊˈtrænsˌmɪtər/: 神经递质
+- **dopamine** /ˈdoʊpəˌmiːn/: 多巴胺
+- **collecting things** /kəˈlɛktɪŋ θɪŋz/: 收集东西
+- **prove** /pruːv/: 证明
+- **family** /ˈfæməli/: 家庭
+- **love** /lʌv/: 爱
+- **vacation** /vəˈkeɪʃən/: 假期
+- **recognition** /ˌrɛkəgˈnɪʃən/: 认可
+
+---
 
 
 
