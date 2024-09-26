@@ -14,6 +14,7 @@ nav:
   - 语言: 
     - LANGUAGE/index.md
     - 英语:
+      - 雅思写作: LANGUAGE/English/IELTS_writing.md
       - 剑桥雅思9: LANGUAGE/English/Cambridge_IELTS_9.md
       - 剑桥雅思12: LANGUAGE/English/Cambridge_IELTS_12.md
   - 技能:
