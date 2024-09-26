@@ -150,8 +150,7 @@ In conclusion, while History provides important lessons from the past, Science a
 
 ### Essay 4
 
-!!! note "Question"
-*In spite of the advances made in agriculture, many people around the world still go hungry. Why is this the case? What can be done about this problem?*
+!!! note "Question" In spite of the advances made in agriculture, many people around the world still go hungry. Why is this the case? What can be done about this problem?*
 
 **类型：** 问题解决型（Problem-Solution Type）
 
