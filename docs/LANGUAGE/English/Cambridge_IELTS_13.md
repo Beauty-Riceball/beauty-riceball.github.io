@@ -8,37 +8,20 @@
 ## writing
 
 
-
 ### Essay 1
 
-!!! note "Question"
+**Question: **
 *Living in a country where you have to speak a foreign language can cause serious social problems, as well as practical problems. To what extent do you agree or disagree with this statement?*
-
-**类型：** 观点型（Opinion Type）
-
-**提纲：**
-
-1. **引言**
-   - 引入话题
-   - 表明总体观点
-2. **主体段落 1**
-   - 讨论在外国生活的社会问题
-   - 理由与例子
-3. **主体段落 2**
-   - 讨论在外国生活的实际问题
-   - 理由与例子
-4. **结论**
-   - 重申观点或总结主要论点
 
 **Essay:**
 
-Living in a country where one must speak a foreign language can indeed lead to significant social and practical challenges. I completely agree with this statement because language barriers can hinder social integration and create everyday difficulties.
+Living in a country where one must speak a **foreign language** can indeed lead to significant social and **practical problems**. I completely agree with this statement because **language barriers** can hinder **social integration** and create everyday difficulties.
 
-Firstly, not speaking the local language fluently can result in social isolation. Individuals may find it hard to make friends or participate in community activities, which are essential for building a support network. For example, attending social events or understanding cultural nuances becomes challenging, leading to feelings of loneliness and frustration. Additionally, miscommunication due to language differences can cause misunderstandings and even conflict with locals, further impeding social harmony.
+Firstly, not speaking the local language fluently can result in **social isolation**. Individuals may find it hard to make friends or participate in community activities, which are essential for building a support network. For example, attending social events or understanding **cultural nuances** becomes challenging, leading to feelings of loneliness and frustration. Additionally, **miscommunication** due to language differences can cause misunderstandings and even conflict with locals, further impeding **social harmony**.
 
-Secondly, there are numerous practical problems associated with language barriers. Navigating daily tasks such as shopping, using public transportation, or accessing healthcare becomes complicated. For instance, reading signs, filling out forms, or explaining symptoms to a doctor can be daunting without proper language skills. Moreover, employment opportunities may be limited, as many jobs require proficiency in the local language, affecting one’s financial stability and career growth.
+Secondly, there are numerous **practical problems** associated with **language barriers**. **Navigating daily tasks** such as shopping, using public transportation, or accessing healthcare becomes complicated. For instance, reading signs, filling out forms, or explaining symptoms to a doctor can be daunting without proper language skills. Moreover, **employment opportunities** may be limited, as many jobs require proficiency in the local language, affecting one’s financial stability and career growth.
 
-In conclusion, living in a country without speaking the native language can cause serious social and practical problems, impacting both personal well-being and day-to-day functioning.
+In conclusion, living in a country without speaking the native language can cause serious social and **practical problems**, impacting both personal well-being and day-to-day functioning.
 
 **注释：**
 
@@ -53,36 +36,19 @@ In conclusion, living in a country without speaking the native language can caus
 - **navigating daily tasks** /ˈnævɪɡeɪtɪŋ ˈdeɪli tɑːsks/: 处理日常事务
 - **employment opportunities** /ɪmˈplɔɪmənt ˌɒpəˈtjuːnɪtiz/: 就业机会
 
-
-
+---
 ### Essay 2
 
-!!! note "Question"
+**Question: **
 *Some people believe that nowadays we have too many choices. To what extent do you agree or disagree with this statement?*
-
-**类型：** 观点型（Opinion Type）
-
-**提纲：**
-
-1. **引言**
-   - 引入话题
-   - 表明总体观点
-2. **主体段落 1**
-   - 讨论选择过多的负面影响
-   - 理由与例子
-3. **主体段落 2**
-   - 讨论选择多样化的积极方面
-   - 理由与例子
-4. **结论**
-   - 重申观点或总结主要论点
 
 **Essay:**
 
-The modern world offers an unprecedented number of choices in almost every aspect of life. I agree that having too many options can be overwhelming and may lead to decision paralysis, but it also provides opportunities for personalization and satisfaction.
+The modern world offers an **unprecedented** number of choices in almost every aspect of life. I agree that having too many options can be overwhelming and may lead to **decision paralysis**, but it also provides opportunities for **personalization** and satisfaction.
 
-On one hand, an excess of choices can cause stress and reduce the quality of decision-making. When faced with too many options, individuals may feel anxious about making the wrong choice. For example, spending hours selecting a product online due to endless varieties can lead to frustration and time wastage. Moreover, this overload can result in indecision, where people postpone decisions or avoid them altogether.
+On one hand, an excess of choices can cause stress and reduce the quality of decision-making. When faced with too many options, individuals may feel anxious about making the wrong choice. For example, spending hours selecting a product online due to endless varieties can lead to frustration and **time wastage**. Moreover, this overload can result in **indecision**, where people postpone decisions or avoid them altogether.
 
-On the other hand, a wide range of choices allows individuals to find options that best suit their preferences and needs. This personalization can lead to greater satisfaction and happiness. For instance, in education, students can choose from various courses and programs that align with their career goals and interests. Additionally, diverse options can foster competition among providers, leading to better quality and innovation.
+On the other hand, a wide range of choices allows individuals to find options that best suit their **preferences** and needs. This **personalization** can lead to greater satisfaction and happiness. For instance, in education, students can choose from various courses and programs that align with their career goals and interests. Additionally, diverse options can **foster competition** among providers, leading to better quality and **innovation**.
 
 In conclusion, while having many choices can be overwhelming, it also enables individuals to tailor decisions to their specific needs, suggesting that the abundance of options is generally beneficial.
 
@@ -96,101 +62,77 @@ In conclusion, while having many choices can be overwhelming, it also enables in
 - **time wastage** /taɪm ˈweɪstɪdʒ/: 时间浪费
 - **indecision** /ˌɪndɪˈsɪʒən/: 犹豫不决
 - **preferences** /ˈprɛfərənsɪz/: 偏好
-- **greater satisfaction** /ˈɡreɪtə ˌsætɪsˈfækʃən/: 更大的满意度
 - **foster competition** /ˈfɒstə ˌkɒmpɪˈtɪʃən/: 促进竞争
 - **innovation** /ˌɪnəʊˈveɪʃən/: 创新
 
-
+---
 ### Essay 3
 
-!!! note "Question"
-*Some people say History is one of the most important school subjects. Other people think that, in today’s world, subjects like Science and Technology are more important than History. Discuss both these views and give your own opinion.*
-
-**类型：** 讨论型（Discussion Type）
-
-**提纲：**
-
-1. **引言**
-   - 引入话题
-   - 简要概述两种观点
-2. **主体段落 1**
-   - 讨论历史科目的重要性
-   - 理由与例子
-3. **主体段落 2**
-   - 讨论科学和技术科目的重要性
-   - 理由与例子
-4. **结论**
-   - 表达个人观点并总结
+**Question: **
+*Some people say that advertising is extremely successful at persuading us to buy things. Other people think that advertising is so common that we no longer pay attention to it. Discuss both these views and give your own opinion.*
 
 **Essay:**
 
-The debate over the importance of History compared to Science and Technology in school curricula is ongoing. Some argue that History is crucial for understanding our past, while others believe that Science and Technology subjects are more relevant in today's world.
+**Advertising** plays a **pivotal role** in modern society, influencing **consumer behavior** and shaping **market trends**. While some believe that **advertising** is highly effective in persuading people to purchase products, others argue that its **omnipresence** has rendered it ineffective.
 
-Proponents of History emphasize that it teaches us about our heritage and helps prevent past mistakes. By learning about historical events, students can gain insights into societal developments and cultural identities. For example, studying world wars can highlight the consequences of conflict, promoting peace and empathy. Furthermore, History fosters critical thinking by analyzing cause and effect relationships over time.
+Supporters of **advertising’s persuasive power** highlight how **strategic campaigns** can significantly boost sales and **brand recognition**. For example, well-crafted **advertisements** for new smartphone models can create hype and drive **consumer interest**, leading to increased sales. Additionally, **advertisements** often appeal to **emotions and desires**, making products seem **indispensable**. **Celebrity endorsements** and attractive visuals further enhance the persuasive impact, convincing consumers to choose one brand over another.
 
-Conversely, supporters of Science and Technology subjects argue that they are essential for future innovation and economic growth. In an increasingly digital and globalized world, skills in these areas are in high demand. For instance, knowledge in computer science or biotechnology can lead to advancements that improve quality of life. Additionally, these subjects encourage problem-solving and creativity, which are valuable in various career paths.
+Conversely, the **saturation of advertising** in everyday life has led to **consumer desensitization**. With **advertisements** appearing on every platform—television, social media, billboards—people have become adept at ignoring them. For instance, the use of **ad blockers** and skipping commercials reflect a growing trend of avoiding **advertising content**. Moreover, the **repetitive nature** of **ads** can cause annoyance, reducing their effectiveness and even fostering **negative perceptions** of brands. As a result, some believe that the sheer volume of **advertising** has diminished its ability to influence purchasing decisions.
 
-In conclusion, while History provides important lessons from the past, Science and Technology subjects are more critical in preparing students for the future. Therefore, a balanced curriculum that includes all these subjects would be most beneficial.
+In my opinion, while **advertising** remains a powerful tool for influencing **consumer behavior**, its effectiveness is waning due to **overexposure** and **consumer fatigue**. Therefore, advertisers must innovate and create more **engaging and targeted campaigns** to capture attention in a **crowded marketplace**.
 
 **注释：**
 
-- **school curricula** /skuːl kəˈrɪkjʊlə/: 学校课程
-- **heritage** /ˈhɛrɪtɪdʒ/: 遗产
-- **societal developments** /səˈsaɪətəl dɪˈvɛləpmənts/: 社会发展
-- **cultural identities** /ˈkʌltʃərəl aɪˈdɛntɪtiz/: 文化认同
-- **consequences of conflict** /ˈkɒnsɪkwənsɪz əv ˈkɒnflɪkt/: 冲突的后果
-- **critical thinking** /ˈkrɪtɪkəl ˈθɪŋkɪŋ/: 批判性思维
-- **future innovation** /ˈfjuːtʃər ˌɪnəʊˈveɪʃən/: 未来的创新
-- **economic growth** /ˌiːkəˈnɒmɪk ɡrəʊθ/: 经济增长
-- **globalized world** /ˈɡləʊbəlaɪzd wɜːld/: 全球化的世界
-- **biotechnology** /ˌbaɪəʊtɛkˈnɒlədʒi/: 生物技术
-- **problem-solving** /ˈprɒbləm ˈsɒlvɪŋ/: 解决问题
-- **balanced curriculum** /ˈbælənst kəˈrɪkjʊləm/: 平衡的课程
+- **pivotal role** /ˈpɪvətl rəʊl/: 关键作用
+- **consumer behavior** /kənˈsjuːmər bɪˈheɪvjər/: 消费者行为
+- **market trends** /ˈmɑːkɪt trɛndz/: 市场趋势
+- **persuasive power** /pəˈsweɪsɪv ˈpaʊər/: 说服力
+- **brand recognition** /brænd ˌrɛkəɡˈnɪʃən/: 品牌认知
+- **strategic campaigns** /strəˈtiːdʒɪk kæmˈpeɪnz/: 战略性活动
+- **consumer interest** /kənˈsjuːmər ˈɪntrəst/: 消费者兴趣
+- **emotions and desires** /ɪˈməʊʃənz ænd dɪˈzaɪəz/: 情感和欲望
+- **indispensable** /ˌɪndɪˈspɛnsəbl/: 不可或缺的
+- **celebrity endorsements** /sɛlɪˈbrɪti ˌɛndəˈsmɛnts/: 名人代言
+- **omnipresence** /ɒmˈnɪprɪzəns/: 无处不在
+- **consumer desensitization** /kənˈsjuːmər ˌdɛsənˌsɪtɪˈzeɪʃən/: 消费者脱敏
+- **ad blockers** /æd ˈblɒkəz/: 广告拦截器
+- **repetitive nature** /rɪˈpɛtətɪv ˈneɪtʃər/: 重复性质
+- **negative perceptions** /ˈnɛɡətɪv pərˈsɛpʃənz/: 负面看法
+- **consumer fatigue** /kənˈsjuːmər fəˈtiːɡ/: 消费者疲劳
+- **engaging and targeted campaigns** /ɪnˈɡeɪdʒɪŋ ænd ˈtɑːɡətɪd kæmˈpeɪnz/: 有吸引力和有针对性的活动
+- **crowded marketplace** /ˈkraʊdɪd ˈmɑːkɪtpleɪs/: 拥挤的市场
 
-
+---
 ### Essay 4
 
-!!! note "Question" In spite of the advances made in agriculture, many people around the world still go hungry. Why is this the case? What can be done about this problem?*
-
-**类型：** 问题解决型（Problem-Solution Type）
-
-**提纲：**
-
-1. **引言**
-   - 引入话题
-   - 指出问题的现状
-2. **主体段落 1**
-   - 讨论造成饥饿的原因
-   - 理由与例子
-3. **主体段落 2**
-   - 提出解决饥饿问题的措施
-   - 理由与例子
-4. **结论**
-   - 总结主要论点或提出呼吁
+**Question: **
+*In some cultures, children are often told that they can achieve anything if they try hard enough. What are the advantages and disadvantages of giving children this message? Give reasons for your answer and include any relevant examples from your own knowledge or experience.*
 
 **Essay:**
 
-Despite significant advancements in agriculture, hunger remains a pressing issue worldwide. This paradox arises from factors such as unequal food distribution and socioeconomic challenges.
+Encouraging children by telling them they can achieve anything with enough effort is a common practice in many cultures. While this message can inspire and motivate, it also has potential drawbacks that need to be considered.
 
-One major reason is the imbalance in food distribution across the globe. While some countries produce surplus food, others suffer from shortages due to poor infrastructure or political instability. For example, regions affected by conflict may have fertile land but cannot farm effectively. Additionally, poverty prevents many people from accessing available food because they cannot afford it, even when supplies are abundant.
+One significant advantage of this message is that it **fosters a strong work ethic** and **resilience** in children. Believing that hard work can **overcome obstacles** encourages **persistence** and **dedication**, essential traits for **personal and professional success**. For example, a child who is told they can excel academically if they study diligently is more likely to develop effective study habits and a **commitment to learning**. Additionally, this **positive reinforcement** can boost **self-esteem** and confidence, enabling children to take on challenges and pursue their goals with determination.
 
-To address this problem, a combination of global and local efforts is necessary. Governments and international organizations can collaborate to improve food distribution networks, ensuring that surplus food reaches those in need. Implementing programs like food banks and subsidized markets can make food more accessible to the poor. Moreover, investing in sustainable farming practices and education can empower communities to produce their own food efficiently.
+However, there are also disadvantages to this approach. Telling children they can achieve anything may set **unrealistic expectations**, leading to disappointment and frustration when they encounter failures. For instance, a child who is constantly told they can become a professional athlete might experience **significant stress and anxiety** if they do not possess the necessary talent or face injuries. Furthermore, this message can overlook the importance of **external factors** such as **socio-economic status**, **access to resources**, and **inherent abilities**, which play crucial roles in achieving success. Consequently, children might develop a **skewed perception of reality**, believing that effort alone is sufficient to **overcome all barriers**.
 
-In conclusion, solving global hunger requires tackling the root causes of unequal food distribution and poverty through coordinated actions and sustainable solutions.
+In my opinion, while encouraging children to strive for their goals is beneficial, it is equally important to teach them about the complexities and challenges they may face. **Balancing motivation with realistic expectations** can help children develop both ambition and **resilience**.
 
 **注释：**
 
-- **advancements in agriculture** /ədˈvɑːnsmənts ɪn ˈæɡrɪkʌltʃə/: 农业的进步
-- **pressing issue** /ˈprɛsɪŋ ˈɪʃuː/: 紧迫的问题
-- **paradox** /ˈpærədɒks/: 矛盾
-- **imbalance in food distribution** /ɪmˈbæləns ɪn fuːd ˌdɪstrɪˈbjuːʃən/: 食物分配不均
-- **socioeconomic challenges** /ˌsəʊʃɪəʊˌɛkəˈnɒmɪk ˈtʃælɪndʒɪz/: 社会经济挑战
-- **surplus food** /ˈsɜːpləs fuːd/: 过剩的食物
-- **political instability** /pəˈlɪtɪkəl ˌɪnstəˈbɪlɪti/: 政治不稳定
-- **conflict-affected regions** /ˈkɒnflɪkt əˈfɛktɪd ˈriːdʒənz/: 受冲突影响的地区
-- **food distribution networks** /fuːd ˌdɪstrɪˈbjuːʃən ˈnɛtwɜːks/: 食物分配网络
-- **food banks** /fuːd bæŋks/: 食物银行
-- **subsidized markets** /ˈsʌbsɪdaɪzd ˈmɑːkɪts/: 补贴市场
-- **sustainable farming practices** /səˈsteɪnəbl ˈfɑːmɪŋ ˈpræktɪsɪz/: 可持续农业实践
-- **empower communities** /ɪmˈpaʊə kəˈmjuːnɪtiz/: 赋予社区权力
+- **fosters a strong work ethic** /ˈfɒstəz ə strɒŋ wɜːk ˈɛθɪk/: 培养强烈的职业道德
+- **resilience** /rɪˈzɪliəns/: 韧性
+- **positive reinforcement** /ˈpɒzətɪv ˌriːɪnˈfɔːsmənt/: 积极的强化
+- **self-esteem** /sɛlf ɪˈstiːm/: 自尊
+- **realistic expectations** /ˌriːəˈlɪstɪk ˌɛkspɛkˈteɪʃənz/: 现实的期望
+- **overcome obstacles** /ˌəʊvərˈkʌm ˈɒbstəkəlz/: 克服障碍
+- **commitment to learning** /kəˈmɪtmənt tə ˈlɜːnɪŋ/: 对学习的承诺
+- **unrealistic expectations** /ˌʌnriːəˈlɪstɪk ˌɛkspɛkˈteɪʃənz/: 不现实的期望
+- **significant stress and anxiety** /sɪɡˈnɪfɪkənt strɛs ænd æŋˈzaɪəti/: 重大的压力和焦虑
+- **skewed perception of reality** /skjuːd pəˈsɛpʃən əv riˈælɪti/: 对现实的偏颇认知
+- **external factors** /ɪkˈstɜːnəl ˈfaktəz/: 外部因素
+- **socio-economic status** /ˌsəʊsɪəʊˌɛkəˈnɒmɪk ˈsteɪtəs/: 社会经济地位
+- **access to resources** /ˈæksɛs tə rɪˈzɔːsɪz/: 资源的获取
+- **inherent abilities** /ɪnˈhɪərənt əˈbɪlɪtiz/: 固有能力
+- **balanced motivation** /ˈbælənst ˌməʊtɪˈveɪʃən/: 平衡的激励
 

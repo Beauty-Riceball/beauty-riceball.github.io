@@ -11,16 +11,15 @@
 !!! note "Question"
 *In some countries, owning a home rather than renting one is very important for people. Why might this be the case? Do you think this is a positive or negative situation? Give reasons for your answer and include any relevant examples from your own knowledge or experience.*
 
-
 **Essay:**
 
-Owning a home is often considered a significant milestone in many countries, holding substantial cultural and economic importance. While some believe that homeownership provides stability and investment benefits, others argue that it may lead to financial strain and reduced mobility.
+Owning a home is often considered a significant milestone in many countries, holding substantial **cultural and economic importance**. While some believe that **homeownership** provides **stability and security** and **investment benefits**, others argue that it may lead to **financial strain** and reduced **mobility**.
 
-One primary reason people value owning a home is the sense of stability and security it provides. Homeowners have a permanent place to live, free from the uncertainties of rental agreements and potential eviction. For instance, owning a house allows families to establish roots in a community, fostering stronger social connections and support networks. Additionally, property ownership is viewed as a long-term investment that can appreciate over time, offering financial benefits and wealth accumulation.
+One primary reason people value **owning a home** is the sense of **stability and security** it provides. **Homeowners** have a permanent place to live, free from the uncertainties of **rental agreements** and potential **eviction**. For instance, **owning a house** allows families to **establish roots** in a community, fostering stronger **social connections** and support networks. Additionally, **property ownership** is viewed as a long-term **investment** that can **appreciate over time**, offering financial benefits and **wealth accumulation**.
 
-However, owning a home can also have both positive and negative impacts on individuals and society. On the positive side, it can enhance personal satisfaction and pride, contributing to overall well-being. On the negative side, the financial burden of mortgage payments, maintenance costs, and property taxes can be overwhelming, especially in high-cost areas. Furthermore, owning a home can reduce an individual's flexibility to relocate for better job opportunities or personal reasons, potentially limiting career growth and personal development.
+However, **owning a home** can also have both positive and negative impacts on individuals and society. On the positive side, it can enhance personal satisfaction and pride, contributing to overall well-being. On the negative side, the **financial burden** of **mortgage payments**, **maintenance costs**, and **property taxes** can be overwhelming, especially in **high-cost areas**. Furthermore, **owning a home** can reduce an individual's flexibility to relocate for better job opportunities or personal reasons, potentially limiting **career growth** and personal development.
 
-In my opinion, while owning a home offers numerous benefits such as stability and investment potential, it is essential to consider the financial responsibilities and potential limitations it imposes. Therefore, homeownership can be both a positive and negative situation depending on an individual's circumstances and priorities.
+In my opinion, while **owning a home** offers numerous benefits such as **stability** and **investment potential**, it is essential to consider the **financial responsibilities** and potential **limitations** it imposes. Therefore, **homeownership** can be both a **positive** and **negative** situation depending on an individual's circumstances and priorities.
 
 **注释：**
 
@@ -44,6 +43,7 @@ In my opinion, while owning a home offers numerous benefits such as stability an
 - **financial responsibilities** /faɪˈnænʃəl rɪˌspɒnsəˈbɪlɪtiz/: 财务责任
 - **property ownership** /ˈprɒpəti ˈəʊnəʃɪp/: 财产所有权
 
+---
 
 ### Essay 2
 
@@ -52,13 +52,13 @@ In my opinion, while owning a home offers numerous benefits such as stability an
 
 **Essay:**
 
-The rapid advancement of digital technology has transformed the way we consume information, leading some to predict that printed newspapers and books will become obsolete. I partially agree with this statement, as while digital reading will dominate, there will still be a market for printed materials.
+The rapid advancement of **digital technology** has transformed the way we **consume information**, leading some to predict that **printed newspapers and books** will become **obsolete**. I partially agree with this statement, as while **digital reading** will dominate, there will still be a market for **printed materials**.
 
-One significant advantage of online reading is its accessibility and convenience. Digital platforms allow users to access a vast array of information instantly from anywhere, often at a lower cost or for free. For example, e-books can be downloaded to various devices, eliminating the need for physical storage and making it easier to carry multiple books at once. Additionally, online newspapers can be updated in real-time, providing the latest news without waiting for the next day's print edition. These benefits make digital reading an attractive option for many, contributing to the decline of printed materials.
+One significant advantage of **online reading** is its **accessibility and convenience**. **Digital platforms** allow users to access a vast array of information instantly from anywhere, often at a lower cost or for free. For example, **e-books** can be downloaded to various devices, eliminating the need for **physical storage** and making it easier to carry multiple books at once. Additionally, **online newspapers** can be updated in **real-time updates**, providing the latest news without waiting for the next day's print edition. These benefits make **digital reading** an attractive option for many, contributing to the decline of **printed materials**.
 
-However, there are still compelling reasons why printed newspapers and books will continue to be relevant. Many people prefer the tactile experience of reading on paper, finding it more enjoyable and easier on the eyes compared to screens. Moreover, printed materials do not rely on electronic devices or internet connectivity, making them accessible in environments where digital access is limited. For instance, books are often cherished as collectibles and passed down through generations, preserving cultural heritage. Furthermore, certain academic and professional fields still rely heavily on printed resources for their credibility and permanence.
+However, there are still compelling reasons why **printed newspapers and books** will continue to be relevant. Many people prefer the **tactile experience** of reading on paper, finding it more enjoyable and easier on the eyes compared to screens. Moreover, **printed materials** do not rely on **electronic devices** or **internet connectivity**, making them accessible in environments where **digital access** is limited. For instance, books are often cherished as collectibles and passed down through generations, preserving **cultural heritage**. Furthermore, certain **academic and professional fields** still rely heavily on **printed resources** for their **credibility and permanence**.
 
-In conclusion, while digital reading will increasingly overshadow printed newspapers and books due to its convenience and accessibility, there will remain a niche market for printed materials driven by personal preferences and specific needs.
+In conclusion, while **digital reading** will increasingly overshadow **printed newspapers and books** due to its **convenience and accessibility**, there will remain a **niche market** for **printed materials** driven by **personal preferences** and specific needs.
 
 **注释：**
 
@@ -78,7 +78,7 @@ In conclusion, while digital reading will increasingly overshadow printed newspa
 - **niche market** /niːʃ ˈmɑːkɪt/: 利基市场
 - **personal preferences** /ˈpɜːsənl ˌprɛf(ə)ˈrɛnsiz/: 个人偏好
 
-
+---
 
 ### Essay 3
 
@@ -87,13 +87,13 @@ In conclusion, while digital reading will increasingly overshadow printed newspa
 
 **Essay:**
 
-Advertising plays a pivotal role in modern society, influencing consumer behavior and shaping market trends. While some believe that advertising is highly effective in persuading people to purchase products, others argue that its omnipresence has rendered it ineffective.
+**Advertising** plays a **pivotal role** in modern society, influencing **consumer behavior** and shaping **market trends**. While some believe that **advertising** is highly effective in persuading people to purchase products, others argue that its **omnipresence** has rendered it ineffective.
 
-Supporters of advertising’s persuasive power highlight how strategic campaigns can significantly boost sales and brand recognition. For example, well-crafted advertisements for new smartphone models can create hype and drive consumer interest, leading to increased sales. Additionally, advertisements often appeal to emotions and desires, making products seem indispensable. Celebrity endorsements and attractive visuals further enhance the persuasive impact, convincing consumers to choose one brand over another.
+Supporters of **advertising’s persuasive power** highlight how **strategic campaigns** can significantly boost sales and **brand recognition**. For example, well-crafted **advertisements** for new smartphone models can create hype and drive **consumer interest**, leading to increased sales. Additionally, **advertisements** often appeal to **emotions and desires**, making products seem **indispensable**. **Celebrity endorsements** and attractive visuals further enhance the persuasive impact, convincing consumers to choose one brand over another.
 
-Conversely, the saturation of advertising in everyday life has led to consumer desensitization. With advertisements appearing on every platform—television, social media, billboards—people have become adept at ignoring them. For instance, the use of ad blockers and skipping commercials reflect a growing trend of avoiding advertising content. Moreover, the repetitive nature of ads can cause annoyance, reducing their effectiveness and even fostering negative perceptions of brands. As a result, some believe that the sheer volume of advertising has diminished its ability to influence purchasing decisions.
+Conversely, the **saturation of advertising** in everyday life has led to **consumer desensitization**. With **advertisements** appearing on every platform—television, social media, billboards—people have become adept at ignoring them. For instance, the use of **ad blockers** and skipping commercials reflect a growing trend of avoiding **advertising content**. Moreover, the **repetitive nature** of **ads** can cause annoyance, reducing their effectiveness and even fostering **negative perceptions** of brands. As a result, some believe that the sheer volume of **advertising** has diminished its ability to influence purchasing decisions.
 
-In my opinion, while advertising remains a powerful tool for influencing consumer behavior, its effectiveness is waning due to overexposure and consumer fatigue. Therefore, advertisers must innovate and create more engaging and targeted campaigns to capture attention in a crowded marketplace.
+In my opinion, while **advertising** remains a powerful tool for influencing **consumer behavior**, its effectiveness is waning due to **overexposure** and **consumer fatigue**. Therefore, advertisers must innovate and create more **engaging and targeted campaigns** to capture attention in a **crowded marketplace**.
 
 **注释：**
 
@@ -116,6 +116,7 @@ In my opinion, while advertising remains a powerful tool for influencing consume
 - **engaging and targeted campaigns** /ɪnˈɡeɪdʒɪŋ ænd ˈtɑːɡətɪd kæmˈpeɪnz/: 有吸引力和有针对性的活动
 - **crowded marketplace** /ˈkraʊdɪd ˈmɑːkɪtpleɪs/: 拥挤的市场
 
+---
 
 ### Essay 4
 
@@ -125,11 +126,11 @@ In my opinion, while advertising remains a powerful tool for influencing consume
 
 Encouraging children by telling them they can achieve anything with enough effort is a common practice in many cultures. While this message can inspire and motivate, it also has potential drawbacks that need to be considered.
 
-One significant advantage of this message is that it fosters a strong work ethic and resilience in children. Believing that hard work can overcome obstacles encourages persistence and dedication, essential traits for personal and professional success. For example, a child who is told they can excel academically if they study diligently is more likely to develop effective study habits and a commitment to learning. Additionally, this positive reinforcement can boost self-esteem and confidence, enabling children to take on challenges and pursue their goals with determination.
+One significant advantage of this message is that it **fosters a strong work ethic** and **resilience** in children. Believing that hard work can **overcome obstacles** encourages **persistence** and **dedication**, essential traits for **personal and professional success**. For example, a child who is told they can excel academically if they study diligently is more likely to develop effective study habits and a **commitment to learning**. Additionally, this **positive reinforcement** can boost **self-esteem** and confidence, enabling children to take on challenges and pursue their goals with determination.
 
-However, there are also disadvantages to this approach. Telling children they can achieve anything may set unrealistic expectations, leading to disappointment and frustration when they encounter failures. For instance, a child who is constantly told they can become a professional athlete might experience significant stress and anxiety if they do not possess the necessary talent or face injuries. Furthermore, this message can overlook the importance of external factors such as socio-economic status, access to resources, and inherent abilities, which play crucial roles in achieving success. Consequently, children might develop a skewed perception of reality, believing that effort alone is sufficient to overcome all barriers.
+However, there are also disadvantages to this approach. Telling children they can achieve anything may set **unrealistic expectations**, leading to disappointment and frustration when they encounter failures. For instance, a child who is constantly told they can become a professional athlete might experience **significant stress and anxiety** if they do not possess the necessary talent or face injuries. Furthermore, this message can overlook the importance of **external factors** such as **socio-economic status**, **access to resources**, and **inherent abilities**, which play crucial roles in achieving success. Consequently, children might develop a **skewed perception of reality**, believing that effort alone is sufficient to **overcome all barriers**.
 
-In my opinion, while encouraging children to strive for their goals is beneficial, it is equally important to teach them about the complexities and challenges they may face. Balancing motivation with realistic expectations can help children develop both ambition and resilience.
+In my opinion, while encouraging children to strive for their goals is beneficial, it is equally important to teach them about the complexities and challenges they may face. **Balancing motivation with realistic expectations** can help children develop both ambition and **resilience**.
 
 **注释：**
 
@@ -148,4 +149,3 @@ In my opinion, while encouraging children to strive for their goals is beneficia
 - **access to resources** /ˈæksɛs tə rɪˈzɔːsɪz/: 资源的获取
 - **inherent abilities** /ɪnˈhɪərənt əˈbɪlɪtiz/: 固有能力
 - **balanced motivation** /ˈbælənst ˌməʊtɪˈveɪʃən/: 平衡的激励
-
