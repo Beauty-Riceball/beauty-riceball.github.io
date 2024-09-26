@@ -113,63 +113,6 @@
 
 ### test1
 
-#### *Some people believe that it is good to share as much information as possible in scientific research, business and the academic world. Others believe that some information is too important or too valuable to be shared freely. Discuss both these views and give your own opinion.*
-
-**类型：** 讨论型（Discussion Type）
-
-**提纲：**
-
-1. **引言**
-   - 引入话题
-   - 简要概述两种观点
-2. **主体段落 1**
-   - 支持广泛分享信息的观点
-   - 理由与例子
-3. **主体段落 2**
-   - 支持限制信息分享的观点
-   - 理由与例子
-4. **结论**
-   - 表达个人观点并总结
-
-**Essay:**
-
-The debate over whether **open information sharing** in scientific, business, and academic fields is beneficial or whether certain information should remain restricted is highly polarized. **On one hand**, some advocate for **transparency** and **collaboration** as means to **accelerate innovation**. **On the other hand**, others argue that **proprietary** and **sensitive information** must be protected to maintain **competitive advantage** and **national security**.
-
-Supporters of extensive information sharing contend that **free access to data** fosters **collective progress** and **breakthrough discoveries**. For instance, in the scientific community, sharing research findings can lead to **rapid advancements** and **interdisciplinary collaborations** that drive innovation forward.
-
-Conversely, proponents of restricted information assert that **guarding critical data** is essential to prevent **misuse** and **protect intellectual property**. In the business sector, companies invest heavily in **proprietary technologies** to maintain their **market position** and ensure **long-term profitability**.
-
-**Conclusion**
-
-In conclusion, while the **advantages of open information sharing** can significantly propel innovation and collective progress, I believe that certain information must remain protected to safeguard competitive and security interests.
-
-**注释：**
-
-- **open information sharing**: 开放的信息共享
-- **transparency**: 透明度
-- **collaboration**: 合作
-- **accelerate innovation**: 加速创新
-- **proprietary**: 专有的
-- **sensitive information**: 敏感信息
-- **competitive advantage**: 竞争优势
-- **national security**: 国家安全
-- **free access to data**: 免费获取数据
-- **collective progress**: 集体进步
-- **breakthrough discoveries**: 突破性发现
-- **rapid advancements**: 快速进展
-- **interdisciplinary collaborations**: 跨学科合作
-- **guarding critical data**: 保护关键数据
-- **misuse**: 滥用
-- **protect intellectual property**: 保护知识产权
-- **proprietary technologies**: 专有技术
-- **market position**: 市场地位
-- **long-term profitability**: 长期盈利能力
-- **advantages of open information sharing**: 开放信息共享的优势
-
-
-
-### test1
-
 !!! note "Question"
 *Some people believe that it is good to share as much information as possible in scientific research, business and the academic world. Others believe that some information is too important or too valuable to be shared freely. Discuss both these views and give your own opinion.*
 
