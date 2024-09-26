@@ -283,10 +283,8 @@ In summary, while a youthful population can significantly **boost economic growt
 
 ### test3
 
-!!! note "Question"
-*Some people believe that allowing children to make their own choices on everyday matters (such as food, clothes and entertainment) is likely to result in a society of individuals who only think about their own wishes. Other people believe that it is important for children to make decisions about matters that affect them. Discuss both these views and give your own opinion.*
+!!! note "Question" *Some people believe that allowing children to make their own choices on everyday matters (such as food, clothes and entertainment) is likely to result in a society of individuals who only think about their own wishes. Other people believe that it is important for children to make decisions about matters that affect them. Discuss both these views and give your own opinion.（Discussion Type）*
 
-**类型：** 讨论型（Discussion Type）
 
 **提纲：**
 
@@ -304,39 +302,37 @@ In summary, while a youthful population can significantly **boost economic growt
 
 **Essay:**
 
-The extent to which **children should be permitted** to **make their own choices** in daily matters is a subject of considerable debate. **On one side**, some argue that excessive **autonomy** can lead to **self-centeredness** and a lack of **social responsibility**, fostering individuals who prioritize their own desires over communal well-being.
+Allowing children to make their own choices on everyday matters such as food, clothes, and entertainment is a topic of considerable debate. Some people argue that this freedom may lead to a self-centered society, while others believe it is crucial for children's development.
 
-**Conversely**, others maintain that allowing children to **exercise decision-making** in matters that affect them is crucial for their **personal development** and **autonomy**. This empowerment can **build confidence** and **promote critical thinking**, enabling children to become **responsible adults** who can contribute positively to society.
+Those who support limiting children's autonomy contend that excessive freedom can result in individuals who prioritize their own desires over the collective good. When children make decisions solely based on personal preference without guidance, they may develop selfish tendencies. For example, always allowing a child to choose their own meals might lead to unhealthy eating habits and disregard for family traditions. Additionally, unchecked choices could hinder their ability to consider others' needs, affecting social harmony. Therefore, some believe that setting boundaries is essential to foster a sense of responsibility and community awareness.
 
-**In my view**, a balanced approach is essential. While granting children the freedom to make choices fosters **independence** and **critical thinking skills**, it is equally important to **guide** and **mentor** them to understand the **consequences** of their decisions. This ensures that children develop into **well-rounded individuals** who can balance personal desires with social responsibilities.
+Conversely, proponents of allowing children to make their own choices argue that it is essential for their personal development. By making decisions about matters that affect them, children learn to take responsibility and develop critical thinking skills. For instance, choosing their own extracurricular activities enables them to discover their interests and talents, which can boost confidence and motivation. Moreover, this autonomy can encourage independence and prepare them for future challenges where decision-making is crucial. Therefore, granting children the freedom to choose can contribute positively to their growth into well-rounded individuals.
 
-**Conclusion**
-
-Ultimately, while allowing children to make their own choices is vital for their **personal growth**, it is important to provide appropriate **guidance** to prevent the emergence of **self-centered** individuals, thereby fostering a harmonious society.
+In conclusion, while allowing children to make their own choices promotes independence and personal development, it is important to provide appropriate guidance to ensure they also develop social responsibility.
 
 **注释：**
 
-- **children should be permitted** /ˈtɛntʃuː ʃʊd bi pərˈmɪtɪd/: 应允许儿童
-- **make their own choices** /meɪk ðɛə əʊn ˈtʃɔɪsɪz/: 做出自己的选择
-- **autonomy** /ɔːˈtɒnəmi/: 自主权
-- **self-centeredness** /ˌsɛlfˈsɛntədnɪs/: 自我中心
-- **social responsibility** /ˈsəʊʃəl rɪˌspɒnsəˈbɪləti/: 社会责任
-- **exercise decision-making** /ˌɛksəsaɪz dɪˈsɪʒənˌmeɪkɪŋ/: 行使决策能力
+- **allowing children to make their own choices** /əˈlaʊɪŋ ˈtʃɪldrən tuː meɪk ðeər əʊn ˈtʃɔɪsɪz/: 允许儿童做出自己的选择
+- **self-centered society** /sɛlf ˈsɛntəd səˈsaɪəti/: 以自我为中心的社会
+- **children's development** /ˈtʃɪldrənz dɪˈvɛləpmənt/: 儿童的发展
+- **limiting children's autonomy** /ˈlɪmɪtɪŋ ˈtʃɪldrənz ɔːˈtɒnəmi/: 限制儿童的自主权
+- **excessive freedom** /ɪkˈsɛsɪv ˈfriːdəm/: 过度的自由
+- **prioritize their own desires** /praɪˈɒrətaɪz ðeər əʊn dɪˈzaɪəz/: 优先考虑自己的欲望
+- **collective good** /kəˈlɛktɪv ɡʊd/: 集体利益
+- **selfish tendencies** /ˈsɛlfɪʃ ˈtɛndənsiz/: 自私的倾向
+- **unhealthy eating habits** /ʌnˈhɛlθi ˈiːtɪŋ ˈhæbɪts/: 不健康的饮食习惯
+- **social harmony** /ˈsəʊʃəl ˈhɑːməni/: 社会和谐
+- **setting boundaries** /ˈsɛtɪŋ ˈbaʊndəriz/: 设定界限
+- **community awareness** /kəˈmjuːnɪti əˈweənəs/: 社区意识
+- **proponents** /prəˈpəʊnənts/: 支持者
 - **personal development** /ˈpɜːsənl dɪˈvɛləpmənt/: 个人发展
-- **autonomy** /ɔːˈtɒnəmi/: 自主权
-- **build confidence** /bɪld ˈkɒnfɪdəns/: 建立信心
-- **promote critical thinking** /prəˈməʊt ˈkrɪtɪkəl ˈθɪŋkɪŋ/: 促进批判性思维
-- **responsible adults** /rɪˈspɒnsəbl ˈædʌlts/: 负责任的成年人
-- **independence** /ˌɪndɪˈpɛndəns/: 独立
+- **take responsibility** /teɪk rɪˌspɒnsəˈbɪləti/: 承担责任
 - **critical thinking skills** /ˈkrɪtɪkəl ˈθɪŋkɪŋ skɪlz/: 批判性思维能力
-- **guide** /ɡaɪd/: 指导
-- **mentor** /ˈmɛntɔːr/: 导师
-- **consequences** /ˈkɒnsɪkwənsɪz/: 后果
-- **well-rounded individuals** /wɛlˈraʊndɪd ˌɪndɪˈvɪdʒuəlz/: 全面发展的个人
-- **personal growth** /ˈpɜːsənl ɡrəʊθ/: 个人成长
-- **guidance** /ˈɡaɪdɪns/: 指导
-- **self-centered** /ˌsɛlfˈsɛntəd/: 自我中心
-
+- **extracurricular activities** /ˌɛkstrəkəˈrɪkjʊlər ækˈtɪvɪtiz/: 课外活动
+- **boost confidence** /buːst ˈkɒnfɪdəns/: 增强信心
+- **well-rounded individuals** /wɛl ˈraʊndɪd ˌɪndɪˈvɪdʒuəlz/: 全面发展的个人
+- **appropriate guidance** /əˈprəʊprɪət ˈɡaɪdəns/: 适当的指导
+- **social responsibility** /ˈsəʊʃəl rɪˌspɒnsəˈbɪləti/: 社会责任
 
 
 ### test4
