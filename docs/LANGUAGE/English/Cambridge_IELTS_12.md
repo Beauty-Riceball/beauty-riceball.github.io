@@ -270,21 +270,22 @@ Ultimately, although constructing new high-speed railway lines presents enticing
 
 
 
-### *Some people believe that allowing children to make their own choices on everyday matters (such as food, clothes and entertainment) is likely to result in a society of individuals who only think about their own wishes. Other people believe that it is important for children to make decisions about matters that affect them. Discuss both these views and give your own opinion.*
-
-**类型：** 讨论型（Discussion Type）
+> *Some people believe that allowing children to make their own choices on everyday matters (such as food, clothes and entertainment) is likely to result in a society of individuals who only think about their own wishes. Other people believe that it is important for children to make decisions about matters that affect them. Discuss both these views and give your own opinion.*
+>
+> **类型：** 讨论型（Discussion Type）
+>
 
 **提纲：**
 
 1. **引言**
-   - 引入话题
-   - 简要概述两种观点
+    1. 引入话题
+    2. 简要概述两种观点
 2. **主体段落 1**
-   - 支持限制儿童自主选择的观点
-   - 理由与例子
+    1. 支持限制儿童自主选择的观点
+    2. 理由与例子
 3. **主体段落 2**
-   - 支持儿童自主决策的观点
-   - 理由与例子
+    1. 支持儿童自主决策的观点
+    2. 理由与例子
 4. **结论**
    - 表达个人观点并总结
 
