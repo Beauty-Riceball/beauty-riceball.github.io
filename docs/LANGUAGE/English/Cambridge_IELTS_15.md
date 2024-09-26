@@ -11,21 +11,6 @@
 !!! note "Question"
 *In some countries, owning a home rather than renting one is very important for people. Why might this be the case? Do you think this is a positive or negative situation? Give reasons for your answer and include any relevant examples from your own knowledge or experience.*
 
-**类型：** 讨论型（Discussion Type）
-
-**提纲：**
-
-1. **引言**
-   - 引入话题
-   - 简要概述两种观点
-2. **主体段落 1**
-   - 讨论拥有房屋的重要性
-   - 理由与例子
-3. **主体段落 2**
-   - 讨论拥有房屋的积极或消极影响
-   - 理由与例子
-4. **结论**
-   - 表达个人观点并总结
 
 **Essay:**
 
@@ -65,22 +50,6 @@ In my opinion, while owning a home offers numerous benefits such as stability an
 !!! note "Question"
 *In the future, nobody will buy printed newspapers or books because they will be able to read everything they want online without paying. To what extent do you agree or disagree with this statement? Give reasons for your answer and include any relevant examples from your own knowledge or experience.*
 
-**类型：** 观点型（Opinion Type）
-
-**提纲：**
-
-1. **引言**
-   - 引入话题
-   - 简要概述个人观点
-2. **主体段落 1**
-   - 讨论电子阅读的优势
-   - 理由与例子
-3. **主体段落 2**
-   - 讨论纸质出版物的持续需求
-   - 理由与例子
-4. **结论**
-   - 表达个人观点并总结
-
 **Essay:**
 
 The rapid advancement of digital technology has transformed the way we consume information, leading some to predict that printed newspapers and books will become obsolete. I partially agree with this statement, as while digital reading will dominate, there will still be a market for printed materials.
@@ -115,22 +84,6 @@ In conclusion, while digital reading will increasingly overshadow printed newspa
 
 !!! note "Question"
 *Some people say that advertising is extremely successful at persuading us to buy things. Other people think that advertising is so common that we no longer pay attention to it. Discuss both these views and give your own opinion.*
-
-**类型：** 讨论型（Discussion Type）
-
-**提纲：**
-
-1. **引言**
-   - 引入话题
-   - 简要概述两种观点
-2. **主体段落 1**
-   - 讨论广告的说服力
-   - 理由与例子
-3. **主体段落 2**
-   - 讨论广告的普及导致忽视
-   - 理由与例子
-4. **结论**
-   - 表达个人观点并总结
 
 **Essay:**
 
@@ -167,23 +120,6 @@ In my opinion, while advertising remains a powerful tool for influencing consume
 ### Essay 4
 
 !!! note "*In some cultures, children are often told that they can achieve anything if they try hard enough. What are the advantages and disadvantages of giving children this message? Give reasons for your answer and include any relevant examples from your own knowledge or experience.*"
-
-
-**类型：** 讨论型（Discussion Type）
-
-**提纲：**
-
-1. **引言**
-   - 引入话题
-   - 简要概述两种观点
-2. **主体段落 1**
-   - 讨论这种信息的优势
-   - 理由与例子
-3. **主体段落 2**
-   - 讨论这种信息的劣势
-   - 理由与例子
-4. **结论**
-   - 表达个人观点并总结
 
 **Essay:**
 
