@@ -2,6 +2,75 @@
 
 ## Speaking
 
+### IELTS Speaking Preparation: Part 1 - Future
+
+---
+
+*In the first part of the IELTS Speaking test, the examiner will introduce themselves and confirm your identity. They will then ask you questions related to your studies, work, accommodation, or other familiar topics. Below are some example questions and sample answers on the topic of **Future**.*
+
+---
+
+#### ***1. What job would you like to have ten years from now? [Why?]***
+
+**Sample Answer:**
+
+Wow, that's a tough job interview question, let me think. Generally, I don't think that far into the future or worry about stuff. But I do hope I can become an **expert** of some sort in my field and probably **reach a more senior level** over time as I develop additional experience and expertise. I don't usually **think that far into the future**, but achieving a higher position would allow me to contribute more effectively to my organization and pursue my professional goals.
+
+**Advanced Vocabulary and Phrases:**
+
+- **expert** /ˈɛkspɜːrt/: 专家
+- **reach a more senior level** /riːʧ ə mɔːr ˈsiːniər ˈlɛvəl/: 获得更加高级的职位
+- **think that far into the future** /θɪŋk ðət fɑːr ˈɪntuː ðə ˈfjuːtʃər/: 考虑那么久远的未来
+
+---
+
+#### ***2. How useful will English be for your future? [Why/Why not?]***
+
+**Sample Answer:**
+
+Immensely. I mean, as long as English is still the closest thing to the **lingua franca** of the world, I'll have to master this language in order to **communicate effectively** with people from other countries. It will also make a huge difference in **job hunting**, too. Proficiency in English opens up more career opportunities and allows for better collaboration in international settings.
+
+**Advanced Vocabulary and Phrases:**
+
+- **lingua franca** /ˈlɪŋgwə ˈfræŋkə/: 通用语
+- **make a huge difference** /meɪk ə hjuːdʒ ˈdɪfərəns/: 带来显著的影响
+- **job hunting** /dʒɒb ˈhʌntɪŋ/: 求职
+- **communicate effectively** /kəˌmjuːnɪˈkeɪt ɪˈfɛktɪvli/: 有效沟通
+
+---
+
+#### ***3. How much travelling do you hope to do in the future? [Why/Why not?]***
+
+**Sample Answer:**
+
+As much as possible! Well, it's my wish anyway. But I do hope I can **make some time for travelling** when I'm studying abroad. I'm **planning to travel around Europe** and I'm **counting down the days** until my trip to Paris!
+
+**Advanced Vocabulary and Phrases:**
+
+- **make time for** /meɪk taɪm fɔːr/: 为腾出时间
+- **be planning to** /bi ˈplænɪŋ tuː/: 计划做某事
+- **counting down the days until** /ˈkaʊntɪŋ daʊn ðə deɪz ˈʌntɪl/: 为某事倒计时（非常期待做某事）
+
+---
+
+#### ***4. How do you think your life will change in the future? [Why/Why not?]***
+
+**Sample Answer:**
+
+Well, that's a very **broad question**. Let me think. I do hope a master's degree from a reputable university will give me a **head start** on my career, but I'm not even sure there is a career for me in the future given the rapid advancement in technology. But I guess I'll just **roll with the punches**!
+
+**Advanced Vocabulary and Phrases:**
+
+- **broad question** /brɔːd ˈkwɛstʃən/: 宽泛的问题
+- **given** /ˈɡɪvən/: 鉴于
+- **head start** /hɛd stɑːrt/: 领先优势
+- **roll with the punches** /roʊl wɪð ðə ˈpʌnʧɪz/: 随机应变（尤指应对不利局面）
+
+---
+
+
+
+
 
 ## writing
 
