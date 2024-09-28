@@ -577,6 +577,272 @@ Yes, I agree. We all have different needs for **accommodation** at different sta
 ---
 
 
+### IELTS Speaking Preparation: Part 1 - Your Neighbourhood
+
+---
+    
+*In the first part of the IELTS Speaking test, the examiner will introduce themselves and confirm your identity. They will then ask you questions related to your studies, work, accommodation, or other familiar topics. Below are some example questions and sample answers on the topic of **Your Neighbourhood**.*
+
+---
+    
+#### ***1. Do you like the neighbourhood you live in? [Why/Why not?]***
+    
+**Sample Answer:**
+    
+Yes, absolutely. It is a place that I've been living in my whole life, and it means a lot to me. I'm **fond of** listening to the birds’ **chirping** and hearing my **neighbours’** conversations each day. It seems that everything is **harmonious** around me.
+    
+**Advanced Vocabulary and Phrases:**
+    
+- **means a lot to me** /miːnz ə lɒt tuː miː/: 对我很重要
+- **chirping** /ˈʧɜːrpɪŋ/: 鸟叫
+- **be fond of** /bi fɒnd əv/: 喜爱某事物
+- **harmonious** /hɑːrˈməʊniəs/: 和谐的
+
+---
+    
+#### ***2. What do you do in your neighbourhood in your free time? [Why/Why not?]***
+    
+**Sample Answer:**
+    
+The area around me is quite convenient. A **supermarket** is a **stone's throw** from my home, so if I'm free, I'll go there to buy some **daily necessities**. Apart from that, there's a **park** nearby. For me, the place is definitely a **haven of tranquility**. Whenever I've got spare time, I'll **take a stroll** there.
+    
+**Advanced Vocabulary and Phrases:**
+    
+- **a stone's throw** /ə stəʊnz θrəʊ/: 距离很近
+- **supermarket** /ˈsuːpərˌmɑːrkɪt/: 超级市场
+- **daily necessities** /ˈdeɪli nəˈsɛsɪtiz/: 日常必需品
+- **park** /pɑːrk/: 公园
+- **a haven of tranquility** /ə ˈheɪvən əv trænˈkwɪlɪti/: 静谧场所
+- **take a stroll** /teɪk ə strəʊl/: 悠闲漫步
+
+---
+    
+#### ***3. What new things would you like to have in your neighbourhood? [Why/Why not?]***
+    
+**Sample Answer:**
+    
+Let's see, what new stuff would be added to the area? Oh, if there was a **safe and secure parcel dropbox** installed in the neighbourhood, everyone would be so pleased. You know, currently in my community, since most people have to work outside, many delivered packages are always **piled up** at the corner of a small **convenience store**. This has not only caused trouble for the owner, but the whole situation has made it hard to find one's delivered items. If everyone’s parcels could be placed in their own dropbox, it would be **wonderful**.
+    
+**Advanced Vocabulary and Phrases:**
+    
+- **safe and secure** /seɪf ənd sɪˈkjʊər/: 安全而有保障的
+- **parcel dropbox** /ˈpɑːrsəl ˈdrɒpˌbɒks/: 快递箱
+- **piled up** /paɪld ʌp/: 堆积
+- **convenience store** /kənˈviːniəns stɔːr/: 便利店
+- **wonderful** /ˈwʌndərfʊl/: 美妙的
+
+---
+    
+#### ***4. Would you like to live in another neighbourhood in your town or city? [Why/Why not?]***
+    
+**Sample Answer:**
+    
+If I had loads of money, I'd love to move into a more convenient place. Actually, I've seen an **apartment building** in my city where there's a **shopping centre** on the ground floor. If I lived in that place, whenever I needed to buy something, I would just go downstairs. Isn't it a **perfect place to live in**?
+    
+**Advanced Vocabulary and Phrases:**
+    
+- **loads of** /ləʊdz əv/: 很多
+- **apartment building** /əˈpɑːtmənt ˈbɪldɪŋ/: 公寓楼
+- **shopping centre** /ˈʃɒpɪŋ ˈsɛntər/: 购物中心
+- **perfect place to live in** /ˈpɜːrfɪkt pleɪs tuː lɪv ɪn/: 完美的居住地
+
+---
+    
+**Note:** Practicing these responses and understanding the advanced vocabulary will help enhance your fluency and coherence during the IELTS Speaking test.
+
+---
+
+
+### IELTS Speaking Preparation: Part 2 - Describe a Website You Have Bought Something From
+
+---
+    
+***Describe a website you have bought something from.***
+    
+***You should say:***
+    
+- ***what the website is***
+- ***what you bought from this website***
+- ***how satisfied you were with what you bought***
+- ***and explain what you liked and disliked about using this website.***
+    
+---
+    
+**Sample Answer:**
+    
+A website I've bought an item from is a well-known one in my country, called **Taobao.com**.
+
+Last month, I purchased an adorable costume for my cat from the website. It has a special design, featuring two fake arms on each side. What the owner needs to do is ensure the entire piece is put on the cat's forelegs, and then the magic happens—you can see the cat walking like a human. I bought the item mainly because I wanted to surprise my cat on his very first birthday. Additionally, it was on a big sale, so I snapped it up immediately when I saw the price tag.
+
+After waiting for a few days, I received the piece of clothing. The moment I got it, I dressed my cat up, and he really looked like a cute person walking around the room. Seeing this made me laugh my head off. As you can see, I was very happy with the item, which was exactly as described on the creative shop. To be honest, I was quite curious about who came up with the idea of making a specially designed costume for cats.
+
+Speaking of how I feel about the website, I'd say that in general, I'm a big fan of it. First of all, no matter what I want to buy, I can always find the right item on it. On top of that, once I make a purchase, the next time I visit the website, there are similar items recommended on the front page, which means the website knows me pretty well. However, this brings some problems. Sometimes, it's really hard for me to resist the temptation of scrolling through the items because almost every single item is something I like. During this process, time just slips away, and it becomes a big waste of time. So, I really need to set a time limit for using the website.
+    
+---
+    
+### **Advanced Vocabulary and Phrases**
+    
+- **Taobao.com** /taʊˈbaʊ.com/: 淘宝网（中国知名购物网站）
+- **adorable** /əˈdɔːrəbəl/: 可爱的
+- **special design** /ˈspɛʃəl dɪˈzaɪn/: 特别的设计
+- **features** /ˈfiːtʃərz/: 特征
+- **forelegs** /ˈfɔːrlɛgz/: 前腿
+- **snap it up** /snæp ɪt ʌp/: 一口气买下
+- **price tag** /praɪs tæɡ/: 价格标签
+- **received** /rɪˈsiːvd/: 收到
+- **dressed up** /drɛst ʌp/: 打扮
+- **cute person walking** /kjuːt ˈpɜːrsən ˈwɔːkɪŋ/: 可爱的人走路
+- **laugh my head off** /læf maɪ hɛd ɔːf/: 笑得前仰后合
+- **creative shop** /kriˈeɪtɪv ʃɒp/: 创意商店
+- **specially designed** /ˈspɛʃəli dɪˈzaɪnd/: 专门设计的
+- **big fan** /bɪɡ fæn/: 大粉丝
+- **similar items recommended** /ˈsɪmələr ˈaɪtəmz ˌrɛkəˈmɛndɪd/: 推荐的相似商品
+- **temptation of scrolling** /tɛmˈteɪʃən əv ˈskroʊlɪŋ/: 滚动浏览的诱惑
+- **something I like** /ˈsʌmθɪŋ aɪ laɪk/: 我喜欢的东西
+- **time just slips away** /taɪm dʒʌst slɪps əˈweɪ/: 时间悄然流逝
+- **set a time limit** /sɛt ə taɪm ˈlɪmɪt/: 设定时间限制
+    
+---
+    
+**Note:** Practicing this response and familiarizing yourself with the advanced vocabulary will help enhance your fluency and coherence during the IELTS Speaking test.
+    
+---
+
+
+### IELTS Speaking Preparation: Part 3 - Shopping Online
+
+---
+
+#### ***1. What kinds of things do people in your country often buy from online shops?***
+
+**Sample Answer:**
+
+Chinese people are **fond of buying** all kinds of **stuff** in the **virtual world**, including **clothes**, **food**, **electronic devices**—you name it. There are **countless choices** available. On top of that, **E-retailers** have always promoted their products by **offering big discounts**; it's hard for buyers to resist the temptation of making **online purchases**.
+
+**Advanced Vocabulary and Phrases:**
+
+- **virtual world** /ˈvɜːrtʃuəl wɜːrld/: 虚拟世界
+- **E-retailers** /iː-ˈriːteɪlərz/: 网络零售商
+- **offering big discounts** /ˈɒfərɪŋ bɪɡ dɪsˈkaʊnts/: 提供巨大折扣
+- **countless choices** /ˈkaʊntləs ˈʧɔɪsɪz/: 无数选择
+- **online purchases** /ˈɒnˌlaɪn ˈpɜːrʧəsɪz/: 在线支付
+
+---
+
+#### ***2. Why has online shopping become so popular in many countries?***
+
+**Sample Answer:**
+
+In my opinion, there are several reasons that make **online shopping** such a hit worldwide. First of all, people are totally **into** the activity because of its huge **convenience**. Online shopping is now possible on one's **mobile phone**; it's easy to **access** and the **way of purchase** is **user-friendly**, so almost **all age groups** are capable of learning how to do it within a few minutes. Additionally, you don't need to **struggle through the crowd of people** to reach the counter after choosing what to buy. Now, with your computer set up, you can just **sit at your desk** and have a mug of tea, enjoying the shopping time on the **virtual store**. So, there's no reason to avoid shopping online.
+
+**Advanced Vocabulary and Phrases:**
+
+- **such a hit** /sʌʧ ə hɪt/: 如此流行
+- **convenience** /kənˈviːniəns/: 便利性
+- **mobile phone** /ˈməʊbaɪl fəʊn/: 手机
+- **access** /ˈæksɛs/: 访问，使用
+- **way of purchase** /weɪ əv ˈpɜːʧəs/: 购买方式
+- **user-friendly** /ˈjuːzər ˈfrɛndli/: 易于使用的
+- **all age groups** /ɔːl eɪdʒ ɡruːps/: 所有年龄层
+- **struggle through the crowd of people** /ˈstrʌɡl θruː ðə kraʊd əv ˈpiːpl/: 挣扎着穿过拥挤的人群
+- **sit at your desk** /sɪt æt jɔːr dɛsk/: 坐在桌前
+- **virtual store** /ˈvɜːrtʃuəl stɔːr/: 虚拟商店
+
+---
+
+#### ***3. What are some possible disadvantages of buying things from online shops?***
+
+**Sample Answer:**
+
+There are a few main **drawbacks** of online shopping. One problem lies in the fact that what you see online might not be the same as what is **delivered** to you, since we can only see the **pictures**, not the actual products. In the end, you might be **disappointed**. Even worse, if you want to **exchange** the **unsatisfactory items**, you may find that you have to pay **return shipping**, which means you have to spend more money than you initially intended. This is another **negative aspect** of shopping on the Internet.
+
+**Advanced Vocabulary and Phrases:**
+
+- **drawbacks** /ˈdrɔːbæks/: 缺点
+- **delivered** /dɪˈlɪvərd/: 送达
+- **pictures** /ˈpɪktʃərz/: 图片
+- **disappointed** /ˌdɪsəˈpɔɪntɪd/: 失望的
+- **exchange** /ɪksˈʧeɪnʤ/: 交换
+- **unsatisfactory items** /ʌnˌsætɪsˈfækʃənri ˈaɪtəmz/: 不满意的商品
+- **return shipping** /rɪˈtɜːrn ˈʃɪpɪŋ/: 退货的运费
+- **negative aspect** /ˈnɛɡətɪv ˈæspekt/: 负面因素
+
+---
+
+**Note:** Practicing these responses and understanding the advanced vocabulary will help enhance your fluency and coherence during the IELTS Speaking test.
+
+---
+
+
+### IELTS Speaking Preparation: Part 3 - Online Retail Businesses
+
+---
+
+#### ***1. Do you agree that the prices of all goods should be lower on internet shopping sites than in shops? Why or why not?***
+
+**Sample Answer:**
+
+Yes, I tend to agree with that point. Compared with running a **brick-and-mortar store**, opening a **virtual shop** doesn't require worrying about the **gross margin** and **overheads** of operating a business in a shopping centre. **E-retailers** often lower the price of their products accordingly; this is why most consumers are **drawn to** online places to make purchases. However, if all items sold are much cheaper on the internet, there will probably be fewer people shopping in person. As a consequence, physical stores might disappear completely, which would cause **troubles** for the whole society, such as **job losses**, lack of **social interaction**, and so on.
+
+**Advanced Vocabulary and Phrases:**
+
+- **brick-and-mortar store** /ˈbrɪk ænd ˈmɔːtər stɔːr/: 实体店
+- **virtual shop** /ˈvɜːrtʃuəl ʃɒp/: 虚拟商店
+- **gross margin** /ɡroʊs ˈmɑːrdʒɪn/: 毛利
+- **overheads** /ˈoʊvərhɛdz/: 运营成本
+- **E-retailers** /iː-ˈriːteɪlərz/: 网络零售商
+- **drawn to** /drɔn tuː/: 被吸引
+- **job losses** /dʒɒb ˈlɔːsɪz/: 失业
+- **social interaction** /ˈsoʊʃəl ˌɪntərˈækʃən/: 社交互动
+
+---
+
+#### ***2. Will large shopping malls continue to be popular, despite the growth of internet shopping? Why or why not?***
+
+**Sample Answer:**
+
+Well, in spite of the increase in online shopping, it's fairly likely that **shopping centres** will remain **welcomed** in the future. Compared to shopping on the internet, **physical stores** offer people opportunities to **socialize**. They can share moments with friends and family during shopping or even interact with strangers, like the **shopping assistants**. This kind of **face-to-face communication** is much more effective than online interaction. Moreover, most shopping malls are not just places for shopping; they are also pleasant areas for having meals or engaging in recreational activities. These are experiences that people cannot replicate in the virtual world. So, as you can see, although virtual shops are increasing, it's still quite hard for the great malls to lose their popularity.
+
+**Advanced Vocabulary and Phrases:**
+
+- **in spite of** /ɪn spaɪt əv/: 尽管
+- **shopping centres** /ˈʃɒpɪŋ ˈsɛntərz/: 购物中心
+- **welcomed** /ˈwɛlkəmɪd/: 受欢迎的
+- **physical stores** /ˈfɪzɪkl stɔːrz/: 实体店铺
+- **socialize** /ˈsoʊʃəlaɪz/: 社交
+- **shopping assistants** /ˈʃɒpɪŋ əˈsɪstənts/: 购物助理
+- **face-to-face communication** /feɪs-tuː-feɪs kəˌmjuːnɪˈkeɪʃən/: 面对面交流
+- **engaging in recreational activities** /ɪnˈɡeɪdʒɪŋ ɪn ˌrɛkrɪˈeɪʃənl ækˈtɪvətiz/: 参与娱乐活动
+- **replicate** /ˈrɛplɪkeɪt/: 复制
+
+---
+
+#### ***3. Do you think that some businesses (e.g., banks and travel agents) will only operate online in the future? Why or why not?***
+
+**Sample Answer:**
+
+Well, it's really hard for me to say yes. I do admit that a large number of **banks** and **travel agents** are opening **online services**, which has provided people with huge **convenience**. In spite of this, I believe that there will always be some people who love to **personally visit** the branches, and there will still be some services that require one's presence at the physical locations. Therefore, I foresee that there will be fewer **physical banks** and travel agents, but these places are less likely to **completely disappear**.
+
+**Advanced Vocabulary and Phrases:**
+
+- **banks** /bæŋks/: 银行
+- **travel agents** /ˈtrævəl ˈeɪdʒənts/: 旅行社
+- **online services** /ˈɒnˌlaɪn ˈsɜːrvɪsəz/: 网上服务
+- **convenience** /kənˈviːniəns/: 便利性
+- **personally visit** /ˌpɜːrsənˈæli ˈvɪzɪt/: 亲自访问
+- **physical banks** /ˈfɪzɪkl bæŋks/: 实体银行
+- **completely disappear** /kəmˈpliːtli ˌdɪsəˈpɪər/: 完全消失
+- **foresee** /fɔːrˈsiː/: 预见
+
+---
+
+**Note:** Practicing these responses and familiarizing yourself with the advanced vocabulary will help enhance your fluency and coherence during the IELTS Speaking test.
+
+---
+
+
+
+
 
 
 
