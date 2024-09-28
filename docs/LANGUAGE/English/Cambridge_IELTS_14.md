@@ -69,6 +69,209 @@ Well, that's a very **broad question**. Let me think. I do hope a master's degre
 ---
 
 
+### IELTS Speaking Preparation: Part 2 - Describe a Book That You Enjoyed Reading Because You Had to Think a Lot
+
+---
+
+***Describe a book that you enjoyed reading because you had to think a lot.***
+
+***You should say:***
+
+- ***what this book was***
+- ***why you decided to read it***
+- ***what reading this book made you think about***
+- ***and explain why you enjoyed reading this book.***
+
+---
+
+**Sample Answer:**
+
+The book I'd like to talk about topped many books on the year's list last year, and I finally got around to reading it recently. It's called **_Bad Blood: Secrets and Lies in a Silicon Valley Startup_**. I think the title pretty much sums up everything in the story—only it’s not a story, it's **nonfiction**.
+
+First, I'll tell you about the startup that's at the center of the book—**Theranos**. This company, a combination of therapy and diagnosis, was founded by a brilliant young Stanford dropout, **Elizabeth Holmes**, who promised to revolutionize the medical industry with a machine that would take a small sample of a customer's blood and test for an overall picture of their health. For a while, she was seen as the female Steve Jobs, and her company was valued at up to **$9 billion**. But the only problem was, the technology never actually worked.
+
+Now, unlike any other scam artist who would probably prey on gullible people at the bottom of the “food chain,” Elizabeth went straight for the people at the top. Experienced politicians, Wall Street tycoons, and even military personnel—all fell victim to her charm. The endorsement of these important people had, in turn, consolidated her status and credibility, which sustained the big lie until the very last minute.
+
+This is the part that got me thinking the most. Although it remains a mystery what Elizabeth said to her investors behind closed doors because she refused to be interviewed by the author, a lesson can be learned: anyone, regardless of status and experience, can be fooled when their **ego** and **greed** are appealed to.
+
+This book was such a **page turner** that I found myself unable to put it down once I started. The description of the secretive and toxic culture within the company especially **struck a chord** with me. I kept thinking, **what would I have done** if I had been one of the employees in the company? Would I **be brave enough to stand up** to this tyrannical leader?
+
+---
+
+**Advanced Vocabulary and Phrases:**
+
+- **topped many books on the year's list** /tɒpt ˈmɛni bʊks ɒn ðə jɪəz lɪst/: 在年度书单中名列前茅
+- **nonfiction** /ˌnɒnfɪkˈʃən/: 非虚构的
+- **startup** /ˈstɑːrtʌp/: 新兴公司
+- **Theranos** /ˈθɛrənɒs/: 特瑞纳斯（公司名）
+- **revolutionize** /ˌrɛvəˈluːʃənaɪz/: 革新
+- **medical industry** /ˈmɛdɪkəl ˈɪndəstri/: 医疗行业
+- **Stanford dropout** /ˈstænˌfɔːrd ˈdrɔːpaʊt/: 斯坦福辍学生
+- **female Steve Jobs** /ˈfiːmeɪl stiːv dʒɒbz/: 女性版史蒂夫·乔布斯
+- **prey on** /preɪ ɒn/: 捕食，利用
+- **gullible** /ˈɡʌlɪbəl/: 易受骗的
+- **food chain** /fuːd ʧeɪn/: 食物链，比喻社会层级
+- **endorsement** /ɪnˈdɔːrmənt/: 认可，支持
+- **credibility** /ˌkrɛdəˈbɪləti/: 可信度
+- **ego** /ˈiːɡoʊ/: 自我
+- **greed** /ɡriːd/: 贪婪
+- **page turner** /peɪdʒ ˈtɜːrnər/: 引人入胜的书籍
+- **struck a chord** /strʌk ə ʧɔːrd/: 触动，引起共鸣
+- **what would I have done** /wɒt wʊd aɪ hæv dʌn/: 我会做什么
+- **be brave enough to stand up** /bi breɪv ɪˈnʌf tuː stænd ʌp/: 有足够的勇气站出来
+
+---
+
+### IELTS Speaking Preparation: Part 3 - Owning Things
+
+---
+
+#### ***1. What types of things do young people in your country most want to own today? Why is this?***
+
+**Sample Answer:**
+
+Well, it seems that **picture books** are very popular these days, especially **English books** and **bilingual books**. A lot of Chinese parents are keen on making their children **bilingual** from an **early age**, and those books are considered essential. It has even become a business to compile lists of picture books for children, and you can search for the lists online and **buy all the books in one go**. Those often include **phonics readers**, **fairy tales**, and science **renderings**. Some of them are very fancy, with all kinds of added features like **maps**, **covers**, **pop-ups**, and so on.
+
+**Advanced Vocabulary and Phrases:**
+
+- **picture books** /ˈpɪktʃər bʊks/: 图画书
+- **English books** /ˈɪŋɡlɪʃ bʊks/: 英语书籍
+- **bilingual books** /baɪˈlɪŋɡwəl bʊks/: 双语书籍
+- **bilingual** /baɪˈlɪŋɡwəl/: 双语的
+- **early age** /ˈɜːrli eɪdʒ/: 从小
+- **buy all the books in one go** /baɪ ɔːl ðə bʊks ɪn wʌn ɡoʊ/: 一口气买下所有书
+- **phonics readers** /ˈfɒnɪks ˈriːdərz/: 语音读物
+- **fairy tales** /ˈfɛəri teɪlz/: 童话故事
+- **renderings** /ˈrɛndərɪŋz/: 描述，呈现
+- **maps** /mæps/: 地图
+- **covers** /ˈkʌvərz/: 封面
+- **pop-ups** /ˈpɒpʌps/: 弹出式元素
+
+---
+
+#### ***2. What are the benefits of parents reading books to their children? Why is that?***
+
+**Sample Answer:**
+
+There are tons of obvious benefits, such as reading to children **enhances their vocabulary** and helps them understand different topics of the world. But there's much more. By **consistently reading** to your child every day, your child will learn to **concentrate** and **sit still for longer periods of time**, which can help them when they go to school. Another great benefit is reading **develops children's imagination and creativity**. When we really **engage in a book**, we imagine what the characters are doing and we visualize places we've never been to in real life. These are what make reading **stimulating** and **fun**. With all of the negative effects of **screen time**, choosing a book that **interests** your child and reading it together is definitely a better option. There's nothing better than **cuddling up** to your little one and reading a book or a **bedtime story** together.
+
+**Advanced Vocabulary and Phrases:**
+
+- **enhances their vocabulary** /ɪnˈhænsɪz ðɛər vəˈkæbjʊləri/: 提高他们的词汇量
+- **consistently reading** /kənˈsɪstəntli ˈriːdɪŋ/: 持续阅读
+- **concentrate** /ˈkɒnsənˌtreɪt/: 专注
+- **sit still for longer periods of time** /sɪt stɪl fɔːr ˈlɒŋər ˈpɪəriədz əv taɪm/: 静坐更长时间
+- **develops children's imagination and creativity** /dɪˈvɛləps ˈtʃɪldrənz ˌɪmædʒɪˈneɪʃən ənd kriːeɪˈtɪvɪti/: 培养儿童的想象力和创造力
+- **engage in a book** /ɪnˈɡeɪdʒ ɪn ə bʊk/: 专注于一本书
+- **stimulating** /ˈstɪmjʊleɪtɪŋ/: 令人兴奋的
+- **cuddling up** /ˈkʌdlɪŋ ʌp/: 依偎
+- **bedtime story** /ˈbɛdtaɪm ˈstɔːri/: 睡前故事
+
+---
+
+#### ***3. Should parents always let children choose the books they read? Why?***
+
+**Sample Answer:**
+
+Definitely! I mean, unless what they want to read is really not **age-appropriate**. But I strongly believe that generally, parents should **give children choices** when it comes to reading because it's the best way to **motivate** them to read. I know some parents may think some books are better than others, like **classic literature** is better than **comic books**, but I think they should actually celebrate that their kids are reading rather than playing video games all day. Besides, how are we to **determine** what are good and bad books for individual readers? If children have an amazing experience with books, they will almost certainly expand their interests into other types of writing in the future. On the contrary, **well-intentioned** adults can do a huge **disservice** to kids when they **deny** their ability to read or **censor** what they read and **judge** what they read.
+
+**Advanced Vocabulary and Phrases:**
+
+- **age-appropriate** /eɪdʒ əˈprəʊpriət/: 适合这个年龄的
+- **give children choices** /ɡɪv ˈtʃɪldrən ˈʧɔɪsəz/: 给孩子选择的权利
+- **motivate** /ˈməʊtɪveɪt/: 激励
+- **classic literature** /ˈklæsɪk ˈlɪtərətʃər/: 经典文学
+- **comic books** /ˈkɒmɪk bʊks/: 漫画书
+- **determine** /dɪˈtɜːmɪn/: 决定
+- **well-intentioned** /ˌwɛl ɪnˈtɛnʃənd/: 有好意的
+- **disservice** /dɪsˈsɜːrvɪs/: 伤害，损害
+- **deny** /dɪˈnaɪ/: 否认，拒绝
+- **censor** /ˈsɛnsər/: 审查
+- **judge** /dʒʌdʒ/: 判断
+
+---
+
+
+
+### IELTS Speaking Preparation: Part 3 - Electronic Books
+
+---
+
+#### ***1. How popular are electronic books in your country? Why is this?***
+
+**Sample Answer:**
+
+Certainly more popular than five years ago, **electronic books** have become increasingly **affordable**, and there are now more books available **online**. I think it's fair to say that we now have an **enormous variety** of content accessible at any time of day, in any **format**, and through a range of **digital devices**. However, I reckon the **majority of readers** still prefer **print books** to digital products. I know many people who would **sample a few pages online** before buying a print version to read. But, of course, it all **depends on the person**. Some people enjoy the **feel of a physical book** in their hands, while others appreciate the **handiness** of an **e-reader**. As far as I know, there are still too many people who **don't read at all**!
+
+**Advanced Vocabulary and Phrases:**
+
+- **electronic books** /ɪˌlɛktrɒˈnɪk bʊks/: 电子书
+- **affordable** /əˈfɔːrdəbl/: 负担得起的
+- **online** /ˈɒnˌlaɪn/: 在线
+- **enormous variety** /ɪˈnɔːrməs vəˈraɪəti/: 丰富多样
+- **format** /ˈfɔːrmæt/: 格式，形式
+- **digital devices** /ˈdɪdʒɪtl dɪˈvaɪsɪz/: 数字设备
+- **majority of readers** /məˈdʒɒrɪti əv ˈriːdərz/: 大多数读者
+- **print books** /prɪnt bʊks/: 印刷书籍
+- **sample a few pages online** /ˈsæmpl ə fjuː peɪdʒɪz ˈɒnˌlaɪn/: 在线预览几页
+- **depends on the person** /dɪˈpɛndz ɒn ðə ˈpɜːrsən/: 取决于个人
+- **feel of a physical book** /fiːl əv ə ˈfɪzɪkl bʊk/: 纸质书的手感
+- **handiness** /ˈhændi.nəs/: 便利性
+- **e-reader** /ˈiː ˈriːdər/: 电子书阅读器
+- **don't read at all** /doʊnt riːd æt ɔːl/: 完全不读书
+
+---
+
+#### ***2. What are the benefits of parents reading electronic books (compared to printed books)? Why do you think this is?***
+
+**Sample Answer:**
+
+Well, **portability** is probably the number one advantage of **electronic books**. You can have **quick and easy access** to hundreds of books on your device. While reading, you can also **click on hot links** to other resources to find out more about the topic **online**. This could really **come in handy** when you are reading a **science book** to your child. Additionally, if you are very **environmentally aware**, this could be a good opportunity to teach your children about **saving trees** and helping to **reduce pollution** from **pulp mills**.
+
+**Advanced Vocabulary and Phrases:**
+
+- **portability** /ˌpɔːtəˈbɪləti/: 便携性
+- **electronic books** /ɪˌlɛktrɒˈnɪk bʊks/: 电子书
+- **quick and easy access** /kwɪk ənd ˈiːzi ˈæksɛs/: 快捷便利的获取
+- **click on hot links** /klɪk ɒn hɒt lɪŋks/: 点击链接
+- **come in handy** /kʌm ɪn ˈhændi/: 派上用场
+- **science book** /ˈsaɪəns bʊk/: 科学书籍
+- **environmentally aware** /ɪnˌvaɪrənˈmɛntəli əˈwɛər/: 环保意识强的
+- **saving trees** /ˈseɪvɪŋ triːz/: 节约树木
+- **reduce pollution** /rɪˈdjuːs pəˈluːʃən/: 减少污染
+- **pulp mills** /pʌlp mɪlz/: 造纸厂
+
+---
+
+#### ***3. Will electronic books ever completely replace printed books in the future? Why?***
+
+**Sample Answer:**
+
+Well, some people think it's only a matter of time for **printed books** to disappear completely, but I'd hazard a guess that **physical books** are here to stay. I once read a very interesting argument that claimed **paper** was by far the best medium to **store information**. Printed books are **tough** and **hard to destroy**, compared to a **digital disk**, and they don't need any **energy to operate**. I think I'm quite **convinced** that there will always be a place for them. But this might all be because I have grown up reading **paper books** and find it harder to let them go. I guess younger generations who were **raised with screens** as very much a part of their lives would prefer a different world.
+
+**Advanced Vocabulary and Phrases:**
+
+- **printed books** /prɪntɪd bʊks/: 印刷书籍
+- **completely** /kəmˈpliːtli/: 完全地
+- **physical books** /ˈfɪzɪkl bʊks/: 纸质书籍
+- **hazard a guess** /ˈhæzərd ə ɡɛs/: 猜测
+- **paper** /ˈpeɪpər/: 纸
+- **store information** /stɔːr ˌɪnfərˈmeɪʃən/: 存储信息
+- **tough** /tʌf/: 耐用的
+- **hard to destroy** /hɑːrd tuː dɪˈstrɔɪ/: 难以摧毁
+- **digital disk** /ˈdɪdʒɪtl dɪsk/: 数字盘
+- **energy to operate** /ˈɛnərdʒi tuː ˈɒpəreɪt/: 运行所需的能量
+- **convinced** /kənˈvɪnst/: 确信的
+- **raised with screens** /reɪzd wɪð skriːnz/: 从小使用电子屏幕
+
+---
+
+
+
+
+
+
+
 
 
 
