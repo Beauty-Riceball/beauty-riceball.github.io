@@ -6,11 +6,11 @@
 
 ---
 
-*In the first part of the IELTS Speaking test, the examiner will introduce themselves and confirm your identity. They will then ask you questions related to your studies, work, accommodation, or other familiar topics. Below are some example questions and sample answers on the topic of **Future**.*
+_In the first part of the IELTS Speaking test, the examiner will introduce themselves and confirm your identity. They will then ask you questions related to your studies, work, accommodation, or other familiar topics. Below are some example questions and sample answers on the topic of **Future**._
 
 ---
 
-#### ***1. What job would you like to have ten years from now? [Why?]***
+#### **_1. What job would you like to have ten years from now? [Why?]_**
 
 **Sample Answer:**
 
@@ -24,7 +24,7 @@ Wow, that's a tough job interview question, let me think. Generally, I don't thi
 
 ---
 
-#### ***2. How useful will English be for your future? [Why/Why not?]***
+#### **_2. How useful will English be for your future? [Why/Why not?]_**
 
 **Sample Answer:**
 
@@ -39,7 +39,7 @@ Immensely. I mean, as long as English is still the closest thing to the **lingua
 
 ---
 
-#### ***3. How much travelling do you hope to do in the future? [Why/Why not?]***
+#### **_3. How much travelling do you hope to do in the future? [Why/Why not?]_**
 
 **Sample Answer:**
 
@@ -53,7 +53,7 @@ As much as possible! Well, it's my wish anyway. But I do hope I can **make some 
 
 ---
 
-#### ***4. How do you think your life will change in the future? [Why/Why not?]***
+#### **_4. How do you think your life will change in the future? [Why/Why not?]_**
 
 **Sample Answer:**
 
@@ -68,19 +68,18 @@ Well, that's a very **broad question**. Let me think. I do hope a master's degre
 
 ---
 
-
 ### IELTS Speaking Preparation: Part 2 - Describe a Book That You Enjoyed Reading Because You Had to Think a Lot
 
 ---
 
-***Describe a book that you enjoyed reading because you had to think a lot.***
+**_Describe a book that you enjoyed reading because you had to think a lot._**
 
-***You should say:***
+**_You should say:_**
 
-- ***what this book was***
-- ***why you decided to read it***
-- ***what reading this book made you think about***
-- ***and explain why you enjoyed reading this book.***
+- **_what this book was_**
+- **_why you decided to read it_**
+- **_what reading this book made you think about_**
+- **_and explain why you enjoyed reading this book._**
 
 ---
 
@@ -126,7 +125,7 @@ This book was such a **page turner** that I found myself unable to put it down o
 
 ---
 
-#### ***1. What types of things do young people in your country most want to own today? Why is this?***
+#### **_1. What types of things do young people in your country most want to own today? Why is this?_**
 
 **Sample Answer:**
 
@@ -149,7 +148,7 @@ Well, it seems that **picture books** are very popular these days, especially **
 
 ---
 
-#### ***2. What are the benefits of parents reading books to their children? Why is that?***
+#### **_2. What are the benefits of parents reading books to their children? Why is that?_**
 
 **Sample Answer:**
 
@@ -169,7 +168,7 @@ There are tons of obvious benefits, such as reading to children **enhances their
 
 ---
 
-#### ***3. Should parents always let children choose the books they read? Why?***
+#### **_3. Should parents always let children choose the books they read? Why?_**
 
 **Sample Answer:**
 
@@ -191,13 +190,11 @@ Definitely! I mean, unless what they want to read is really not **age-appropriat
 
 ---
 
-
-
 ### IELTS Speaking Preparation: Part 3 - Electronic Books
 
 ---
 
-#### ***1. How popular are electronic books in your country? Why is this?***
+#### **_1. How popular are electronic books in your country? Why is this?_**
 
 **Sample Answer:**
 
@@ -222,7 +219,7 @@ Certainly more popular than five years ago, **electronic books** have become inc
 
 ---
 
-#### ***2. What are the benefits of parents reading electronic books (compared to printed books)? Why do you think this is?***
+#### **_2. What are the benefits of parents reading electronic books (compared to printed books)? Why do you think this is?_**
 
 **Sample Answer:**
 
@@ -243,7 +240,7 @@ Well, **portability** is probably the number one advantage of **electronic books
 
 ---
 
-#### ***3. Will electronic books ever completely replace printed books in the future? Why?***
+#### **_3. Will electronic books ever completely replace printed books in the future? Why?_**
 
 **Sample Answer:**
 
@@ -266,16 +263,15 @@ Well, some people think it's only a matter of time for **printed books** to disa
 
 ---
 
-
 ### IELTS Speaking Preparation: Part 1 - Social Media
 
 ---
 
-*In the first part of the IELTS Speaking test, the examiner will introduce themselves and confirm your identity. They will then ask you questions related to your studies, work, accommodation, or other familiar topics. Below are some example questions and sample answers on the topic of **Social Media**.*
+_In the first part of the IELTS Speaking test, the examiner will introduce themselves and confirm your identity. They will then ask you questions related to your studies, work, accommodation, or other familiar topics. Below are some example questions and sample answers on the topic of **Social Media**._
 
 ---
 
-#### ***1. Which social media websites do you use?***
+#### **_1. Which social media websites do you use?_**
 
 **Sample Answer:**
 
@@ -293,7 +289,7 @@ Well, **WeChat** is obviously the top social network in China. It started out as
 
 ---
 
-#### ***2. How much time do you spend on social media sites? [Why/Why not?]***
+#### **_2. How much time do you spend on social media sites? [Why/Why not?]_**
 
 **Sample Answer:**
 
@@ -310,7 +306,7 @@ Probably more than I should! I mean, social media sites are built to **get you h
 
 ---
 
-#### ***3. What kind of information about yourself have you put on social media? [Why/Why not?]***
+#### **_3. What kind of information about yourself have you put on social media? [Why/Why not?]_**
 
 **Sample Answer:**
 
@@ -326,7 +322,7 @@ Not much, really. I'm a **private person**, and I have no interest in broadcasti
 
 ---
 
-#### ***4. Is there anything you don't like about social media? [Why?]***
+#### **_4. Is there anything you don't like about social media? [Why?]_**
 
 **Sample Answer:**
 
@@ -348,19 +344,18 @@ Definitely. There's something about social media that makes us **care** about ho
 
 ---
 
-
 ### IELTS Speaking Preparation: Part 2 - Describe Something You Liked Very Much Which You Bought for Your Home
 
 ---
 
-***Describe something you liked very much which you bought for your home.***
+**_Describe something you liked very much which you bought for your home._**
 
-***You should say:***
+**_You should say:_**
 
-- ***what you bought***
-- ***when and where you bought it***
-- ***why you chose this particular thing***
-- ***and explain why you liked it so much.***
+- **_what you bought_**
+- **_when and where you bought it_**
+- **_why you chose this particular thing_**
+- **_and explain why you liked it so much._**
 
 ---
 
@@ -406,13 +401,11 @@ Another thing I like about this robot is that it is much **quieter** than a regu
 
 ---
 
-
-
 ### IELTS Speaking Preparation: Part 3 - Creating a Nice Home
 
 ---
 
-#### ***1. Why do some people buy lots of things for their home?***
+#### **_1. Why do some people buy lots of things for their home?_**
 
 **Sample Answer:**
 
@@ -433,7 +426,7 @@ Well, your home is your **castle**, and I think people are **entitled** to buy w
 
 ---
 
-#### ***2. Do you think it is very expensive to make a home look nice? Why or why not?***
+#### **_2. Do you think it is very expensive to make a home look nice? Why or why not?_**
 
 **Sample Answer:**
 
@@ -457,7 +450,7 @@ Not necessarily. If you **shop for secondhand furniture** and get **creative wit
 
 ---
 
-#### ***3. Why don't some people care about how their home looks? Why don't they care?***
+#### **_3. Why don't some people care about how their home looks? Why don't they care?_**
 
 **Sample Answer:**
 
@@ -485,12 +478,11 @@ This sounds a bit **condescending**, doesn't it? Maybe they do care but they jus
 
 ---
 
-
 ### IELTS Speaking Preparation: Part 3 - Different Types of Homes
 
 ---
 
-#### ***1. In what ways is living in a flat/apartment better than living in a house?***
+#### **_1. In what ways is living in a flat/apartment better than living in a house?_**
 
 **Sample Answer:**
 
@@ -515,7 +507,7 @@ There are many advantages to living in a **flat** or an **apartment**, especiall
 
 ---
 
-#### ***2. Do you think homes will look different in the future? Why or why not?***
+#### **_2. Do you think homes will look different in the future? Why or why not?_**
 
 **Sample Answer:**
 
@@ -546,7 +538,7 @@ Well, in terms of **architecture** and **layout**, I'm not sure if there will be
 
 ---
 
-#### ***3. Do you agree that the kinds of homes people prefer change as they get older? Why or why not?***
+#### **_3. Do you agree that the kinds of homes people prefer change as they get older? Why or why not?_**
 
 **Sample Answer:**
 
@@ -576,38 +568,37 @@ Yes, I agree. We all have different needs for **accommodation** at different sta
 
 ---
 
-
 ### IELTS Speaking Preparation: Part 1 - Your Neighbourhood
 
 ---
-    
-*In the first part of the IELTS Speaking test, the examiner will introduce themselves and confirm your identity. They will then ask you questions related to your studies, work, accommodation, or other familiar topics. Below are some example questions and sample answers on the topic of **Your Neighbourhood**.*
+
+_In the first part of the IELTS Speaking test, the examiner will introduce themselves and confirm your identity. They will then ask you questions related to your studies, work, accommodation, or other familiar topics. Below are some example questions and sample answers on the topic of **Your Neighbourhood**._
 
 ---
-    
-#### ***1. Do you like the neighbourhood you live in? [Why/Why not?]***
-    
+
+#### **_1. Do you like the neighbourhood you live in? [Why/Why not?]_**
+
 **Sample Answer:**
-    
+
 Yes, absolutely. It is a place that I've been living in my whole life, and it means a lot to me. I'm **fond of** listening to the birds’ **chirping** and hearing my **neighbours’** conversations each day. It seems that everything is **harmonious** around me.
-    
+
 **Advanced Vocabulary and Phrases:**
-    
+
 - **means a lot to me** /miːnz ə lɒt tuː miː/: 对我很重要
 - **chirping** /ˈʧɜːrpɪŋ/: 鸟叫
 - **be fond of** /bi fɒnd əv/: 喜爱某事物
 - **harmonious** /hɑːrˈməʊniəs/: 和谐的
 
 ---
-    
-#### ***2. What do you do in your neighbourhood in your free time? [Why/Why not?]***
-    
+
+#### **_2. What do you do in your neighbourhood in your free time? [Why/Why not?]_**
+
 **Sample Answer:**
-    
+
 The area around me is quite convenient. A **supermarket** is a **stone's throw** from my home, so if I'm free, I'll go there to buy some **daily necessities**. Apart from that, there's a **park** nearby. For me, the place is definitely a **haven of tranquility**. Whenever I've got spare time, I'll **take a stroll** there.
-    
+
 **Advanced Vocabulary and Phrases:**
-    
+
 - **a stone's throw** /ə stəʊnz θrəʊ/: 距离很近
 - **supermarket** /ˈsuːpərˌmɑːrkɪt/: 超级市场
 - **daily necessities** /ˈdeɪli nəˈsɛsɪtiz/: 日常必需品
@@ -616,15 +607,15 @@ The area around me is quite convenient. A **supermarket** is a **stone's throw**
 - **take a stroll** /teɪk ə strəʊl/: 悠闲漫步
 
 ---
-    
-#### ***3. What new things would you like to have in your neighbourhood? [Why/Why not?]***
-    
+
+#### **_3. What new things would you like to have in your neighbourhood? [Why/Why not?]_**
+
 **Sample Answer:**
-    
+
 Let's see, what new stuff would be added to the area? Oh, if there was a **safe and secure parcel dropbox** installed in the neighbourhood, everyone would be so pleased. You know, currently in my community, since most people have to work outside, many delivered packages are always **piled up** at the corner of a small **convenience store**. This has not only caused trouble for the owner, but the whole situation has made it hard to find one's delivered items. If everyone’s parcels could be placed in their own dropbox, it would be **wonderful**.
-    
+
 **Advanced Vocabulary and Phrases:**
-    
+
 - **safe and secure** /seɪf ənd sɪˈkjʊər/: 安全而有保障的
 - **parcel dropbox** /ˈpɑːrsəl ˈdrɒpˌbɒks/: 快递箱
 - **piled up** /paɪld ʌp/: 堆积
@@ -632,44 +623,43 @@ Let's see, what new stuff would be added to the area? Oh, if there was a **safe 
 - **wonderful** /ˈwʌndərfʊl/: 美妙的
 
 ---
-    
-#### ***4. Would you like to live in another neighbourhood in your town or city? [Why/Why not?]***
-    
+
+#### **_4. Would you like to live in another neighbourhood in your town or city? [Why/Why not?]_**
+
 **Sample Answer:**
-    
+
 If I had loads of money, I'd love to move into a more convenient place. Actually, I've seen an **apartment building** in my city where there's a **shopping centre** on the ground floor. If I lived in that place, whenever I needed to buy something, I would just go downstairs. Isn't it a **perfect place to live in**?
-    
+
 **Advanced Vocabulary and Phrases:**
-    
+
 - **loads of** /ləʊdz əv/: 很多
 - **apartment building** /əˈpɑːtmənt ˈbɪldɪŋ/: 公寓楼
 - **shopping centre** /ˈʃɒpɪŋ ˈsɛntər/: 购物中心
 - **perfect place to live in** /ˈpɜːrfɪkt pleɪs tuː lɪv ɪn/: 完美的居住地
 
 ---
-    
+
 **Note:** Practicing these responses and understanding the advanced vocabulary will help enhance your fluency and coherence during the IELTS Speaking test.
 
 ---
 
-
 ### IELTS Speaking Preparation: Part 2 - Describe a Website You Have Bought Something From
 
 ---
-    
-***Describe a website you have bought something from.***
-    
-***You should say:***
-    
-- ***what the website is***
-- ***what you bought from this website***
-- ***how satisfied you were with what you bought***
-- ***and explain what you liked and disliked about using this website.***
-    
+
+**_Describe a website you have bought something from._**
+
+**_You should say:_**
+
+- **_what the website is_**
+- **_what you bought from this website_**
+- **_how satisfied you were with what you bought_**
+- **_and explain what you liked and disliked about using this website._**
+
 ---
-    
+
 **Sample Answer:**
-    
+
 A website I've bought an item from is a well-known one in my country, called **Taobao.com**.
 
 Last month, I purchased an adorable costume for my cat from the website. It has a special design, featuring two fake arms on each side. What the owner needs to do is ensure the entire piece is put on the cat's forelegs, and then the magic happens—you can see the cat walking like a human. I bought the item mainly because I wanted to surprise my cat on his very first birthday. Additionally, it was on a big sale, so I snapped it up immediately when I saw the price tag.
@@ -677,11 +667,11 @@ Last month, I purchased an adorable costume for my cat from the website. It has 
 After waiting for a few days, I received the piece of clothing. The moment I got it, I dressed my cat up, and he really looked like a cute person walking around the room. Seeing this made me laugh my head off. As you can see, I was very happy with the item, which was exactly as described on the creative shop. To be honest, I was quite curious about who came up with the idea of making a specially designed costume for cats.
 
 Speaking of how I feel about the website, I'd say that in general, I'm a big fan of it. First of all, no matter what I want to buy, I can always find the right item on it. On top of that, once I make a purchase, the next time I visit the website, there are similar items recommended on the front page, which means the website knows me pretty well. However, this brings some problems. Sometimes, it's really hard for me to resist the temptation of scrolling through the items because almost every single item is something I like. During this process, time just slips away, and it becomes a big waste of time. So, I really need to set a time limit for using the website.
-    
+
 ---
-    
+
 ### **Advanced Vocabulary and Phrases**
-    
+
 - **Taobao.com** /taʊˈbaʊ.com/: 淘宝网（中国知名购物网站）
 - **adorable** /əˈdɔːrəbəl/: 可爱的
 - **special design** /ˈspɛʃəl dɪˈzaɪn/: 特别的设计
@@ -701,19 +691,18 @@ Speaking of how I feel about the website, I'd say that in general, I'm a big fan
 - **something I like** /ˈsʌmθɪŋ aɪ laɪk/: 我喜欢的东西
 - **time just slips away** /taɪm dʒʌst slɪps əˈweɪ/: 时间悄然流逝
 - **set a time limit** /sɛt ə taɪm ˈlɪmɪt/: 设定时间限制
-    
----
-    
-**Note:** Practicing this response and familiarizing yourself with the advanced vocabulary will help enhance your fluency and coherence during the IELTS Speaking test.
-    
+
 ---
 
+**Note:** Practicing this response and familiarizing yourself with the advanced vocabulary will help enhance your fluency and coherence during the IELTS Speaking test.
+
+---
 
 ### IELTS Speaking Preparation: Part 3 - Shopping Online
 
 ---
 
-#### ***1. What kinds of things do people in your country often buy from online shops?***
+#### **_1. What kinds of things do people in your country often buy from online shops?_**
 
 **Sample Answer:**
 
@@ -729,7 +718,7 @@ Chinese people are **fond of buying** all kinds of **stuff** in the **virtual wo
 
 ---
 
-#### ***2. Why has online shopping become so popular in many countries?***
+#### **_2. Why has online shopping become so popular in many countries?_**
 
 **Sample Answer:**
 
@@ -750,7 +739,7 @@ In my opinion, there are several reasons that make **online shopping** such a hi
 
 ---
 
-#### ***3. What are some possible disadvantages of buying things from online shops?***
+#### **_3. What are some possible disadvantages of buying things from online shops?_**
 
 **Sample Answer:**
 
@@ -773,12 +762,11 @@ There are a few main **drawbacks** of online shopping. One problem lies in the f
 
 ---
 
-
 ### IELTS Speaking Preparation: Part 3 - Online Retail Businesses
 
 ---
 
-#### ***1. Do you agree that the prices of all goods should be lower on internet shopping sites than in shops? Why or why not?***
+#### **_1. Do you agree that the prices of all goods should be lower on internet shopping sites than in shops? Why or why not?_**
 
 **Sample Answer:**
 
@@ -797,7 +785,7 @@ Yes, I tend to agree with that point. Compared with running a **brick-and-mortar
 
 ---
 
-#### ***2. Will large shopping malls continue to be popular, despite the growth of internet shopping? Why or why not?***
+#### **_2. Will large shopping malls continue to be popular, despite the growth of internet shopping? Why or why not?_**
 
 **Sample Answer:**
 
@@ -817,7 +805,7 @@ Well, in spite of the increase in online shopping, it's fairly likely that **sho
 
 ---
 
-#### ***3. Do you think that some businesses (e.g., banks and travel agents) will only operate online in the future? Why or why not?***
+#### **_3. Do you think that some businesses (e.g., banks and travel agents) will only operate online in the future? Why or why not?_**
 
 **Sample Answer:**
 
@@ -840,34 +828,23 @@ Well, it's really hard for me to say yes. I do admit that a large number of **ba
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## writing
-
 
 ### Essay 1
 
-**Question: **
+**Question:**
 
-*Some people believe that it is best to accept a bad situation, such as an unsatisfactory job or shortage of money, while others argue that it is better to try and improve such situations. Discuss both these views and give your own opinion.*
+_Some people believe that it is best to accept a bad situation, such as an unsatisfactory job or shortage of money, while others argue that it is better to try and improve such situations. Discuss both these views and give your own opinion._
 
-**Essay: **
+**Essay:**
 
-Accepting a **bad situation**, such as an **unsatisfactory job** or **financial hardship**, is a viewpoint held by some who believe in **maintaining stability**. They argue that **enduring difficult circumstances** can **build resilience** and patience. For example, staying in a **challenging job** might provide long-term career benefits and **job security**. Additionally, **accepting financial shortages** without panic can lead to better **financial management** and savings. Thus, proponents believe that **perseverance** in the face of adversity fosters **personal growth**.
+Some individuals contend that accepting a **bad situation**, such as an **unsatisfactory job** or **financial hardship**, is the most prudent approach, while others advocate for actively striving to enhance these circumstances. This essay will explore both perspectives before presenting my own viewpoint.
 
-On the other hand, many advocate for **actively trying** to improve **unfavorable situations**. They contend that **taking initiative** can lead to better opportunities and enhanced well-being. For instance, **seeking a more fulfilling job** can increase **job satisfaction** and career advancement. Similarly, **addressing financial issues** through budgeting or additional income streams can alleviate stress and improve quality of life. Therefore, supporters believe that **proactive efforts** are essential for **overcoming challenges** and **achieving success**.
+Those who advocate for acceptance argue that **maintaining stability** is paramount. They believe that **enduring difficult circumstances** can **build resilience** and patience. For instance, remaining in a **challenging job** might offer long-term career benefits and **job security**, providing a stable foundation for future opportunities. Additionally, **accepting financial shortages** without succumbing to panic can lead to more effective **financial management** and prudent savings. Consequently, proponents assert that **perseverance** in the face of adversity fosters **personal growth** and prepares individuals for future challenges.
 
-In my opinion, while **acceptance** can provide short-term stability, **striving to improve adverse situations** is more beneficial in the long run as it leads to **personal and professional development**.
+Conversely, many believe that taking proactive steps to improve **unfavorable situations** is essential for personal and professional advancement. They argue that **taking initiative** can unlock better opportunities and enhance overall well-being. For example, **seeking a more fulfilling job** can significantly increase **job satisfaction** and facilitate career progression. Similarly, addressing financial issues through meticulous budgeting or exploring additional income streams can alleviate stress and improve one's quality of life. Therefore, supporters of this view maintain that **proactive efforts** are crucial for **overcoming challenges** and **achieving success**.
+
+In my opinion, while **acceptance** can provide short-term stability and prevent unnecessary stress, **striving to improve adverse situations** is ultimately more beneficial. Proactive efforts lead to **personal and professional development**, enabling individuals to achieve their full potential and attain greater satisfaction in life.
 
 **注释：**
 
@@ -883,22 +860,26 @@ In my opinion, while **acceptance** can provide short-term stability, **striving
 - **proactive efforts** /prəˈæktɪv ˈɛfərts/: 积极努力
 - **overcoming challenges** /ˌəʊvəˈkʌmɪŋ ˈtʃælɪndʒɪz/: 克服挑战
 - **personal growth** /ˈpɜːsənl ɡrəʊθ/: 个人成长
+- **striving to improve adverse situations** /ˈstraɪvɪŋ tə ɪmˈpruːv ˈædvɜːrs ˌsɪtjʊˈeɪʃənz/: 努力改善不利情况
+- **personal and professional development** /ˈpɜːsənl ænd prəˈfɛʃənl dɪˈvɛləpmənt/: 个人和职业发展
 
 ---
 
 ### Essay 2
 
-**Question: **
+**Question:**
 
-*Some people say that the main environmental problem of our time is the loss of particular species of plants and animals. Others say that there are more important environmental problems. Discuss both these views and give your own opinion.*
+_Some people say that the main environmental problem of our time is the loss of particular species of plants and animals. Others say that there are more important environmental problems. Discuss both these views and give your own opinion._
 
 **Essay:**
 
-The **loss of specific plant and animal species** is often cited as the **foremost environmental issue** today. Advocates of this view emphasize that **biodiversity** is crucial for **ecosystem stability** and **overall planetary health**. For example, the extinction of **pollinators** like bees can disrupt **food production** and **agricultural economies**. Additionally, every species plays a unique role in its **habitat**, contributing to **natural processes** such as **decomposition** and **nutrient cycling**. Therefore, **preserving species diversity** is seen as essential for maintaining **ecological balance**.
+Some individuals assert that the primary environmental challenge of our era is the **loss of specific plant and animal species**, while others argue that there are more critical environmental issues. This essay will examine both viewpoints before offering my own perspective.
 
-Conversely, some argue that other **environmental problems**, such as **climate change** and **pollution**, are more pressing. They contend that these issues have **widespread and immediate impacts** on both natural and human systems. For instance, **rising global temperatures** can lead to **extreme weather events**, **sea-level rise**, and **habitat loss**, affecting millions of lives. Furthermore, **pollution of air and water sources** poses significant **health risks** to humans and wildlife alike. Proponents of this view believe that **addressing these broader issues** will inherently benefit **biodiversity** and **species preservation**.
+Advocates of the view that **species loss** is the foremost environmental problem emphasize that **biodiversity** is essential for **ecosystem stability** and **overall planetary health**. For example, the extinction of **pollinators** like bees can disrupt **food production** and **agricultural economies**, leading to broader economic and ecological repercussions. Furthermore, each species plays a unique role within its **habitat**, contributing to vital **natural processes** such as **decomposition** and **nutrient cycling**. Therefore, **preserving species diversity** is deemed crucial for maintaining **ecological balance** and ensuring the resilience of ecosystems against environmental changes.
 
-In my opinion, while the **loss of species** is a critical concern, it is intertwined with larger **environmental challenges** like **climate change** and **pollution**. Therefore, **prioritizing comprehensive solutions** to these broader issues is necessary for effective **conservation of biodiversity**.
+Conversely, some argue that other **environmental problems**, such as **climate change** and **pollution**, are more pressing due to their **widespread and immediate impacts** on both natural and human systems. They contend that **rising global temperatures** can trigger **extreme weather events**, **sea-level rise**, and **habitat loss**, affecting millions of lives and destabilizing economies. Additionally, **pollution of air and water sources** poses significant **health risks** to humans and wildlife alike, undermining the very foundations of healthy ecosystems. Proponents of this perspective believe that **addressing these broader issues** will inherently benefit **biodiversity** and **species preservation**, making them more urgent priorities.
+
+In my opinion, while the **loss of species** is undeniably a critical concern, it is intrinsically linked to larger **environmental challenges** like **climate change** and **pollution**. Therefore, **prioritizing comprehensive solutions** to these overarching issues is imperative for the effective **conservation of biodiversity** and the sustainability of our planet.
 
 **注释：**
 
@@ -909,7 +890,6 @@ In my opinion, while the **loss of species** is a critical concern, it is intert
 - **pollinators** /pəˈlɪneɪtəz/: 授粉者
 - **food production** /fuːd prəˈdʌkʃən/: 食物生产
 - **agricultural economies** /ˌæɡrɪˈkʌltʃərəl ɪˈkɒnəmiz/: 农业经济
-- **ecosystem** /ˈiːkəʊsɪstəm/: 生态系统
 - **climate change** /ˈklaɪmət tʃeɪndʒ/: 气候变化
 - **pollution** /pəˈluːʃən/: 污染
 - **rising global temperatures** /ˈraɪzɪŋ ˈɡləʊbl ˌtɛmprətʃəz/: 全球温度上升
@@ -927,15 +907,15 @@ In my opinion, while the **loss of species** is a critical concern, it is intert
 
 ### Essay 3
 
-**Question: **
+**Question:**
 
-*Some people say that music is a good way of bringing people of different cultures and ages together. To what extent do you agree or disagree with this opinion?*
+_Some people say that music is a good way of bringing people of different cultures and ages together. To what extent do you agree or disagree with this opinion?_
 
 **Essay:**
 
-Music is often hailed as a **universal language** that can **bridge cultural and generational divides**. I strongly agree with the opinion that music serves as an effective medium for bringing people of different cultures and ages together, fostering **mutual understanding** and **harmony**.
+Music is often hailed as a **universal language** that can **bridge cultural and generational divides**. I strongly agree with the opinion that music serves as an effective medium for uniting people of different cultures and ages, fostering **mutual understanding** and **harmony**.
 
-Firstly, music **transcends language barriers**, allowing individuals from diverse backgrounds to **connect on an emotional level**. For example, a lively **samba rhythm** can unite people from various countries, enabling them to enjoy the same melody regardless of their native language. Additionally, **music events** such as concerts and festivals create spaces where people of all ages can come together, share experiences, and build lasting memories. This shared enjoyment **fosters a sense of community** and **belonging** among participants.
+Firstly, music **transcends language barriers**, enabling individuals from diverse backgrounds to **connect on an emotional level**. For example, a lively **samba rhythm** can unite people from various countries, allowing them to enjoy the same melody regardless of their native language. Additionally, **music events** such as concerts and festivals create environments where people of all ages can come together, share experiences, and build lasting memories. This shared enjoyment **fosters a sense of community** and **belonging** among participants, breaking down social and cultural barriers.
 
 However, it is important to acknowledge that music alone may not entirely eliminate **cultural and generational differences**. While music can initiate interactions, deeper understanding requires more **comprehensive efforts**, including education and open dialogue. For instance, differing **musical tastes and preferences** can sometimes lead to misunderstandings or a lack of appreciation for each other's styles. Moreover, **generational gaps in music preferences** can create barriers in communication and mutual enjoyment. Therefore, while music is a powerful tool for connection, it should be complemented with other initiatives to fully bridge **cultural and age-related divides**.
 
@@ -962,17 +942,17 @@ In conclusion, music plays a significant role in uniting people from various cul
 
 ### Essay 4
 
-**Question: **
+**Question:**
 
-*Nowadays many people choose to be self-employed, rather than to work for a company or organisation. Why might this be the case? What could be the disadvantages of being self-employed?*
+_Nowadays many people choose to be self-employed, rather than to work for a company or organisation. Why might this be the case? What could be the disadvantages of being self-employed?_
 
 **Essay:**
 
 In today’s society, an increasing number of individuals are opting to become **self-employed** instead of working for **established companies** or organizations. This shift can be attributed to several factors, but it also comes with its own set of challenges.
 
-One primary reason for the rise in **self-employment** is the desire for greater **flexibility and autonomy**. Many people seek the ability to set their own schedules and make independent decisions about their work. For example, **freelancers** in the **gig economy** enjoy the freedom to choose projects that align with their interests and skills, allowing for a more **personalized career path**. Additionally, advancements in technology have made it easier to start and manage a business from virtually anywhere, reducing the **barriers to entry** for **aspiring entrepreneurs**.
+One primary reason for the rise in **self-employment** is the desire for greater **flexibility and autonomy**. Many people seek the ability to set their own schedules and make independent decisions about their work. For example, **freelancers** in the **gig economy** enjoy the freedom to choose projects that align with their interests and skills, allowing for a more **personalized career path**. Additionally, advancements in technology have made it easier to start and manage a business from virtually anywhere, reducing the **barriers to entry** for **aspiring entrepreneurs**. This technological empowerment enables individuals to operate efficiently without the need for significant initial investments or infrastructure.
 
-However, **self-employment** also presents significant disadvantages that can impact individuals negatively. One major drawback is the lack of **job security** and **stable income**. Unlike salaried positions, **self-employed** individuals often face **inconsistent earnings** and **financial uncertainty**, which can lead to stress and anxiety. For instance, **freelance graphic designers** may experience periods of high demand followed by times with few projects, making it difficult to plan financially. Furthermore, **self-employed** individuals are responsible for all aspects of their business, including marketing, administration, and **financial management**, which can be overwhelming and detract from their **core professional activities**.
+However, **self-employment** also presents significant disadvantages that can impact individuals negatively. One major drawback is the lack of **job security** and **stable income**. Unlike salaried positions, **self-employed** individuals often face **inconsistent earnings** and **financial uncertainty**, which can lead to stress and anxiety. For instance, **freelance graphic designers** may experience periods of high demand followed by times with few projects, making it difficult to plan financially. Furthermore, **self-employed** individuals are responsible for all aspects of their business, including marketing, administration, and **financial management**, which can be overwhelming and detract from their **core professional activities**. This multifaceted responsibility can lead to burnout and reduce the quality of their primary work.
 
 In conclusion, while **self-employment** offers **flexibility and independence**, it also entails **financial instability** and increased **personal responsibility**, making it essential for individuals to weigh the pros and cons carefully before making the **transition**.
 
@@ -995,4 +975,4 @@ In conclusion, while **self-employment** offers **flexibility and independence**
 - **core professional activities** /kɔː ˌprəˈfɛʃənl ækˈtɪvɪtiz/: 核心职业活动
 - **transition** /trænˈzɪʃən/: 转变
 
-
+---
