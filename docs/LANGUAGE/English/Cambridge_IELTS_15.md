@@ -11,25 +11,56 @@ _In some countries, owning a home rather than renting one is very important for 
 
 **Essay:**
 
-Owning a home is often regarded as a significant milestone in many countries, embodying profound **cultural and economic significance**. This emphasis on **homeownership** stems from the belief that it provides **stability and security** as well as **investment opportunities**, while others contend that it may impose **financial burdens** and limit **mobility**.
+Owning a home is often regarded as a **significant milestone** in many countries, embodying profound **cultural and economic significance**. This emphasis on **homeownership** stems from the belief that it provides **stability and security** as well as **investment opportunities**, while others contend that it may impose **financial burdens** and limit **mobility**.
 
-One primary reason people prioritize **homeownership** is the **sense of stability and security** it offers. **Homeowners** enjoy a permanent residence, free from the uncertainties associated with **rental agreements** and the looming threat of **eviction**. For instance, **owning a house** enables families to **establish deep roots** within a community, fostering robust **social connections** and support networks. Additionally, **property ownership** is perceived as a long-term **investment** that can **appreciate over time**, contributing to **wealth accumulation** and financial prosperity.
+One primary reason people prioritize **homeownership** is the **sense of stability and security** it offers. **Homeowners** enjoy a **permanent residence**, free from the uncertainties associated with **rental agreements** and the looming threat of **eviction**. For instance, **owning a house** enables families to **establish deep roots** within a community, fostering robust **social connections** and **support networks**. Additionally, **property ownership** is perceived as a long-term **investment** that can **appreciate over time**, contributing to **wealth accumulation** and financial prosperity.
 
-However, **homeownership** carries both advantages and disadvantages for individuals and society. On the positive side, it enhances personal satisfaction and pride, contributing to overall well-being and a sense of achievement. Conversely, the **financial obligations** of **mortgage payments**, **maintenance costs**, and **property taxes** can be substantial, particularly in **high-cost regions**. Furthermore, **owning a home** may restrict an individual's flexibility to relocate for better career opportunities or personal reasons, potentially hindering **career advancement** and personal growth.
+However, **homeownership** carries both **advantages** and **disadvantages** for individuals and society. On the positive side, it enhances **personal satisfaction** and **pride**, contributing to overall **well-being** and a **sense of achievement**. Conversely, the **financial obligations** of **mortgage payments**, **maintenance costs**, and **property taxes** can be **substantial**, particularly in **high-cost regions**. Furthermore, **owning a home** may restrict an individual's **flexibility** to **relocate** for better **career opportunities** or personal reasons, potentially hindering **career advancement** and **personal growth**.
 
-In my opinion, while **homeownership** offers numerous benefits such as **stability** and **investment potential**, it is crucial to consider the associated **financial responsibilities** and possible **restrictions** it entails. Therefore, **owning a home** can be both a **positive** and **negative** situation, depending on an individual's circumstances and priorities.
+In my opinion, while **homeownership** offers numerous benefits such as **stability** and **investment potential**, it is crucial to consider the associated **financial responsibilities** and possible **restrictions** it entails.
 
 **注释：**
 
+- **significant milestone** /sɪɡˈnɪfɪkənt ˈmaɪlstəʊn/: 重要的里程碑
 - **cultural and economic significance** /ˈkʌltʃərəl ænd ˌiːkəˈnɒmɪk sɪɡˈnɪfɪkəns/: 文化和经济意义
+- **homeownership** /ˈhəʊməʊˌnɛʃɪp/: 拥有住房
+- **stability and security** /stəˈbɪləti ænd sɪˈkjʊərɪti/: 稳定性和安全性
 - **investment opportunities** /ɪnˈvɛstmənt ˌɒpərˈtjuːnɪtiz/: 投资机会
 - **financial burdens** /faɪˈnænʃəl ˈbɜːdnz/: 财务负担
 - **mobility** /məʊˈbɪləti/: 流动性
-- **deep roots** /diːp ruːts/: 深厚的根基
+- **sense of stability and security** /sɛns əv stəˈbɪləti ænd sɪˈkjʊərɪti/: 稳定和安全感
+- **permanent residence** /ˈpɜːmənənt ˈrɛzɪdəns/: 永久住所
+- **rental agreements** /ˈrɛntəl əˈɡriːmənts/: 租赁协议
+- **eviction** /ɪˈvɪkʃən/: 驱逐
+- **owning a house** /ˈəʊnɪŋ ə haʊs/: 拥有房屋
+- **establish deep roots** /ɪˈstæblɪʃ diːp ruːts/: 建立深厚的根基
+- **social connections** /ˈsəʊʃəl kəˈnɛkʃənz/: 社会关系
+- **support networks** /səˈpɔːt ˈnɛtwɜːks/: 支持网络
+- **property ownership** /ˈprɒpəti ˈəʊnəʃɪp/: 财产所有权
+- **investment** /ɪnˈvɛstmənt/: 投资
+- **appreciate over time** /əˈpriːʃieɪt ˈəʊvə taɪm/: 随时间增值
 - **wealth accumulation** /wɛlθ əˌkjuːmjʊˈleɪʃən/: 财富积累
+- **advantages** /ədˈvɑːntɪdʒɪz/: 优点
+- **disadvantages** /ˌdɪsədˈvɑːntɪdʒɪz/: 缺点
+- **personal satisfaction** /ˈpɜːsənl ˌsætɪsˈfækʃən/: 个人满足感
+- **pride** /praɪd/: 自豪
+- **well-being** /ˌwɛlˈbiːɪŋ/: 福祉
+- **sense of achievement** /sɛns əv əˈtʃiːvmənt/: 成就感
 - **financial obligations** /faɪˈnænʃəl ˌɒblɪˈɡeɪʃənz/: 财务义务
+- **mortgage payments** /ˈmɔːɡɪdʒ ˈpeɪmənts/: 抵押贷款支付
+- **maintenance costs** /ˈmeɪntənəns kɒsts/: 维护费用
+- **property taxes** /ˈprɒpəti tæksɪz/: 财产税
+- **substantial** /səbˈstænʃəl/: 大量的，实质的
 - **high-cost regions** /haɪ-kɒst ˈriːdʒənz/: 高成本地区
+- **flexibility** /ˌflɛksɪˈbɪləti/: 灵活性
+- **relocate** /ˌriːləˈkeɪt/: 搬迁
+- **career opportunities** /kəˈrɪər ˌɒpərˈtjuːnɪtiz/: 职业机会
 - **career advancement** /kəˈrɪər ədˈvɑːnsmənt/: 职业发展
+- **personal growth** /ˈpɜːsənl ɡrəʊθ/: 个人成长
+- **perceived** /pərˈsiːvd/: 被认为
+- **prosperity** /prɒsˈpɛrɪti/: 繁荣
+
+---
 
 ### Essay 2
 
@@ -74,7 +105,7 @@ Proponents of **advertising’s persuasive power** emphasize how **strategically
 
 Conversely, the **saturation of advertising** in daily life has led to **consumer desensitization**. With **advertisements** omnipresent across various platforms—television, social media, billboards—individuals have become adept at ignoring them. The prevalence of **ad blockers** and the habitual skipping of commercials exemplify a growing trend of **advertisement avoidance**. Additionally, the **repetitive nature** of **ads** can incite irritation, diminishing their effectiveness and even fostering **negative brand perceptions**. Consequently, some believe that the sheer volume of **advertising** has undermined its ability to influence purchasing decisions.
 
-In my opinion, while **advertising** remains a potent tool for shaping **consumer behavior**, its efficacy is diminishing due to **overexposure** and **consumer fatigue**. Therefore, advertisers must innovate and develop more **engaging and targeted campaigns** to capture attention in an increasingly **crowded marketplace**.
+In my opinion, while **advertising** remains a potent tool for shaping **consumer behavior**, its efficacy is diminishing due to **overexposure** and **consumer fatigue**.
 
 **注释：**
 
@@ -111,7 +142,7 @@ One significant advantage of this message is that it **cultivates a strong work 
 
 However, there are notable disadvantages to this approach. Telling children they can achieve anything may set **unrealistic expectations**, leading to disappointment and frustration when they encounter failures. For instance, a child consistently told they can become a professional athlete might experience **significant stress and anxiety** if they lack the necessary talent or suffer injuries. Furthermore, this message can overlook the importance of **external factors** such as **socio-economic status**, **access to resources**, and **innate abilities**, which play crucial roles in achieving success. Consequently, children might develop a **distorted perception of reality**, believing that effort alone is sufficient to **overcome all barriers**.
 
-In my opinion, while encouraging children to strive for their goals is beneficial, it is equally important to teach them about the complexities and challenges they may face. **Balancing motivation with realistic expectations** can help children develop both ambition and **resilience**, preparing them to navigate successes and setbacks effectively.
+In my opinion, while encouraging children to strive for their goals is beneficial, it is equally important to teach them about the complexities and challenges they may face.
 
 **注释：**
 
