@@ -1,13 +1,15 @@
 ### IELTS Speaking Preparation: Part 1
 
 ---
-*In the first part of the IELTS Speaking test, the examiner will introduce themselves and confirm your identity. They will then ask you questions related to familiar topics such as your studies, work, accommodation, or other everyday subjects. Below are some example questions and sample answers on various topics.*
+
+_In the first part of the IELTS Speaking test, the examiner will introduce themselves and confirm your identity. They will then ask you questions related to familiar topics such as your studies, work, accommodation, or other everyday subjects. Below are some example questions and sample answers on various topics._
 
 ---
 
 #### **01. Laughing**
 
 **Key Vocabulary:**
+
 - **humour** /ˈhjuːmər/: 幽默
 - **humorous** /hjuːˈmɔːrəs/: 幽默的
 - **crack someone up** /kræk ˈsʌmwʌn ʌp/: 逗某人笑
@@ -23,7 +25,7 @@
 
 **Sample Questions and Answers:**
 
-##### ***1. Do you always laugh at funny things?***
+##### **_1. Do you always laugh at funny things?_**
 
 **Sample Answer:**
 
@@ -34,6 +36,7 @@ It **depends** on the situation. Most of the time, I don't **laugh out loud**; i
 #### **02. Fishing**
 
 **Key Vocabulary:**
+
 - **fishing rod** /ˈfɪʃɪŋ rɒd/: 钓鱼竿
 - **fishing reel** /ˈfɪʃɪŋ riːl/: 钓鱼卷轴
 - **fishing line** /ˈfɪʃɪŋ laɪn/: 钓鱼线
@@ -51,7 +54,7 @@ It **depends** on the situation. Most of the time, I don't **laugh out loud**; i
 
 **Sample Questions and Answers:**
 
-##### ***1. Do you like eating fish?***
+##### **_1. Do you like eating fish?_**
 
 **Sample Answer:**
 
@@ -62,6 +65,7 @@ Yes, I do like eating fish because I was born and raised in a coastal city where
 #### **03. Meet New Friends/People**
 
 **Key Vocabulary:**
+
 - **social circle** /ˈsəʊʃəl ˈsɜːkl/: 社交圈
 - **comfort zone** /ˈkʌmfərt zəʊn/: 舒适区
 - **bonding** /ˈbɒndɪŋ/: 建立联系
@@ -75,7 +79,7 @@ Yes, I do like eating fish because I was born and raised in a coastal city where
 
 **Sample Questions and Answers:**
 
-##### ***1. Do you like making friends?***
+##### **_1. Do you like making friends?_**
 
 **Sample Answer:**
 
@@ -86,6 +90,7 @@ Yes, definitely! Making friends is a great way for me to **juice up my life** an
 #### **04. Teachers**
 
 **Key Vocabulary:**
+
 - **role model** /rəʊl ˈmɒdl/: 榜样
 - **set a good example** /sɛt ə ɡʊd ɪɡˈzɑːmpl/: 树立良好榜样
 - **inspire** /ɪnˈspaɪər/: 激励
@@ -97,7 +102,7 @@ Yes, definitely! Making friends is a great way for me to **juice up my life** an
 
 **Sample Questions and Answers:**
 
-##### ***1. In what way has your favorite teacher helped you?***
+##### **_1. In what way has your favorite teacher helped you?_**
 
 **Sample Answer:**
 
@@ -108,6 +113,7 @@ Just like the old saying goes, "Give a man a fish and you feed him for a day. Te
 #### **05. Teamwork**
 
 **Key Vocabulary:**
+
 - **cooperate** /kəʊˈɒpəreɪt/: 合作
 - **collaborate** /kəˈlæbəreɪt/: 协作
 - **compromise** /ˈkɒmprəmaɪz/: 妥协
@@ -120,7 +126,7 @@ Just like the old saying goes, "Give a man a fish and you feed him for a day. Te
 
 **Sample Questions and Answers:**
 
-##### ***1. What do you dislike about teamwork?***
+##### **_1. What do you dislike about teamwork?_**
 
 **Sample Answer:**
 
@@ -131,6 +137,7 @@ One of the things I dislike about teamwork is when someone isn't **cooperative**
 #### **06. Bikes**
 
 **Key Vocabulary:**
+
 - **bicycle** /ˈbaɪsɪkl/: 自行车
 - **tricycle** /ˈtraɪsɪkl/: 三轮车
 - **electric scooters** /ɪˈlɛktrɪk ˈskuːtəz/: 电动滑板车
@@ -143,7 +150,7 @@ One of the things I dislike about teamwork is when someone isn't **cooperative**
 
 **Sample Questions and Answers:**
 
-##### ***1. Are bikes popular in China?***
+##### **_1. Are bikes popular in China?_**
 
 **Sample Answer:**
 
@@ -154,6 +161,7 @@ Yes, especially in big cities. You see a lot of people using **bike-sharing serv
 #### **07. Good View**
 
 **Key Vocabulary:**
+
 - **cityscape** /ˈsɪtɪskeɪp/: 城市景观
 - **skyscrapers** /ˈskaɪskreɪpəz/: 摩天大楼
 - **concrete jungle** /ˈkɒŋkriːt ˈdʒʌŋgl/: 水泥森林
@@ -168,7 +176,7 @@ Yes, especially in big cities. You see a lot of people using **bike-sharing serv
 
 **Sample Questions and Answers:**
 
-##### ***1. What is the view like around the place where you live?***
+##### **_1. What is the view like around the place where you live?_**
 
 **Sample Answer:**
 
@@ -179,6 +187,7 @@ I live in the **city center**, which is just a stone's throw away from the train
 #### **08. Roads and Streets**
 
 **Key Vocabulary:**
+
 - **traffic congestion** /ˈtræfɪk kənˈdʒɛstʃən/: 交通拥堵
 - **traffic jam** /ˈtræfɪk dʒæm/: 交通堵塞
 - **peak hours** /piːk ˈaʊəz/: 高峰期
@@ -192,7 +201,7 @@ I live in the **city center**, which is just a stone's throw away from the train
 
 **Sample Questions and Answers:**
 
-##### ***1. Which means of transport is convenient?***
+##### **_1. Which means of transport is convenient?_**
 
 **Sample Answer:**
 
@@ -203,6 +212,7 @@ It **depends** on where you go. If we commute to work, **subways** are definitel
 #### **09. Places of Work/Study**
 
 **Key Vocabulary:**
+
 - **productive** /prəˈdʌktɪv/: 生产力高的
 - **procrastinate** /prəˈkræstɪneɪt/: 拖延
 - **eliminate distractions** /ɪˈlɪmɪneɪt dɪˈstrækʃənz/: 消除干扰
@@ -213,7 +223,7 @@ It **depends** on where you go. If we commute to work, **subways** are definitel
 
 **Sample Questions and Answers:**
 
-##### ***1. Do you prefer to study at home or in a library?***
+##### **_1. Do you prefer to study at home or in a library?_**
 
 **Sample Answer:**
 
@@ -221,7 +231,7 @@ I definitely prefer studying in a **library** over studying at home. My home is 
 
 ---
 
-##### ***2. Do you prefer to work at home or in the workplace?***
+##### **_2. Do you prefer to work at home or in the workplace?_**
 
 **Sample Answer:**
 
@@ -232,6 +242,7 @@ I also prefer working in the **workplace** rather than at home. At home, the **c
 #### **10. Coins**
 
 **Key Vocabulary:**
+
 - **cashless** /ˈkæʃləs/: 无现金的
 - **electronic payments** /ɪˌlekˈtrɒnɪk ˈpeɪmənts/: 电子支付
 - **contactless payment** /ˈkɒntæktləs ˈpeɪmənt/: 无接触支付
@@ -245,7 +256,7 @@ I also prefer working in the **workplace** rather than at home. At home, the **c
 
 **Sample Questions and Answers:**
 
-##### ***1. Do you often take coins with you?***
+##### **_1. Do you often take coins with you?_**
 
 **Sample Answer:**
 
@@ -256,6 +267,7 @@ Definitely not. Most people in China use **electronic payments** nowadays. **Cas
 #### **11. Perfume**
 
 **Key Vocabulary:**
+
 - **wear perfume** /wɛər pərˈfjuːm/: 戴香水
 - **spray perfume** /spreɪ pərˈfjuːm/: 喷香水
 - **scent** /sɛnt/: 香味
@@ -269,10 +281,257 @@ Definitely not. Most people in China use **electronic payments** nowadays. **Cas
 
 **Sample Questions and Answers:**
 
-##### ***1. Do you like perfume?***
+##### **_1. Do you like perfume?_**
 
 **Sample Answer:**
 
 Yes, I like perfume as long as the **scent** isn't too strong. If it **lingers** too long, it gives me a headache. However, the ones that smell **fresh**, like **nature** or **freshly washed laundry**, always make me feel **refreshed**. I prefer **aromatic** fragrances that are subtle and **diffuse** gently, creating a pleasant atmosphere without being overpowering.
+
+---
+
+### IELTS Speaking Preparation: Part 2
+
+---
+
+#### **09. Describe a beautiful city**
+
+**Key Vocabulary:**
+
+- **beautiful city** /ˈbjuːtəfʊl ˈsɪti/: 美丽的城市
+- **Hangzhou** /ˈhænɡhoʊ/: 杭州
+- **friend** /frɛnd/: 朋友
+- **social media** /ˈsəʊʃəl ˈmiːdiə/: 社交媒体
+- **stone's throw away** /stəʊnz θrəʊ əˈweɪ/: 很近
+- **train station** /treɪn ˈsteɪʃən/: 火车站
+- **West Lake** /wɛst leɪk/: 西湖
+- **serene** /sɪˈriːn/: 安详的
+- **charming islands** /ˈʧɑːmɪŋ ˈaɪləndz/: 迷人的岛屿
+- **old bridges** /əʊld ˈbrɪʤɪz/: 老桥
+- **traditional gardens** /trəˈdɪʃənəl ˈgɑːdnz/: 传统花园
+- **Leifeng Tower** /ˈleɪfəŋ ˈtaʊər/: 雷峰塔
+- **Buddhist temple** /ˈbʊdɪst ˈtɛmpl/: 佛教寺庙
+- **Yue Temple** /jʊˈɛ tɛmpl/: 岳庙
+- **Botanical Garden** /bəˈtænɪkəl ˈgɑːdn/: 植物园
+- **nature** /ˈneɪʧər/: 自然
+- **freshly washed laundry** /ˈfrɛʃli wɒʃt ˈlɔːndrɪ/: 新洗的衣物
+- **Longjing tea** /ˈlɒŋdʒɪŋ tiː/: 龙井茶
+- **idyllic** /ɪˈdɪlɪk/: 田园诗般的
+
+---
+
+**Sample Answer:**
+
+I'd like to describe a beautiful city in China called **Hangzhou**. I first heard about it from some friends who went there and couldn't stop raving about its beauty. Then, I saw some stunning pictures of the place on **social media** and knew I had to check it out for myself.
+
+I finally made my way to Hangzhou in the fall of 2022. It was the perfect time to go because the city looks absolutely magical during that season. The main reason for my visit was the famous **West Lake**. This place is like something out of a fairy tale—imagine serene lakes, charming islands, old bridges, and traditional gardens all in one spot. I just had to see it in person.
+
+Hangzhou has some impressive buildings too. The one that stands out most is the **Leifeng Tower**; it's an ancient Buddhist tower with a really long history. People say it's one of the symbols of Hangzhou. When it comes to gardens and courtyards, Hangzhou has some real gems, like the **Yue Temple** and the **Botanical Garden**. These places are like art in the form of gardens.
+
+But what makes Hangzhou truly famous is its breathtaking natural scenery, its rich culture, and its unique history. **West Lake** alone is enough to make it a top destination. It's famous not just because of the beauty, but also for the whole vibe—the tea culture and the delicious local food like **Longjing tea** and Hangzhou dishes. It's a city that's got it all, and I can't wait to go back someday.
+
+---
+
+#### **13. Describe a successful sportsperson you admire**
+
+**Key Vocabulary:**
+
+- **successful sportsperson** /səkˈsɛsfʊl ˈspɔːtsˌpɜːsn/: 成功的运动员
+- **iconic** /aɪˈkɒnɪk/: 标志性的
+- **height** /haɪt/: 身高
+- **impressive** /ɪmˈprɛsɪv/: 令人印象深刻的
+- **vertical jump** /ˈvɜːtɪkəl dʒʌmp/: 垂直跳跃
+- **accolades** /ˈækəleɪdz/: 荣誉
+- **champion** /ˈtʃæmpiən/: 冠军
+- **Most Valuable Player (MVP)** /məʊst ˈvæljuəbl ˈpleɪər/: 最有价值球员
+- **virtues** /ˈvɜːtjuz/: 美德
+- **resilience** /rɪˈzɪliəns/: 弹性，韧性
+- **leadership** /ˈliːdərʃɪp/: 领导力
+- **role model** /rəʊl ˈmɒdl/: 榜样
+- **philanthropy** /fɪˈlænθrəpi/: 慈善事业
+
+---
+
+**Sample Answer:**
+
+I'd like to talk about a famous athlete I greatly admire, **LeBron James**. He is an iconic basketball player known for his impressive height of about 6 feet 9 inches, incredible strength, and a remarkable vertical jump. LeBron is a superstar in the National Basketball Association (NBA) and has achieved numerous accolades, including being a four-time NBA champion and a four-time Most Valuable Player (MVP). Apart from his basketball success, he's also known for his wonderful family.
+
+I became familiar with LeBron James when I was a child. My dad was an avid NBA fan, and he used to watch NBA games regularly. His enthusiasm for the sport rubbed off on me, and I began to take an interest in basketball too. At first, I didn’t have a favorite player since the famous ones were already popular, and I wanted someone unique. That's when I started noticing LeBron James. LeBron had a somewhat polarizing reputation when he first entered the league, but what truly stood out to me was his unwavering determination to chase his dreams. I admire him for his courage and resilience in the face of adversity. He's not just an exceptional player but also an incredible leader and facilitator on the court. He consistently motivates and uplifts his teammates, which contributes to his team's success. In addition, he is such a role model in real life as he has donated millions towards charity and even sponsored a whole school by himself for children who want to go to school but don't have the chance to.
+
+In summary, LeBron James is a successful athlete I admire greatly. His remarkable basketball career, including multiple championships and MVP awards, is just one facet of his fame. What makes him truly exceptional is his courage, leadership, and ability to inspire both on and off the basketball court.
+
+---
+
+#### **14. Describe a bad service you received in a restaurant/shop**
+
+**Key Vocabulary:**
+
+- **bad service** /bæd ˈsɜːvɪs/: 糟糕的服务
+- **get-together** /ˌɡɛt təˈɡɛðər/: 聚会
+- **coastal city** /ˈkəʊstəl ˈsɪti/: 沿海城市
+- **reservation** /ˌrɛzərˈveɪʃən/: 预订
+- **vanished** /ˈvænɪʃt/: 消失
+- **waited forever** /ˈweɪtɪd fəˈrɛvər/: 等待很久
+- **manager** /ˈmænɪʤər/: 经理
+- **understanding** /ˌʌndərˈstændɪŋ/: 理解的
+- **apologize** /əˈpɒlədʒaɪz/: 道歉
+- **refund** /ˈrɛfʌnd/: 退款
+- **complaint** /kəmˈpleɪnt/: 投诉
+- **frustrated** /ˈfrʌstreɪtɪd/: 感到沮丧的
+- **annoyed** /əˈnɔɪɪd/: 感到恼火的
+- **resolved** /rɪˈzɒlvd/: 解决的
+- **compensate** /ˈkɒmpənseɪt/: 补偿
+
+---
+
+**Sample Answer:**
+
+I'd like to describe a bad service experience I had in a restaurant about six months ago. My friends and I had our usual **get-together**, and normally, we would hit up a restaurant we liked near our university dorm. But this time, someone decided to change things up.
+
+On that day, we met up and started with some bubble tea. As we were sipping our drinks, one of us found a new restaurant online and thought, "Why not give it a try?" When we got there, it was packed. Even though we had a **reservation**, they sat us at a tiny table and then our waiter just **vanished**. It took forever for the food to arrive, and the service was extremely slow. We were **twiddling our thumbs**, waiting for a whole hour without any sign of our meals. We were getting seriously hungry and **frustrated**, so I decided it was time to take action. I tracked down the **manager** and laid out the whole story, emphasizing how crazy slow the service had been. To my surprise, the manager was super **understanding** and **sorry** about the whole thing. To make up for it, he not only ensured our food came out quickly but also told us that our whole dinner was on the house.
+
+Looking back on it, I learned that you need to speak up when dealing with bad service. While the initial frustration put a damper on the evening, the manager's effective action turned things around. So, even though we were a bit **annoyed** at first, we left the place feeling better about it, thanks to the manager stepping up.
+
+---
+
+#### **17. Describe a rule that is important in your school or at work**
+
+**Key Vocabulary:**
+
+- **rule** /ruːl/: 规则
+- **punctuality** /ˌpʌŋktʃʊˈælɪti/: 准时
+- **productive** /prəˈdʌktɪv/: 生产力高的
+- **organized** /ˈɔːrɡənaɪzd/: 有组织的
+- **work environment** /wɜːk ɪnˈvaɪrənmənt/: 工作环境
+- **scheduled work hours** /ˈʃɛdjuːld wɜːk ˈaʊərz/: 计划的工作时间
+- **adhering** /ədˈhɪərɪŋ/: 遵守
+- **designated start time** /ˈdɛzɪɡneɪtɪd stɑːt taɪm/: 指定的开始时间
+- **meetings** /ˈmiːtɪŋz/: 会议
+- **deadlines** /ˈdɛdlaɪnz/: 截止日期
+- **commitments** /kəˈmɪtmənts/: 承诺
+- **violations** /vaɪəˈleɪʃənz/: 违反
+- **warnings** /ˈwɔːnɪŋz/: 警告
+- **counseling** /ˈkaʊnsəlɪŋ/: 咨询
+- **termination** /ˌtɜːmɪˈneɪʃən/: 解雇
+- **professionalism** /ˈprəʊfeʃənəlɪzəm/: 专业精神
+- **respect** /rɪˈspɛkt/: 尊重
+- **colleagues** /ˈkɒliːgz/: 同事
+- **superiors** /suːˈpɪəriəz/: 上级
+- **harmonious** /hɑːˈməʊniəs/: 和谐的
+- **work culture** /wɜːk ˈkʌltʃər/: 工作文化
+- **discipline** /ˈdɪsɪplɪn/: 纪律
+- **responsibility** /rɪˌspɒnsɪˈbɪləti/: 责任感
+- **trust** /trʌst/: 信任
+- **reliable** /rɪˈlaɪəbəl/: 可靠的
+- **efficient** /ɪˈfɪʃənt/: 高效的
+
+---
+
+**Sample Answer:**
+
+One of the important **rules** in my workplace concerns **punctuality**. It's a straightforward rule but plays a crucial role in maintaining a **productive** and **organized** work environment. This rule is about arriving at work on time and adhering to the **scheduled work hours**. At my workplace, we have fixed working hours, and employees are expected to be at their desks or workstations promptly at the **designated start time**. **Punctuality** also applies to **meetings**, **deadlines**, and other work-related **commitments**.
+
+When people break this rule, there are **consequences**. Initially, it might result in verbal warnings or **counseling** if there are valid reasons for the lateness. Repeated violations can lead to more severe consequences, including written warnings or, in extreme cases, **termination** of employment. I believe this rule is critically important for several reasons.
+
+First and foremost, it demonstrates **professionalism** and **respect** for one's **colleagues** and **superiors**. Being punctual shows that you value your time and that of others. It contributes to a **harmonious work environment** where everyone can rely on each other to fulfill their duties promptly. **Punctuality** is also essential for maintaining **productivity** and meeting **deadlines**.
+
+Personally, I strongly support and adhere to this rule. It instills **discipline** and a sense of **responsibility**. When everyone follows this rule, it fosters a positive **work culture** where people can **trust** each other to be **reliable** and **efficient**. Overall, **punctuality** is a simple yet vital rule that contributes to a well-functioning and respectful work environment, and I believe it should be upheld and respected by everyone.
+
+---
+
+### IELTS Speaking Preparation: Part 2
+
+---
+
+#### **1. Describe an Exciting Activity That You Experienced with Someone Else**
+
+**You should say:**
+
+- What the activity was
+- Who you were with
+- When and where it happened
+- Why you joined this activity
+- And explain how you felt about it
+
+---
+
+**Key Vocabulary:**
+
+- **skiing trip** /ˈskiːɪŋ trɪp/: 滑雪旅行
+- **university mates** /ˌjuːnɪˈvɜːsɪti meɪts/: 大学同学
+- **lads' holiday** /lædz ˈhɒlɪdeɪ/: 男子假期
+- **Heilongjiang** /ˌheɪləʊŋˈdʒæŋ/: 黑龙江
+- **tricky slopes** /ˈtrɪki sloʊps/: 难走的坡道
+- **seasoned skiers** /ˈsiːzənd ˈskiːərz/: 有经验的滑雪者
+- **Bambi learning to walk** /ˈbæmbi ˈlɜːnɪŋ tuː wɔːk/: 小鹿学步（比喻初学者）
+- **challenging runs** /ˈʧælɪnʤɪŋ rʌnz/: 挑战性的滑道
+- **somersault** /ˈsʌmərsɔːlt/: 空翻
+- **adrenaline** /əˈdrɛnəlɪn/: 肾上腺素
+- **breakneck speed** /ˈbreɪknɛk spiːd/: 飞快的速度
+- **wind rushing past** /wɪnd ˈrʌʃɪŋ pɑːst/: 风迅速掠过
+- **adventure** /ədˈvɛntʃər/: 冒险
+- **thrills** /θrɪlz/: 刺激
+- **friendships** /ˈfrɛndʃɪps/: 友谊
+- **unforgettable memory** /ˌʌnfərˈɡɛtəbl ˈmɛməri/: 难忘的记忆
+
+---
+
+**Sample Answer:**
+
+I'd like to share an exciting experience I had during a **skiing trip** with my university mates on a lads' holiday. This adventure took place a while back during the winter break when we were all seeking some excitement to fill our holidays. We decided to go skiing in **Heilongjiang**, which is renowned in China as the go-to place for winter fun.
+
+The trip was not just thrilling but also a hilarious adventure. Picture this: a group of us, all trying to stay upright on those **tricky slopes** in Heilongjiang. Some of us were **seasoned skiers**, while others were like Bambi learning to walk! We tackled some pretty **challenging runs**, and it was an absolute riot watching my friends **tumble** and **somersault** in the snow. Of course, falling is all part of the skiing experience. We cheered them on, helped them up, and then it was back to tackling the slopes.
+
+What made the trip truly exhilarating was the thrill of **zooming down those mountains at breakneck speed**, with the **wind rushing past** and **adrenaline** pumping through our veins. It was an absolute rush! We pushed ourselves to the limits, daring each other to go faster and take on more extreme runs. The occasional **wipeout** added to the fun—one minute you’re skiing smoothly, and the next, you're making snow angels! Despite the falls, the overall experience was incredibly enjoyable.
+
+All in all, that skiing adventure with my university mates in Heilongjiang was a real blast. We had our fill of **thrills** on the slopes and strengthened our **friendships**. It's the kind of holiday memory that will put a smile on my face for years to come. I felt exhilarated, joyful, and grateful for the unforgettable time we shared together.
+
+---
+
+#### **12. Describe a Good Advertisement That You Think Is Useful**
+
+**You should say:**
+
+- Where you can see it
+- What it shows
+- Why you think it is useful
+- And explain how you feel about it
+
+---
+
+**Key Vocabulary:**
+
+- **advertisement** /ˌædvərˈtaɪzmənt/: 广告
+- **informative** /ɪnˈfɔːrmətɪv/: 有信息量的
+- **browsing the internet** /ˈbraʊzɪŋ ði ˈɪntərnɛt/: 浏览互联网
+- **broadband services** /ˈbrɔːdbænd ˈsɜːrvɪsəz/: 宽带服务
+- **fiber optic connections** /ˈfaɪbər ˈɒptɪk kəˈnɛkʃənz/: 光纤连接
+- **internet speeds** /ˈɪntərnɛt spiːdz/: 互联网速度
+- **online gaming** /ˈɒnˌlaɪn ˈɡeɪmɪŋ/: 在线游戏
+- **attention** /əˈtɛnʃən/: 注意
+- **reliable service** /rɪˈlaɪəbl ˈsɜːrvɪs/: 可靠的服务
+- **informational** /ˌɪnfərˈmeɪʃənl/: 信息性的
+- **education** /ˌɛdjuˈkeɪʃən/: 教育
+- **upgrade** /ˈʌpɡreɪd/: 升级
+- **fiber optic cables** /ˈfaɪbər ˈɒptɪk ˈkeɪbəlz/: 光纤电缆
+- **enhance** /ɪnˈhæns/: 提升
+- **tangible improvement** /ˈtændʒəbl ɪmˈpruːvmənt/: 有形的改善
+- **decision-making process** /dɪˈsɪʒən ˈmeɪkɪŋ ˈprəʊsɛs/: 决策过程
+- **empowering** /ɛmˈpaʊərɪŋ/: 赋权的
+- **valuable information** /ˈvæljuəbl ˌɪnfərˈmeɪʃən/: 有价值的信息
+- **internet experience** /ˈɪntərnɛt ɪkˈspɪəriəns/: 互联网体验
+
+---
+
+**Sample Answer:**
+
+I recently came across an **advertisement** that I found not only informative but also incredibly useful. I encountered this ad while **browsing the internet** on my PC, and it addressed an issue I was facing with my home internet connection.
+
+The advertisement focused on **broadband services**, specifically highlighting the benefits of **fiber optic connections**. It emphasized how providers offering fiber optic connections could deliver exceptionally fast **internet speeds**, making it ideal for activities like **online gaming**. This immediately caught my **attention** because I am an avid gamer, and I had been struggling with internet outages during crucial gaming moments. My home had been using a previous internet service provider whose unreliable service often cut out, especially during peak usage times.
+
+What made this advertisement particularly useful was that it didn't directly promote a specific product or company. Instead, it **educated viewers** about the technology itself. It explained the impact of old copper wiring on internet speed and how upgrading to **fiber optic cables** could significantly **enhance** the internet experience. This newfound knowledge was eye-opening for me, as I had never considered that the physical infrastructure might be the root cause of my internet problems.
+
+Armed with this information, I decided to take action. I contacted the company mentioned in the ad and switched to their broadband service that offered fiber optic connectivity. The results were astounding. My internet is now incredibly fast and stable, especially for gaming. I couldn't be happier with the switch. The advertisement played a pivotal role in my **decision-making process**, and I believe it could help others who might be facing similar issues.
+
+This advertisement was not just useful but also **empowering**. It provided **valuable information**, leading to a **tangible improvement** in my internet experience. I feel grateful for coming across it, as it significantly enhanced my daily life and gaming sessions.
 
 ---
