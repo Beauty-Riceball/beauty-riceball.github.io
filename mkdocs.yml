@@ -8,26 +8,25 @@ site_description: 丽质也饭团的秘密基地
 # [Navigtion]
 nav:
   - 随笔:
-    - ESSAY/index.md
+      - ESSAY/index.md
   - 生活:
-    - LIFE/index.md
-  - 语言: 
-    - LANGUAGE/index.md
-    - 英语:
-      - 雅思写作: LANGUAGE/English/IELTS_writing.md
-      - 剑桥雅思9: LANGUAGE/English/Cambridge_IELTS_9.md
-      - 剑桥雅思10: LANGUAGE/English/Cambridge_IELTS_10.md
-      - 剑桥雅思11: LANGUAGE/English/Cambridge_IELTS_11.md
-      - 剑桥雅思12: LANGUAGE/English/Cambridge_IELTS_12.md
-      - 剑桥雅思13: LANGUAGE/English/Cambridge_IELTS_13.md
-      - 剑桥雅思14: LANGUAGE/English/Cambridge_IELTS_14.md
-      - 剑桥雅思15: LANGUAGE/English/Cambridge_IELTS_15.md
+      - LIFE/index.md
+  - 语言:
+      - LANGUAGE/index.md
+      - 英语:
+          - 雅思写作: LANGUAGE/English/IELTS_writing.md
+          - 雅思口语: LANGUAGE/English/IELTS_speaking.md
+          - 剑桥雅思9: LANGUAGE/English/Cambridge_IELTS_9.md
+          - 剑桥雅思10: LANGUAGE/English/Cambridge_IELTS_10.md
+          - 剑桥雅思11: LANGUAGE/English/Cambridge_IELTS_11.md
+          - 剑桥雅思12: LANGUAGE/English/Cambridge_IELTS_12.md
+          - 剑桥雅思13: LANGUAGE/English/Cambridge_IELTS_13.md
+          - 剑桥雅思14: LANGUAGE/English/Cambridge_IELTS_14.md
+          - 剑桥雅思15: LANGUAGE/English/Cambridge_IELTS_15.md
   - 技能:
-    - SKILL/index.md
-    - Markdown:
-      - Markdown入门: SKILL/Markdown/markdown.md
-
-
+      - SKILL/index.md
+      - Markdown:
+          - Markdown入门: SKILL/Markdown/markdown.md
 
 # [UI]
 # [top]
@@ -105,7 +104,6 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/Beauty-Riceball
       name: GitHub | Beauty-Riceball
-
 
 # [Extensions]
 plugins:
