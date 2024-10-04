@@ -293,6 +293,51 @@ Yes, I like perfume as long as the **scent** isn't too strong. If it **lingers**
 
 ---
 
+#### **1. Describe an Exciting Activity That You Experienced with Someone Else**
+
+**You should say:**
+
+- What the activity was
+- Who you were with
+- When and where it happened
+- Why you joined this activity
+- And explain how you felt about it
+
+---
+
+**Key Vocabulary:**
+
+- **skiing trip** /ˈskiːɪŋ trɪp/: 滑雪旅行
+- **university mates** /ˌjuːnɪˈvɜːsɪti meɪts/: 大学同学
+- **lads' holiday** /lædz ˈhɒlɪdeɪ/: 男子假期
+- **Heilongjiang** /ˌheɪləʊŋˈdʒæŋ/: 黑龙江
+- **tricky slopes** /ˈtrɪki sloʊps/: 难走的坡道
+- **seasoned skiers** /ˈsiːzənd ˈskiːərz/: 有经验的滑雪者
+- **Bambi learning to walk** /ˈbæmbi ˈlɜːnɪŋ tuː wɔːk/: 小鹿学步（比喻初学者）
+- **challenging runs** /ˈʧælɪnʤɪŋ rʌnz/: 挑战性的滑道
+- **somersault** /ˈsʌmərsɔːlt/: 空翻
+- **adrenaline** /əˈdrɛnəlɪn/: 肾上腺素
+- **breakneck speed** /ˈbreɪknɛk spiːd/: 飞快的速度
+- **wind rushing past** /wɪnd ˈrʌʃɪŋ pɑːst/: 风迅速掠过
+- **adventure** /ədˈvɛntʃər/: 冒险
+- **thrills** /θrɪlz/: 刺激
+- **friendships** /ˈfrɛndʃɪps/: 友谊
+- **unforgettable memory** /ˌʌnfərˈɡɛtəbl ˈmɛməri/: 难忘的记忆
+
+---
+
+**Sample Answer:**
+
+I'd like to share an exciting experience I had during a **skiing trip** with my university mates on a lads' holiday. This adventure took place a while back during the winter break when we were all seeking some excitement to fill our holidays. We decided to go skiing in **Heilongjiang**, which is renowned in China as the go-to place for winter fun.
+
+The trip was not just thrilling but also a hilarious adventure. Picture this: a group of us, all trying to stay upright on those **tricky slopes** in Heilongjiang. Some of us were **seasoned skiers**, while others were like Bambi learning to walk! We tackled some pretty **challenging runs**, and it was an absolute riot watching my friends **tumble** and **somersault** in the snow. Of course, falling is all part of the skiing experience. We cheered them on, helped them up, and then it was back to tackling the slopes.
+
+What made the trip truly exhilarating was the thrill of **zooming down those mountains at breakneck speed**, with the **wind rushing past** and **adrenaline** pumping through our veins. It was an absolute rush! We pushed ourselves to the limits, daring each other to go faster and take on more extreme runs. The occasional **wipeout** added to the fun—one minute you’re skiing smoothly, and the next, you're making snow angels! Despite the falls, the overall experience was incredibly enjoyable.
+
+All in all, that skiing adventure with my university mates in Heilongjiang was a real blast. We had our fill of **thrills** on the slopes and strengthened our **friendships**. It's the kind of holiday memory that will put a smile on my face for years to come. I felt exhilarated, joyful, and grateful for the unforgettable time we shared together.
+
+---
+
 #### **09. Describe a beautiful city**
 
 **Key Vocabulary:**
@@ -328,6 +373,55 @@ I finally made my way to Hangzhou in the fall of 2022. It was the perfect time t
 Hangzhou has some impressive buildings too. The one that stands out most is the **Leifeng Tower**; it's an ancient Buddhist tower with a really long history. People say it's one of the symbols of Hangzhou. When it comes to gardens and courtyards, Hangzhou has some real gems, like the **Yue Temple** and the **Botanical Garden**. These places are like art in the form of gardens.
 
 But what makes Hangzhou truly famous is its breathtaking natural scenery, its rich culture, and its unique history. **West Lake** alone is enough to make it a top destination. It's famous not just because of the beauty, but also for the whole vibe—the tea culture and the delicious local food like **Longjing tea** and Hangzhou dishes. It's a city that's got it all, and I can't wait to go back someday.
+
+---
+
+#### **12. Describe a Good Advertisement That You Think Is Useful**
+
+**You should say:**
+
+- Where you can see it
+- What it shows
+- Why you think it is useful
+- And explain how you feel about it
+
+---
+
+**Key Vocabulary:**
+
+- **advertisement** /ˌædvərˈtaɪzmənt/: 广告
+- **informative** /ɪnˈfɔːrmətɪv/: 有信息量的
+- **browsing the internet** /ˈbraʊzɪŋ ði ˈɪntərnɛt/: 浏览互联网
+- **broadband services** /ˈbrɔːdbænd ˈsɜːrvɪsəz/: 宽带服务
+- **fiber optic connections** /ˈfaɪbər ˈɒptɪk kəˈnɛkʃənz/: 光纤连接
+- **internet speeds** /ˈɪntərnɛt spiːdz/: 互联网速度
+- **online gaming** /ˈɒnˌlaɪn ˈɡeɪmɪŋ/: 在线游戏
+- **attention** /əˈtɛnʃən/: 注意
+- **reliable service** /rɪˈlaɪəbl ˈsɜːrvɪs/: 可靠的服务
+- **informational** /ˌɪnfərˈmeɪʃənl/: 信息性的
+- **education** /ˌɛdjuˈkeɪʃən/: 教育
+- **upgrade** /ˈʌpɡreɪd/: 升级
+- **fiber optic cables** /ˈfaɪbər ˈɒptɪk ˈkeɪbəlz/: 光纤电缆
+- **enhance** /ɪnˈhæns/: 提升
+- **tangible improvement** /ˈtændʒəbl ɪmˈpruːvmənt/: 有形的改善
+- **decision-making process** /dɪˈsɪʒən ˈmeɪkɪŋ ˈprəʊsɛs/: 决策过程
+- **empowering** /ɛmˈpaʊərɪŋ/: 赋权的
+- **valuable information** /ˈvæljuəbl ˌɪnfərˈmeɪʃən/: 有价值的信息
+- **internet experience** /ˈɪntərnɛt ɪkˈspɪəriəns/: 互联网体验
+
+---
+
+**Sample Answer:**
+
+I recently came across an **advertisement** that I found not only informative but also incredibly useful. I encountered this ad while **browsing the internet** on my PC, and it addressed an issue I was facing with my home internet connection.
+
+The advertisement focused on **broadband services**, specifically highlighting the benefits of **fiber optic connections**. It emphasized how providers offering fiber optic connections could deliver exceptionally fast **internet speeds**, making it ideal for activities like **online gaming**. This immediately caught my **attention** because I am an avid gamer, and I had been struggling with internet outages during crucial gaming moments. My home had been using a previous internet service provider whose unreliable service often cut out, especially during peak usage times.
+
+What made this advertisement particularly useful was that it didn't directly promote a specific product or company. Instead, it **educated viewers** about the technology itself. It explained the impact of old copper wiring on internet speed and how upgrading to **fiber optic cables** could significantly **enhance** the internet experience. This newfound knowledge was eye-opening for me, as I had never considered that the physical infrastructure might be the root cause of my internet problems.
+
+Armed with this information, I decided to take action. I contacted the company mentioned in the ad and switched to their broadband service that offered fiber optic connectivity. The results were astounding. My internet is now incredibly fast and stable, especially for gaming. I couldn't be happier with the switch. The advertisement played a pivotal role in my **decision-making process**, and I believe it could help others who might be facing similar issues.
+
+This advertisement was not just useful but also **empowering**. It provided **valuable information**, leading to a **tangible improvement** in my internet experience. I feel grateful for coming across it, as it significantly enhanced my daily life and gaming sessions.
 
 ---
 
@@ -438,100 +532,90 @@ Personally, I strongly support and adhere to this rule. It instills **discipline
 
 ---
 
-### IELTS Speaking Preparation: Part 2
+### IELTS Speaking Preparation: Part 3
 
 ---
 
-#### **1. Describe an Exciting Activity That You Experienced with Someone Else**
+#### **Rules and Regulations**
 
-**You should say:**
+1. **What rules should children follow at home in your country?**
 
-- What the activity was
-- Who you were with
-- When and where it happened
-- Why you joined this activity
-- And explain how you felt about it
+   **Sample Answer:**
 
----
+   In China, there are certain rules that children are often encouraged to follow at home. **Respect for elders** is a fundamental one, which involves addressing elders with appropriate titles and showing deference to their opinions. **Studying diligently** and excelling in education is highly emphasized, reflecting the importance placed on academic achievement. Additionally, **cleanliness and tidiness** are important, so children are encouraged to keep their living spaces organized. Finally, traditional values like **filial piety**, where children show deep respect and care for their parents, are instilled from a young age.
 
-**Key Vocabulary:**
+2. **On what occasions can children be forgiven if they don't follow some rules?**
 
-- **skiing trip** /ˈskiːɪŋ trɪp/: 滑雪旅行
-- **university mates** /ˌjuːnɪˈvɜːsɪti meɪts/: 大学同学
-- **lads' holiday** /lædz ˈhɒlɪdeɪ/: 男子假期
-- **Heilongjiang** /ˌheɪləʊŋˈdʒæŋ/: 黑龙江
-- **tricky slopes** /ˈtrɪki sloʊps/: 难走的坡道
-- **seasoned skiers** /ˈsiːzənd ˈskiːərz/: 有经验的滑雪者
-- **Bambi learning to walk** /ˈbæmbi ˈlɜːnɪŋ tuː wɔːk/: 小鹿学步（比喻初学者）
-- **challenging runs** /ˈʧælɪnʤɪŋ rʌnz/: 挑战性的滑道
-- **somersault** /ˈsʌmərsɔːlt/: 空翻
-- **adrenaline** /əˈdrɛnəlɪn/: 肾上腺素
-- **breakneck speed** /ˈbreɪknɛk spiːd/: 飞快的速度
-- **wind rushing past** /wɪnd ˈrʌʃɪŋ pɑːst/: 风迅速掠过
-- **adventure** /ədˈvɛntʃər/: 冒险
-- **thrills** /θrɪlz/: 刺激
-- **friendships** /ˈfrɛndʃɪps/: 友谊
-- **unforgettable memory** /ˌʌnfərˈɡɛtəbl ˈmɛməri/: 难忘的记忆
+   **Sample Answer:**
+
+   Children can be forgiven for not following some rules on occasions like important holidays or family celebrations, such as Chinese New Year. During these times, there's often a more relaxed atmosphere, and the focus is on togetherness and joy. It's also understood that children may be more excitable or distracted during these events. However, it's essential to strike a balance between forgiveness and maintaining respect and decorum, especially in public or formal settings.
+
+3. **What rules should people follow when using public transport?**
+
+   **Sample Answer:**
+
+   Using public transport comes with many rules that people should follow. Firstly, it's crucial to **queue up** and **wait your turn** when boarding buses or trains. Cutting in lines is generally considered impolite and can lead to conflicts. **Seats designated** for the elderly, disabled, or pregnant passengers should be given up to those who need them. **Loud conversations** or playing music without headphones should be avoided as they can disturb fellow passengers. Additionally, **littering** and **vandalism** on public transport are unacceptable and can result in fines. Overall, it's about being considerate and maintaining a pleasant travel experience for everyone.
+
+4. **Do you think strict rules are necessary in school?**
+
+   **Sample Answer:**
+
+   In my view, having some level of strict rules in school is necessary. These rules create a structured and safe learning environment. They help maintain discipline and ensure that students can focus on their studies without disruption. However, it's essential to strike a balance. Rules should not be excessively strict to the point of stifling individuality or creativity. A balanced approach ensures that students learn discipline while also being able to express themselves and develop their unique talents.
 
 ---
 
-**Sample Answer:**
+#### **Sports and Exercise**
 
-I'd like to share an exciting experience I had during a **skiing trip** with my university mates on a lads' holiday. This adventure took place a while back during the winter break when we were all seeking some excitement to fill our holidays. We decided to go skiing in **Heilongjiang**, which is renowned in China as the go-to place for winter fun.
+1. **What kind of exercise do Chinese people like to do?**
 
-The trip was not just thrilling but also a hilarious adventure. Picture this: a group of us, all trying to stay upright on those **tricky slopes** in Heilongjiang. Some of us were **seasoned skiers**, while others were like Bambi learning to walk! We tackled some pretty **challenging runs**, and it was an absolute riot watching my friends **tumble** and **somersault** in the snow. Of course, falling is all part of the skiing experience. We cheered them on, helped them up, and then it was back to tackling the slopes.
+   **Sample Answer:**
 
-What made the trip truly exhilarating was the thrill of **zooming down those mountains at breakneck speed**, with the **wind rushing past** and **adrenaline** pumping through our veins. It was an absolute rush! We pushed ourselves to the limits, daring each other to go faster and take on more extreme runs. The occasional **wipeout** added to the fun—one minute you’re skiing smoothly, and the next, you're making snow angels! Despite the falls, the overall experience was incredibly enjoyable.
+   I would certainly say that **table tennis** is really popular in China. The equipment is really easy to carry around, all you need are two bats and a ball, which is very minimal. On top of that, the sport does not involve a lot of body contact, unlike basketball. So, most of the Chinese people would like to play table tennis. Additionally, other non-body contact sports like **badminton** are generally praised by the public. Lastly, **basketball** is one of the favorite sports in China, enjoyed by many across different age groups.
 
-All in all, that skiing adventure with my university mates in Heilongjiang was a real blast. We had our fill of **thrills** on the slopes and strengthened our **friendships**. It's the kind of holiday memory that will put a smile on my face for years to come. I felt exhilarated, joyful, and grateful for the unforgettable time we shared together.
+2. **What characteristics do you think an athlete should have?**
 
----
+   **Sample Answer:**
 
-#### **12. Describe a Good Advertisement That You Think Is Useful**
+   Well, when it comes to the characteristics that athletes should have, there's quite a few. First and foremost, **discipline** is crucial. Athletes need to stick to rigorous training regimens, stay committed to their sport, and push through challenges. **Dedication** is another key trait; they must be wholeheartedly invested in their craft. **Perseverance** is a big one because setbacks are part of the game, and athletes need to keep going. **Mental resilience** is vital for handling the pressure that often comes with competition. Of course, you can't forget about the physical aspects. Athletes need to be in peak physical condition, so fitness and agility are a must. And let's not overlook **teamwork** and **communication**, which are essential for team sports.
 
-**You should say:**
+3. **Do you think PE classes should be replaced by academic classes?**
 
-- Where you can see it
-- What it shows
-- Why you think it is useful
-- And explain how you feel about it
+   **Sample Answer:**
 
----
+   No, I don't think **Physical Education (PE)** classes should be replaced by academic classes. Teamwork and education include both academic and physical development because they complement each other. Physical activity can actually enhance academic performance by improving focus and reducing stress. Therefore, the two should go hand in hand to ensure students receive a holistic education that prepares them for success in all aspects of life.
 
-**Key Vocabulary:**
+4. **Is talent important in sports?**
 
-- **advertisement** /ˌædvərˈtaɪzmənt/: 广告
-- **informative** /ɪnˈfɔːrmətɪv/: 有信息量的
-- **browsing the internet** /ˈbraʊzɪŋ ði ˈɪntərnɛt/: 浏览互联网
-- **broadband services** /ˈbrɔːdbænd ˈsɜːrvɪsəz/: 宽带服务
-- **fiber optic connections** /ˈfaɪbər ˈɒptɪk kəˈnɛkʃənz/: 光纤连接
-- **internet speeds** /ˈɪntərnɛt spiːdz/: 互联网速度
-- **online gaming** /ˈɒnˌlaɪn ˈɡeɪmɪŋ/: 在线游戏
-- **attention** /əˈtɛnʃən/: 注意
-- **reliable service** /rɪˈlaɪəbl ˈsɜːrvɪs/: 可靠的服务
-- **informational** /ˌɪnfərˈmeɪʃənl/: 信息性的
-- **education** /ˌɛdjuˈkeɪʃən/: 教育
-- **upgrade** /ˈʌpɡreɪd/: 升级
-- **fiber optic cables** /ˈfaɪbər ˈɒptɪk ˈkeɪbəlz/: 光纤电缆
-- **enhance** /ɪnˈhæns/: 提升
-- **tangible improvement** /ˈtændʒəbl ɪmˈpruːvmənt/: 有形的改善
-- **decision-making process** /dɪˈsɪʒən ˈmeɪkɪŋ ˈprəʊsɛs/: 决策过程
-- **empowering** /ɛmˈpaʊərɪŋ/: 赋权的
-- **valuable information** /ˈvæljuəbl ˌɪnfərˈmeɪʃən/: 有价值的信息
-- **internet experience** /ˈɪntərnɛt ɪkˈspɪəriəns/: 互联网体验
+   **Sample Answer:**
+
+   Absolutely, talent plays a crucial role in sports. I think talent serves as the foundation upon which athletes build their skills. Natural abilities like speed, coordination, and strength can provide a significant advantage. I think talent determines how high you can reach as an athlete. However, talent alone isn't sufficient for success. **Discipline**, **hard work**, and a strong work ethic are equally vital. Many world-class athletes have reached their pinnacle not solely due to talent but through relentless training and dedication. Talent might open doors, but sustained success in sports demands relentless effort and unwavering commitment to improvement.
 
 ---
 
-**Sample Answer:**
+#### **Customer Service and Response**
 
-I recently came across an **advertisement** that I found not only informative but also incredibly useful. I encountered this ad while **browsing the internet** on my PC, and it addressed an issue I was facing with my home internet connection.
+1. **How do most people respond to bad services?**
 
-The advertisement focused on **broadband services**, specifically highlighting the benefits of **fiber optic connections**. It emphasized how providers offering fiber optic connections could deliver exceptionally fast **internet speeds**, making it ideal for activities like **online gaming**. This immediately caught my **attention** because I am an avid gamer, and I had been struggling with internet outages during crucial gaming moments. My home had been using a previous internet service provider whose unreliable service often cut out, especially during peak usage times.
+   **Sample Answer:**
 
-What made this advertisement particularly useful was that it didn't directly promote a specific product or company. Instead, it **educated viewers** about the technology itself. It explained the impact of old copper wiring on internet speed and how upgrading to **fiber optic cables** could significantly **enhance** the internet experience. This newfound knowledge was eye-opening for me, as I had never considered that the physical infrastructure might be the root cause of my internet problems.
+   Well, in my opinion, most people tend to respond to bad services with a mix of frustration and disappointment. However, it might also depend on their personality. I have seen some people overreact as they might express their dissatisfaction by complaining directly to the service provider, writing negative reviews, or seeking refunds, and some choose to escalate the issue to management or regulatory authorities. I have also seen some people choose not to say anything and just note down that they may never come to that restaurant again. Ultimately, the response varies depending on the severity of the problem and the individual's personality.
 
-Armed with this information, I decided to take action. I contacted the company mentioned in the ad and switched to their broadband service that offered fiber optic connectivity. The results were astounding. My internet is now incredibly fast and stable, especially for gaming. I couldn't be happier with the switch. The advertisement played a pivotal role in my **decision-making process**, and I believe it could help others who might be facing similar issues.
+2. **Do you think services are better now than in the past?**
 
-This advertisement was not just useful but also **empowering**. It provided **valuable information**, leading to a **tangible improvement** in my internet experience. I feel grateful for coming across it, as it significantly enhanced my daily life and gaming sessions.
+   **Sample Answer:**
+
+   In many ways, yes, services have improved over time thanks to advancements in technology and increased competition, which have raised the bar for service quality in various industries. Today, some services often have more choices, better convenience, and faster responses. Where one place does something, another place may copy, bringing more new ideas and ways to attract customers. However, the perception of service quality can be subjective and varies from person to person. Some customers may prefer certain ways of service, while others might want to keep it simple.
+
+3. **What kinds of services are bad service?**
+
+   **Sample Answer:**
+
+   Bad services can take many forms. They can include poor customer support, delayed deliveries, subpar product quality, or unmeasured services. Any service that falls short of customer expectations or violates agreed-upon standards can be considered bad service. However, again, some customers just have certain expectations naturally, so it varies depending on the person's expectations.
+
+4. **Why do some people choose to remain silent when they receive bad services?**
+
+   **Sample Answer:**
+
+   Well, I think there are several reasons why some people remain silent about bad services. They might fear confrontation, thinking that they would rather not make a scene than complain directly and possibly never come back to the place. Others might believe that it's not worth their time and effort, or worry about potential repercussions. The rest might not be aware of their rights as consumers or feel resigned to accept poor service as normal. In some cases, it's about personal temperament; not everyone is inclined to complain openly when they encounter problems.
 
 ---
