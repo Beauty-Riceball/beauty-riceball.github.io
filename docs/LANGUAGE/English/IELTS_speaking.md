@@ -620,6 +620,8 @@ Personally, I strongly support and adhere to this rule. It instills **discipline
 
 ---
 
+**SAMPLE1:**
+
 1-INTRO
 
 When I saw this topic, the first person that popped up in my mind is my neighbour Ms Li, who lives just a stone's throw away from my home.
@@ -642,6 +644,8 @@ To conclude, this person leaves a lasting influence on my life and holds a speci
 
 ---
 
+**SAMPLE2:**
+
 1-INTRO
 
 When I saw this topic, the first person that popped up in my mind is Olivia, who is an influencer on Bilibili.
@@ -661,6 +665,8 @@ One is that she is really hard-working and spends a lot of time and effort on th
 To conclude, Olivia has a profound impact on me as she inspired me to grow and achieve my goals. Anyway, she holds a special place in my heart and she comes at the top of my list among all the people I've ever known.
 
 ---
+
+**SAMPLE3:**
 
 1-INTRO
 
@@ -684,6 +690,8 @@ To conclude, there is no other place than this to make me feel refreshed. It alw
 
 ---
 
+**SAMPLE4:**
+
 1-INTRO
 
 When I saw this topic, the first place that popped up in my mind is my friend's living room.
@@ -705,6 +713,8 @@ and the other is that I can spend some quality time with my friends.
 To conclude, there is no other place than this to make me feel refreshed. It always puts a smile on my face whenever I think of it.
 
 ---
+
+**SAMPLE5:**
 
 1-INTRO
 
@@ -729,6 +739,8 @@ I have mixed feelings about it as it was both a challenging but inspiring proces
 To conclude, this experience is deeply rooted in my mind and will be cherished by me forever. It always puts a smile on my face whenever I think of it.
 
 ---
+
+**SAMPLE6:**
 
 1-INTRO
 
