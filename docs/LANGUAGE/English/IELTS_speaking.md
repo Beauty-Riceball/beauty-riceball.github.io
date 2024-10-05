@@ -619,3 +619,135 @@ Personally, I strongly support and adhere to this rule. It instills **discipline
    Well, I think there are several reasons why some people remain silent about bad services. They might fear confrontation, thinking that they would rather not make a scene than complain directly and possibly never come back to the place. Others might believe that it's not worth their time and effort, or worry about potential repercussions. The rest might not be aware of their rights as consumers or feel resigned to accept poor service as normal. In some cases, it's about personal temperament; not everyone is inclined to complain openly when they encounter problems.
 
 ---
+
+1-INTRO
+
+When I saw this topic, the first person that popped up in my mind is my neighbour Ms Li, who lives just a stone's throw away from my home.
+To tell you more about her, she is a cute old lady in her late 60s, who's of average height.
+with a round face and curly grey hair.
+Actually, she's really approachable and warm-hearted, like a ray of sunshine, actually.
+Besides, she is hale and hearty and maintains a positive life attitude.
+
+2-WHAT
+
+Speaking of what she has done, well,
+The most impressive thing about her is that she used to be a professor at a local university and she has a wealth of knowledge. Conversations with her are always truly captivating
+One conversation that left me the deepest impression was when she shared stories about her travels across different continents while studying various cultures. In turn, she encouraged me to share my own experiences and thoughts about studying abroad. At that time, I was struggling with my grades and was considering not going to do a master's programme in the UK. But she insisted on encouraging me to go abroad, saying it would be an unforgettable experience. I really had a blast with her that day. Hours flew by like seconds, and before I knew it, we were saying our goodbyes.
+
+3-WHY/HOW
+
+When it comes to how I feel about this person,
+One is that she is really knowledgeable and open-minded, which constantly inspires me. And the other is that she is as warm as a summer's day, and makes me feel delighted.
+To conclude, this person leaves a lasting influence on my life and holds a special place in my heart.
+
+---
+
+1-INTRO
+
+When I saw this topic, the first person that popped up in my mind is Olivia, who is an influencer on Bilibili.
+To tell you more about her, she is an absolutely attractive young woman who's slim and of average height, with a round face and brown straight hair.
+Actually, she's really ambitious and self-disciplined, a go-getter, actually. Besides, she is someone with a positive life attitude and is always ready to go the extra mile to do things that she's passionate about.
+
+2-WHAT
+
+Speaking of what she has done, well,
+The most impressive thing about her is that she is an influencer on Bilibili with over 1 million followers. She has a channel on Bilibili to share her favourite books, including fiction and poetry. Moreover, she released a video offering valuable tips on how to take reading notes this year, which turned out to be a big hit.
+One video that left me the deepest impression was when she shared stories about her travels across different continents while studying various cultures through visiting local libraries and bookstores. At that time, I was struggling with my grades and was considering not going to do a master's programme in the UK. But this video encouraged me to go abroad and made me realise it would be an unforgettable experience. Really had a blast watching her video that day.
+
+3-WHY/HOW
+
+When it comes to why she likes to read and how I feel about the person,
+One is that she is really hard-working and spends a lot of time and effort on things that she's keen on, and the other is that she never stops exceeding herself, which really inspired me.
+To conclude, Olivia has a profound impact on me as she inspired me to grow and achieve my goals. Anyway, she holds a special place in my heart and she comes at the top of my list among all the people I've ever known.
+
+---
+
+1-INTRO
+
+When I saw this topic, the first place that popped up in my mind is a park.
+To tell you more about it, this park is a popular destination in my community, which is just a stone's throw away from my home.
+So one afternoon, during one summer vacation, while my friends and I were discussing where to recharge and unwind after final exams, I suggested having a picnic party together in this park.
+After that, we usually go there.
+
+2-WHAT
+
+Speaking of what it is like and what you often do there, well, I wanna share with you.
+Talking about the scenery of the park, it's second to none. In fact, it's like a paradise for all my friends to enjoy the serene and picturesque view. When we go there, we enjoy the lush greenery and vibrant flowers along the peaceful walking paths.
+In terms of the leisure activities in the park, they're also beyond compare. As a matter of fact, there's a large lawn for people to sit, lie down and have a picnic, and it's a particularly popular activity among the younger generation, including us. When we are there, we prepare food and chat about our lives on the lawn.
+
+3-WHY/HOW
+
+When it comes to how I feel about it, well,
+One is that the spectacular view in the park brings a sense of calm to my overloaded mind.
+and the other is that I can spend some quality time with my friends.
+To conclude, there is no other place than this to make me feel refreshed. It always puts a smile on my face whenever I think of it.
+
+---
+
+1-INTRO
+
+When I saw this topic, the first place that popped up in my mind is my friend's living room.
+To tell you some background information, she lives in a quite spacious apartment with her family.
+Besides, it's absolutely spotless and organised because her family members are meticulous when it comes to cleaning the house and they keep everything clean and in its proper place.
+
+2-WHAT
+
+Speaking of what it is like, well,
+Talking about the scenery from the window, it's second to none. In fact, her home is located in a great neighbourhood, which is just a stone's throw away from the city centre.
+Therefore, we can see a spectacular view of the city from the large French window of the living room.
+In terms of what I can do in it, my friends and I usually curl up on her cozy sofa, watching our favourite reality show, while eating fruits and snacks. Meanwhile, we often chat about our days at work or school, or play card games to recharge and unwind.
+
+3-WHY/HOW
+
+When it comes to why I really like it, well,
+One is that the spectacular view from the window brings a sense of calm to my overloaded mind,
+and the other is that I can spend some quality time with my friends.
+To conclude, there is no other place than this to make me feel refreshed. It always puts a smile on my face whenever I think of it.
+
+---
+
+1-INTRO
+
+When I saw this topic, the first experience that popped up in my mind is attending a debate competition.
+To tell you more about it, this competition is quite a popular annual event at our university that attracts almost everyone to gather and watch it each year.
+However, I was extremely nervous about this competition when I was preparing for it because
+I'm not very confident in giving a speech.
+Whenever I thought of the possibility of failing it, I felt a bit down in the dumps.
+
+2-WHAT
+
+Speaking of why you thought it was a difficult challenge, well,
+On the first few days, we found it difficult to write a perfect draft because we were completely lost and didn't know where to begin. As a result, we started procrastinating and felt blue.
+But as they say, "There's light at the end of the tunnel." A day later, I discussed with my teammates and we gave each other tons of tips and guidance. We made a detailed plan that could break this task into many small and doable steps, which could help us finish the draft more efficiently and with better quality.
+Later on, we began to make progress and finished our speech draft in just two days.
+Finally, we were over the moon to find out we got the third place for the competition.
+
+3-WHY/HOW
+
+When it comes to how I felt at the time, well,
+I have mixed feelings about it as it was both a challenging but inspiring process. It was such a challenge because I almost didn't make it, while it was truly inspiring to witness myself overcome obstacles and become a better version of myself along the way.
+To conclude, this experience is deeply rooted in my mind and will be cherished by me forever. It always puts a smile on my face whenever I think of it.
+
+---
+
+1-INTRO
+
+When I saw this topic, the first occasion that popped up in my mind was helping my 20-year-old cousin, Olivia, decide to apply to the computer science programme at her dream university.
+To tell you more about it, it happened last winter, when the Spring Festival was just around the corner, when I was visiting my aunt's, you know, Olivia's mum's place. Olivia asked me if I could help her because she knew I have a knack for coding and I'm working as an AI engineer.
+In fact, she's always been interested in the theory and usage of coding. Unfortunately, the things she learned in school have nothing to do with computer science or mathematics. Because of that, she wasn't sure she could pull it off so she asked me for advice.
+
+2-WHAT
+
+Speaking of how I helped, well,
+First, I told her what studying computer science at university is like, including the courses she would take and how challenging the exams can be. This gave her a basic understanding of the major and a clear picture of what to expect in the near future.
+I also talked about career prospects, for example, I shared what my work life is like, including my schedule and salary. I was hoping to show her that this is a promising career path that's worth pursuing.
+Finally, I encouraged her to believe in herself. I helped her see that no matter what major she chooses, she'll succeed because she's both smart and hardworking.
+
+3-WHY/HOW
+
+When it comes to how I felt about the experience, well,
+A few months later, she told me she had made up her mind in the end and was admitted to her dream school. To be honest, I was over the moon and even burst into tears when I first heard the news. On top of that, it was such an honor when she asked me to accompany her to the college's opening ceremony.
+To conclude, this experience is deeply rooted in my mind and I will cherish this memory forever.
+In the future, whenever I think of it, it will always put a smile on my face.
+
+---
