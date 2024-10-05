@@ -128,6 +128,26 @@ In my opinion, while **advertising** remains a potent tool for shaping **consume
 - **consumer fatigue** /kənˈsjuːmər fəˈtiːɡ/: 消费者疲劳
 - **engaging and targeted campaigns** /ɪnˈɡeɪdʒɪŋ ænd ˈtɑːɡətɪd kæmˈpeɪnz/: 有吸引力和有针对性的活动
 - **crowded marketplace** /ˈkraʊdɪd ˈmɑːkɪtpleɪs/: 拥挤的市场
+- **meticulously crafted** /məˈtɪkjʊləsli kræft/: 精心制作的
+- **boost sales** /buːst seɪlz/: 提高销售
+- **drive consumer interest** /draɪv kənˈsjuːmər ˈɪntrəst/: 推动消费者兴趣
+- **generate excitement** /ˈdʒɛnəreɪt ɪkˈsaɪtmənt/: 产生兴奋
+- **habitual skipping** /həˈbɪtjʊəl ˈskɪpɪŋ/: 习惯性跳过
+- **diminishing effectiveness** /dɪˈmɪnɪʃɪŋ ɪˈfɛktɪvnəs/: 效果减弱
+- **fostering negative brand perceptions** /ˈfɒstərɪŋ ˈnɛɡətɪv brænd pərˈsɛpʃənz/: 培养负面品牌认知
+- **persuading** /pərˈsweɪdɪŋ/: 说服
+- **omnipresent** /ɒmˈnɪprɪznt/: 无处不在的
+- **billboards** /ˈbɪlbɔːrdz/: 广告牌
+- **substantially** /səbˈstænʃəli/: 大量地，实质上
+- **repetitive** /rɪˈpɛtətɪv/: 重复的
+- **desensitization** /ˌdɛsənˌsɪtɪˈzeɪʃən/: 脱敏
+- **campaigns** /kæmˈpeɪnz/: 活动，运动
+- **boost** /buːst/: 提高
+- **drive** /draɪv/: 驱动，推动
+- **generate** /ˈdʒɛnəreɪt/: 产生
+- **excitement** /ɪkˈsaɪtmənt/: 兴奋
+- **habitual** /həˈbɪtjʊəl/: 习惯的
+- **diminishing** /dɪˈmɪnɪʃɪŋ/: 减少的
 
 ### Essay 4
 
@@ -164,3 +184,16 @@ In my opinion, while encouraging children to strive for their goals is beneficia
 - **distorted perception of reality** /dɪsˈtɔːtɪd pərˈsɛpʃən əv riˈælɪti/: 对现实的扭曲认知
 - **overcome all barriers** /ˌəʊvərˈkʌm ɔːl ˈbærɪəz/: 克服所有障碍
 - **Balancing motivation with realistic expectations** /ˈbælənsɪŋ ˌməʊtɪˈveɪʃən wɪð ˌriːəˈlɪstɪk ˌɛkspɛkˈteɪʃənz/: 在激励与现实期望之间取得平衡
+- **affirming** /əˈfɜːmɪŋ/: 肯定
+- **prevalent** /ˈprɛvələnt/: 流行的，普遍的
+- **drawbacks** /ˈdrɔːbækz/: 缺点
+- **warrant** /ˈwɒrənt/: 保证，担保
+- **diligent** /ˈdɪlɪdʒənt/: 勤奋的
+- **empowering** /ɪmˈpaʊərɪŋ/: 赋予权力
+- **embrace** /ɪmˈbreɪs/: 拥抱，接受
+- **frustration** /frʌˌstreɪʃən/: 挫折
+- **overlook** /ˌəʊvərˈlʊk/: 忽视
+- **consequently** /ˈkɒnsɪkwəntli/: 因此
+- **equally important** /ˈiːkwəli ɪmˈpɔːtənt/: 同样重要
+- **complexities** /ˌkɒmplɪˈksɪtiz/: 复杂性
+- **challenges** /ˈtʃælɪndʒɪz/: 挑战
